@@ -1,0 +1,1012 @@
+pollno,race,year,location,type_simple,type_detail,pollster,partisan,polldate,samplesize,cand1_name,cand1_pct,cand2_name,cand2_pct,cand3_pct,margin_poll,electiondate,cand1_actual,cand2_actual,margin_actual,error,bias,rightcall,comment
+5383706,2008_Pres-G_CT,2008,CT,Pres-G,Pres-G,Rasmussen Reports/Pulse Opinion Research,NA,10/14/08,500,Democrat,56,Republican,39,NA,17,11/4/08,60.59,38.22,22.37,5.37,-5.37,1,NA
+5383707,2008_Pres-G_FL,2008,FL,Pres-G,Pres-G,Research 2000,NA,10/14/08,600,Democrat,49,Republican,45,NA,4,11/4/08,51.03,48.22,2.81,1.19,1.19,1,NA
+5383708,2008_Pres-G_MA,2008,MA,Pres-G,Pres-G,SurveyUSA,NA,10/14/08,624,Democrat,59,Republican,35,NA,24,11/4/08,61.8,35.99,25.81,1.81,-1.81,1,NA
+5383709,2008_Pres-G_ND,2008,ND,Pres-G,Pres-G,DFM Research,D,10/14/08,504,Democrat,44,Republican,41,NA,3,11/4/08,44.62,53.25,-8.63,11.63,11.63,0,NA
+5383710,2008_Pres-G_NY,2008,NY,Pres-G,Pres-G,Rasmussen Reports/Pulse Opinion Research,NA,10/14/08,500,Democrat,57,Republican,37,NA,20,11/4/08,62.91,36.04,26.87,6.87,-6.87,1,NA
+5383711,2008_Pres-G_OH,2008,OH,Pres-G,Pres-G,Rasmussen Reports/Pulse Opinion Research,NA,10/14/08,700,Democrat,49,Republican,49,NA,0,11/4/08,50.62,46.1,4.52,4.52,-4.52,0.5,NA
+5383712,2008_Pres-G_OR,2008,OR,Pres-G,Pres-G,Rasmussen Reports/Pulse Opinion Research,NA,10/14/08,500,Democrat,54,Republican,41,NA,13,11/4/08,56.75,40.4,16.35,3.35,-3.35,1,NA
+5383713,2008_Pres-G_SD,2008,SD,Pres-G,Pres-G,"Mason-Dixon Polling & Research, Inc.",NA,10/14/08,800,Democrat,41,Republican,48,NA,-7,11/4/08,44.75,53.16,-8.41,1.41,1.41,1,NA
+5383714,2008_Pres-G_US,2008,US,Pres-G,Pres-G,Financial Dynamics,NA,10/14/08,817,Democrat,49,Republican,41,NA,8,11/4/08,52.92,45.66,7.26,0.74,0.74,1,aka Hotline/Diageo
+5383715,2008_Pres-G_US,2008,US,Pres-G,Pres-G,Gallup,NA,10/14/08,2313,Democrat,51,Republican,45,NA,6,11/4/08,52.92,45.66,7.26,1.26,-1.26,1,NA
+5383716,2008_Pres-G_WY,2008,WY,Pres-G,Pres-G,"Mason-Dixon Polling & Research, Inc.",NA,10/14/08,625,Democrat,32,Republican,58,NA,-26,11/4/08,31.31,62.33,-31.02,5.02,5.02,1,NA
+5383735,2008_Pres-G_AK,2008,AK,Pres-G,Pres-G,Research 2000,NA,10/15/08,600,Democrat,38,Republican,57,NA,-19,11/4/08,37.89,59.42,-21.53,2.53,2.53,1,NA
+5383736,2008_Pres-G_GA,2008,GA,Pres-G,Pres-G,Research 2000,NA,10/15/08,600,Democrat,43,Republican,49,NA,-6,11/4/08,46.99,52.2,-5.21,0.79,-0.79,1,NA
+5383737,2008_Pres-G_ME,2008,ME,Pres-G,Pres-G,Pan Atlantic SMS Group,NA,10/15/08,400,Democrat,51.3,Republican,38.5,NA,12.8,11/4/08,57.71,40.38,17.33,4.53,-4.53,1,NA
+5383738,2008_Pres-G_ME,2008,ME,Pres-G,Pres-G,Research 2000,NA,10/15/08,600,Democrat,53,Republican,38,NA,15,11/4/08,57.71,40.38,17.33,2.33,-2.33,1,NA
+5383739,2008_Pres-G_MO,2008,MO,Pres-G,Pres-G,Rasmussen Reports/Pulse Opinion Research,NA,10/15/08,700,Democrat,52,Republican,46,NA,6,11/4/08,49.29,49.43,-0.14,6.14,6.14,0,NA
+5383740,2008_Pres-G_MS,2008,MS,Pres-G,Pres-G,Research 2000,NA,10/15/08,600,Democrat,40,Republican,50,NA,-10,11/4/08,43,56.18,-13.18,3.18,3.18,1,NA
+5383741,2008_Pres-G_NC,2008,NC,Pres-G,Pres-G,Research 2000,NA,10/15/08,600,Democrat,46,Republican,44,NA,2,11/4/08,49.7,49.37,0.33,1.67,1.67,1,NA
+5383742,2008_Pres-G_ND,2008,ND,Pres-G,Pres-G,Research 2000,NA,10/15/08,500,Democrat,45,Republican,45,NA,0,11/4/08,44.62,53.25,-8.63,8.63,8.63,0.5,NA
+5383743,2008_Pres-G_OR,2008,OR,Pres-G,Pres-G,Research 2000,NA,10/15/08,600,Democrat,53,Republican,38,NA,15,11/4/08,56.75,40.4,16.35,1.35,-1.35,1,NA
+5383744,2008_Pres-G_OR,2008,OR,Pres-G,Pres-G,Riley Research Associates,NA,10/15/08,499,Democrat,48,Republican,34,NA,14,11/4/08,56.75,40.4,16.35,2.35,-2.35,1,NA
+5383745,2008_Pres-G_TX,2008,TX,Pres-G,Pres-G,Research 2000,NA,10/15/08,600,Democrat,40,Republican,52,NA,-12,11/4/08,43.68,55.45,-11.77,0.23,-0.23,1,NA
+5383746,2008_Pres-G_US,2008,US,Pres-G,Pres-G,Rasmussen Reports/Pulse Opinion Research,NA,10/15/08,3000,Democrat,50,Republican,46,NA,4,11/4/08,52.92,45.66,7.26,3.26,-3.26,1,NA
+5383747,2008_Pres-G_US,2008,US,Pres-G,Pres-G,Research 2000,NA,10/15/08,1100,Democrat,52,Republican,42,NA,10,11/4/08,52.92,45.66,7.26,2.74,2.74,1,NA
+5383748,2008_Pres-G_US,2008,US,Pres-G,Pres-G,Zogby Interactive/JZ Analytics,NA,10/15/08,1210,Democrat,48.7,Republican,43.7,NA,5,11/4/08,52.92,45.66,7.26,2.26,-2.26,1,"previously listed as Zogby Analytics, telephone"
+5383749,2008_Pres-G_WV,2008,WV,Pres-G,Pres-G,Rainmaker Media Group,NA,10/15/08,600,Democrat,41.3,Republican,41.7,NA,-0.4,11/4/08,42.59,55.71,-13.12,12.72,12.72,1,NA
+5383750,2008_Pres-G_WY,2008,WY,Pres-G,Pres-G,Research 2000,NA,10/15/08,500,Democrat,35,Republican,58,NA,-23,11/4/08,31.31,62.33,-31.02,8.02,8.02,1,NA
+5383771,2008_Pres-G_AL,2008,AL,Pres-G,Pres-G,Capital Survey Research Center,NA,10/16/08,606,Democrat,34,Republican,54,NA,-20,11/4/08,38.74,60.32,-21.58,1.58,1.58,1,NA
+5383772,2008_Pres-G_CA,2008,CA,Pres-G,Pres-G,Public Policy Institute of California,NA,10/16/08,1186,Democrat,56,Republican,33,NA,23,11/4/08,61.01,36.95,24.06,1.06,-1.06,1,NA
+5383773,2008_Pres-G_CA,2008,CA,Pres-G,Pres-G,SurveyUSA,NA,10/16/08,615,Democrat,59,Republican,35,NA,24,11/4/08,61.01,36.95,24.06,0.06,-0.06,1,NA
+5383774,2008_Pres-G_CO,2008,CO,Pres-G,Pres-G,Rasmussen Reports/Pulse Opinion Research,NA,10/16/08,700,Democrat,52,Republican,45,NA,7,11/4/08,53.66,44.71,8.95,1.95,-1.95,1,NA
+5383775,2008_Pres-G_FL,2008,FL,Pres-G,Pres-G,SurveyUSA,NA,10/16/08,553,Democrat,47,Republican,49,NA,-2,11/4/08,51.03,48.22,2.81,4.81,-4.81,0,NA
+5383776,2008_Pres-G_KY,2008,KY,Pres-G,Pres-G,Research 2000,NA,10/16/08,600,Democrat,39,Republican,53,NA,-14,11/4/08,41.17,57.4,-16.23,2.23,2.23,1,NA
+5383777,2008_Pres-G_MN,2008,MN,Pres-G,Pres-G,Research 2000,NA,10/16/08,600,Democrat,52,Republican,39,NA,13,11/4/08,54.06,43.82,10.24,2.76,2.76,1,NA
+5383778,2008_Pres-G_MT,2008,MT,Pres-G,Pres-G,Research 2000,NA,10/16/08,500,Democrat,45,Republican,49,NA,-4,11/4/08,47.25,49.51,-2.26,1.74,-1.74,1,NA
+5383779,2008_Pres-G_NV,2008,NV,Pres-G,Pres-G,Rasmussen Reports/Pulse Opinion Research,NA,10/16/08,700,Democrat,50,Republican,45,NA,5,11/4/08,55.15,42.65,12.5,7.5,-7.5,1,NA
+5383780,2008_Pres-G_PA,2008,PA,Pres-G,Pres-G,Muhlenberg College,NA,10/16/08,593,Democrat,52,Republican,40,NA,12,11/4/08,54.56,44.23,10.33,1.67,1.67,1,NA
+5383781,2008_Pres-G_TN,2008,TN,Pres-G,Pres-G,Rasmussen Reports/Pulse Opinion Research,NA,10/16/08,500,Democrat,42,Republican,54,NA,-12,11/4/08,40.28,54.79,-14.51,2.51,2.51,1,NA
+5383782,2008_Pres-G_US,2008,US,Pres-G,Pres-G,Franklin & Marshall College,NA,10/16/08,800,Democrat,50,Republican,45,NA,5,11/4/08,52.92,45.66,7.26,2.26,-2.26,1,NA
+5383783,2008_Pres-G_US,2008,US,Pres-G,Pres-G,George Washington University (Battleground),NA,10/16/08,1000,Democrat,48,Republican,47,NA,1,11/4/08,52.92,45.66,7.26,6.26,-6.26,1,NA
+5383784,2008_Pres-G_VA,2008,VA,Pres-G,Pres-G,Rasmussen Reports/Pulse Opinion Research,NA,10/16/08,700,Democrat,54,Republican,44,NA,10,11/4/08,52.63,46.33,6.3,3.7,3.7,1,NA
+5383792,2008_Pres-G_IL,2008,IL,Pres-G,Pres-G,Market Shares Corp.,NA,10/17/08,500,Democrat,56,Republican,32,NA,24,11/4/08,61.92,36.78,25.14,1.14,-1.14,1,NA
+5383793,2008_Pres-G_MN,2008,MN,Pres-G,Pres-G,Princeton Survey Research Associates International,NA,10/17/08,1049,Democrat,52,Republican,41,NA,11,11/4/08,54.06,43.82,10.24,0.76,0.76,1,for Star Tribune
+5383794,2008_Pres-G_MN,2008,MN,Pres-G,Pres-G,SurveyUSA,NA,10/17/08,655,Democrat,50,Republican,44,NA,6,11/4/08,54.06,43.82,10.24,4.24,-4.24,1,NA
+5383795,2008_Pres-G_NJ,2008,NJ,Pres-G,Pres-G,Monmouth University,NA,10/17/08,723,Democrat,55,Republican,38,NA,17,11/4/08,57.27,41.7,15.57,1.43,1.43,1,NA
+5383796,2008_Pres-G_OH,2008,OH,Pres-G,Pres-G,"Mason-Dixon Polling & Research, Inc.",NA,10/17/08,625,Democrat,45,Republican,46,NA,-1,11/4/08,50.62,46.1,4.52,5.52,-5.52,0,NA
+5383797,2008_Pres-G_US,2008,US,Pres-G,Pres-G,Financial Dynamics,NA,10/17/08,795,Democrat,48,Republican,41,NA,7,11/4/08,52.92,45.66,7.26,0.26,-0.26,1,aka Hotline/Diageo
+5383798,2008_Pres-G_US,2008,US,Pres-G,Pres-G,Gallup,NA,10/17/08,2277,Democrat,51,Republican,44,NA,7,11/4/08,52.92,45.66,7.26,0.26,-0.26,1,NA
+5383799,2008_Pres-G_US,2008,US,Pres-G,Pres-G,Greenberg Quinlan Rosner (Democracy Corps),NA,10/17/08,1000,Democrat,49,Republican,44,NA,5,11/4/08,52.92,45.66,7.26,2.26,-2.26,1,NA
+5383800,2008_Pres-G_WI,2008,WI,Pres-G,Pres-G,"Mason-Dixon Polling & Research, Inc.",NA,10/17/08,625,Democrat,51,Republican,39,NA,12,11/4/08,56.34,42.41,13.93,1.93,-1.93,1,NA
+5383801,2008_Pres-G_WV,2008,WV,Pres-G,Pres-G,"Mason-Dixon Polling & Research, Inc.",NA,10/17/08,625,Democrat,41,Republican,47,NA,-6,11/4/08,42.59,55.71,-13.12,7.12,7.12,1,NA
+5383802,2008_Pres-G_WV,2008,WV,Pres-G,Pres-G,Public Policy Polling,NA,10/17/08,1223,Democrat,42,Republican,50,NA,-8,11/4/08,42.59,55.71,-13.12,5.12,5.12,1,NA
+5383817,2008_Pres-G_AK,2008,AK,Pres-G,Pres-G,Ivan Moore Research,NA,10/18/08,500,Democrat,42,Republican,53,NA,-11,11/4/08,37.89,59.42,-21.53,10.53,10.53,1,NA
+5383818,2008_Pres-G_AZ,2008,AZ,Pres-G,Pres-G,Zimmerman & Associates/Marketing Intelligence,NA,10/18/08,408,Democrat,41.5,Republican,43.5,NA,-2,11/4/08,45.12,53.64,-8.52,6.52,6.52,1,NA
+5383819,2008_Pres-G_FL,2008,FL,Pres-G,Pres-G,Public Policy Polling,NA,10/18/08,1158,Democrat,48,Republican,47,NA,1,11/4/08,51.03,48.22,2.81,1.81,-1.81,1,NA
+5383820,2008_Pres-G_GA,2008,GA,Pres-G,Pres-G,Greenberg Quinlan Rosner (Democracy Corps),NA,10/18/08,600,Democrat,44,Republican,46,NA,-2,11/4/08,46.99,52.2,-5.21,3.21,3.21,1,NA
+5383821,2008_Pres-G_ME,2008,ME,Pres-G,Pres-G,Critical Insights,NA,10/18/08,443,Democrat,56,Republican,35,NA,21,11/4/08,57.71,40.38,17.33,3.67,3.67,1,NA
+5383822,2008_Pres-G_MN,2008,MN,Pres-G,Pres-G,National Journal,NA,10/18/08,412,Democrat,50,Republican,40,NA,10,11/4/08,54.06,43.82,10.24,0.24,-0.24,1,NA
+5383823,2008_Pres-G_MN,2008,MN,Pres-G,Pres-G,St. Cloud State University,NA,10/18/08,417,Democrat,43,Republican,37,NA,6,11/4/08,54.06,43.82,10.24,4.24,-4.24,1,NA
+5383824,2008_Pres-G_MO,2008,MO,Pres-G,Pres-G,Suffolk University,NA,10/18/08,600,Democrat,44,Republican,45,NA,-1,11/4/08,49.29,49.43,-0.14,0.86,-0.86,1,NA
+5383825,2008_Pres-G_MS,2008,MS,Pres-G,Pres-G,University of South Alabama,NA,10/18/08,403,Democrat,33,Republican,46,NA,-13,11/4/08,43,56.18,-13.18,0.18,0.18,1,NA
+5383826,2008_Pres-G_MT,2008,MT,Pres-G,Pres-G,Montana State University Billings,NA,10/18/08,403,Democrat,44.4,Republican,40.2,NA,4.2,11/4/08,47.25,49.51,-2.26,6.46,6.46,0,NA
+5383827,2008_Pres-G_NH,2008,NH,Pres-G,Pres-G,Research 2000,NA,10/18/08,600,Democrat,50,Republican,43,NA,7,11/4/08,54.13,44.52,9.61,2.61,-2.61,1,NA
+5383828,2008_Pres-G_NJ,2008,NJ,Pres-G,Pres-G,Quinnipiac University,NA,10/18/08,1184,Democrat,59,Republican,36,NA,23,11/4/08,57.27,41.7,15.57,7.43,7.43,1,NA
+5383829,2008_Pres-G_OH,2008,OH,Pres-G,Pres-G,Ohio University,NA,10/18/08,611,Democrat,57,Republican,41,NA,16,11/4/08,50.62,46.1,4.52,11.48,11.48,1,NA
+5383830,2008_Pres-G_OH,2008,OH,Pres-G,Pres-G,Suffolk University,NA,10/18/08,600,Democrat,51,Republican,42,NA,9,11/4/08,50.62,46.1,4.52,4.48,4.48,1,NA
+5383831,2008_Pres-G_PA,2008,PA,Pres-G,Pres-G,National Journal,NA,10/18/08,402,Democrat,51,Republican,41,NA,10,11/4/08,54.56,44.23,10.33,0.33,-0.33,1,NA
+5383832,2008_Pres-G_PA,2008,PA,Pres-G,Pres-G,"Susquehanna Polling & Research, Inc.",NA,10/18/08,700,Democrat,48,Republican,40,NA,8,11/4/08,54.56,44.23,10.33,2.33,-2.33,1,NA
+5383833,2008_Pres-G_SC,2008,SC,Pres-G,Pres-G,Rasmussen Reports/Pulse Opinion Research,NA,10/18/08,500,Democrat,43,Republican,54,NA,-11,11/4/08,44.9,53.87,-8.97,2.03,-2.03,1,NA
+5383834,2008_Pres-G_US,2008,US,Pres-G,Pres-G,GfK Group,NA,10/18/08,800,Democrat,44,Republican,43,NA,1,11/4/08,52.92,45.66,7.26,6.26,-6.26,1,NA
+5383835,2008_Pres-G_US,2008,US,Pres-G,Pres-G,CBS News/New York Times,NA,10/18/08,327,Democrat,54,Republican,41,NA,13,11/4/08,52.92,45.66,7.26,5.74,5.74,1,NA
+5383836,2008_Pres-G_US,2008,US,Pres-G,Pres-G,CNN/Opinion Research Corp.,NA,10/18/08,746,Democrat,49,Republican,43,NA,6,11/4/08,52.92,45.66,7.26,1.26,-1.26,1,NA
+5383837,2008_Pres-G_US,2008,US,Pres-G,Pres-G,Harris Interactive,NA,10/18/08,1390,Democrat,50,Republican,44,NA,6,11/4/08,52.92,45.66,7.26,1.26,-1.26,1,"previously listed as Harris Interactive, online"
+5383838,2008_Pres-G_US,2008,US,Pres-G,Pres-G,IBD/TIPP,NA,10/18/08,1088,Democrat,46.9,Republican,40.9,NA,6,11/4/08,52.92,45.66,7.26,1.26,-1.26,1,NA
+5383839,2008_Pres-G_US,2008,US,Pres-G,Pres-G,Ipsos,NA,10/18/08,773,Democrat,50,Republican,42,NA,8,11/4/08,52.92,45.66,7.26,0.74,0.74,1,"previously listed as Ipsos, telephone"
+5383840,2008_Pres-G_US,2008,US,Pres-G,Pres-G,Pew Research Center,NA,10/18/08,2382,Democrat,53,Republican,39,NA,14,11/4/08,52.92,45.66,7.26,6.74,6.74,1,NA
+5383841,2008_Pres-G_US,2008,US,Pres-G,Pres-G,Rasmussen Reports/Pulse Opinion Research,NA,10/18/08,3000,Democrat,50,Republican,46,NA,4,11/4/08,52.92,45.66,7.26,3.26,-3.26,1,NA
+5383842,2008_Pres-G_US,2008,US,Pres-G,Pres-G,Research 2000,NA,10/18/08,1100,Democrat,50,Republican,42,NA,8,11/4/08,52.92,45.66,7.26,0.74,0.74,1,NA
+5383843,2008_Pres-G_US,2008,US,Pres-G,Pres-G,Zogby Interactive/JZ Analytics,NA,10/18/08,1211,Democrat,49.8,Republican,44.4,NA,5.4,11/4/08,52.92,45.66,7.26,1.86,-1.86,1,"previously listed as Zogby Analytics, telephone"
+5383844,2008_Pres-G_WA,2008,WA,Pres-G,Pres-G,Elway Research,NA,10/18/08,405,Democrat,55,Republican,36,NA,19,11/4/08,57.65,40.48,17.17,1.83,1.83,1,NA
+5383845,2008_Pres-G_WI,2008,WI,Pres-G,Pres-G,National Journal,NA,10/18/08,405,Democrat,53,Republican,40,NA,13,11/4/08,56.34,42.41,13.93,0.93,-0.93,1,NA
+5383862,2008_Pres-G_CO,2008,CO,Pres-G,Pres-G,Rasmussen Reports/Pulse Opinion Research,NA,10/19/08,1000,Democrat,51,Republican,46,NA,5,11/4/08,53.66,44.71,8.95,3.95,-3.95,1,NA
+5383863,2008_Pres-G_CO,2008,CO,Pres-G,Pres-G,Zogby Interactive/JZ Analytics,NA,10/19/08,951,Democrat,48.2,Republican,47.9,NA,0.3,11/4/08,53.66,44.71,8.95,8.65,-8.65,1,NA
+5383864,2008_Pres-G_FL,2008,FL,Pres-G,Pres-G,Quinnipiac University,NA,10/19/08,1433,Democrat,49,Republican,44,NA,5,11/4/08,51.03,48.22,2.81,2.19,2.19,1,NA
+5383865,2008_Pres-G_FL,2008,FL,Pres-G,Pres-G,Rasmussen Reports/Pulse Opinion Research,NA,10/19/08,1000,Democrat,48,Republican,49,NA,-1,11/4/08,51.03,48.22,2.81,3.81,-3.81,0,NA
+5383866,2008_Pres-G_FL,2008,FL,Pres-G,Pres-G,Zogby Interactive/JZ Analytics,NA,10/19/08,1252,Democrat,48.8,Republican,45.2,NA,3.6,11/4/08,51.03,48.22,2.81,0.79,0.79,1,NA
+5383867,2008_Pres-G_IN,2008,IN,Pres-G,Pres-G,Public Policy Polling,NA,10/19/08,1411,Democrat,48,Republican,46,NA,2,11/4/08,49.77,48.74,1.03,0.97,0.97,1,NA
+5383868,2008_Pres-G_IN,2008,IN,Pres-G,Pres-G,Zogby Interactive/JZ Analytics,NA,10/19/08,473,Democrat,42.3,Republican,52.8,NA,-10.5,11/4/08,49.77,48.74,1.03,11.53,-11.53,0,NA
+5383869,2008_Pres-G_KY,2008,KY,Pres-G,Pres-G,SurveyUSA,NA,10/19/08,535,Democrat,41,Republican,54,NA,-13,11/4/08,41.17,57.4,-16.23,3.23,3.23,1,NA
+5383870,2008_Pres-G_MO,2008,MO,Pres-G,Pres-G,Rasmussen Reports/Pulse Opinion Research,NA,10/19/08,1000,Democrat,49,Republican,44,NA,5,11/4/08,49.29,49.43,-0.14,5.14,5.14,0,NA
+5383871,2008_Pres-G_MO,2008,MO,Pres-G,Pres-G,Zogby Interactive/JZ Analytics,NA,10/19/08,717,Democrat,48,Republican,48.3,NA,-0.3,11/4/08,49.29,49.43,-0.14,0.16,-0.16,1,NA
+5383872,2008_Pres-G_NC,2008,NC,Pres-G,Pres-G,Opinion Savvy/InsiderAdvantage,NA,10/19/08,698,Democrat,49,Republican,48,NA,1,11/4/08,49.7,49.37,0.33,0.67,0.67,1,previously listed as InsiderAdvantage
+5383873,2008_Pres-G_NC,2008,NC,Pres-G,Pres-G,Public Policy Polling,NA,10/19/08,1200,Democrat,51,Republican,44,NA,7,11/4/08,49.7,49.37,0.33,6.67,6.67,1,NA
+5383874,2008_Pres-G_NC,2008,NC,Pres-G,Pres-G,Rasmussen Reports/Pulse Opinion Research,NA,10/19/08,1000,Democrat,51,Republican,48,NA,3,11/4/08,49.7,49.37,0.33,2.67,2.67,1,NA
+5383875,2008_Pres-G_NC,2008,NC,Pres-G,Pres-G,SurveyUSA,NA,10/19/08,627,Democrat,47,Republican,47,NA,0,11/4/08,49.7,49.37,0.33,0.33,-0.33,0.5,NA
+5383876,2008_Pres-G_NC,2008,NC,Pres-G,Pres-G,Tel Opinion Research,NA,10/19/08,600,Democrat,48,Republican,45,NA,3,11/4/08,49.7,49.37,0.33,2.67,2.67,1,aka Civitas
+5383877,2008_Pres-G_NC,2008,NC,Pres-G,Pres-G,Zogby Interactive/JZ Analytics,NA,10/19/08,921,Democrat,49.6,Republican,46.5,NA,3.1,11/4/08,49.7,49.37,0.33,2.77,2.77,1,NA
+5383878,2008_Pres-G_NH,2008,NH,Pres-G,Pres-G,Zogby Interactive/JZ Analytics,NA,10/19/08,466,Democrat,46.5,Republican,46.2,NA,0.3,11/4/08,54.13,44.52,9.61,9.31,-9.31,1,NA
+5383879,2008_Pres-G_NM,2008,NM,Pres-G,Pres-G,Zogby Interactive/JZ Analytics,NA,10/19/08,534,Democrat,46.1,Republican,45.5,NA,0.6,11/4/08,56.91,41.78,15.13,14.53,-14.53,1,NA
+5383880,2008_Pres-G_NV,2008,NV,Pres-G,Pres-G,Opinion Savvy/InsiderAdvantage,NA,10/19/08,690,Democrat,47,Republican,47,NA,0,11/4/08,55.15,42.65,12.5,12.5,-12.5,0.5,previously listed as InsiderAdvantage
+5383881,2008_Pres-G_NV,2008,NV,Pres-G,Pres-G,Zogby Interactive/JZ Analytics,NA,10/19/08,670,Democrat,44,Republican,51.5,NA,-7.5,11/4/08,55.15,42.65,12.5,20,-20,0,NA
+5383882,2008_Pres-G_OH,2008,OH,Pres-G,Pres-G,Quinnipiac University,NA,10/19/08,1360,Democrat,52,Republican,38,NA,14,11/4/08,50.62,46.1,4.52,9.48,9.48,1,NA
+5383883,2008_Pres-G_OH,2008,OH,Pres-G,Pres-G,Rasmussen Reports/Pulse Opinion Research,NA,10/19/08,1000,Democrat,47,Republican,49,NA,-2,11/4/08,50.62,46.1,4.52,6.52,-6.52,0,NA
+5383884,2008_Pres-G_OH,2008,OH,Pres-G,Pres-G,Zogby Interactive/JZ Analytics,NA,10/19/08,991,Democrat,46.5,Republican,49.3,NA,-2.8,11/4/08,50.62,46.1,4.52,7.32,-7.32,0,NA
+5383885,2008_Pres-G_OK,2008,OK,Pres-G,Pres-G,SurveyUSA,NA,10/19/08,561,Democrat,35,Republican,59,NA,-24,11/4/08,34.35,65.65,-31.3,7.3,7.3,1,NA
+5383886,2008_Pres-G_PA,2008,PA,Pres-G,Pres-G,Quinnipiac University,NA,10/19/08,1425,Democrat,53,Republican,40,NA,13,11/4/08,54.56,44.23,10.33,2.67,2.67,1,NA
+5383887,2008_Pres-G_TX,2008,TX,Pres-G,Pres-G,University of Texas,NA,10/19/08,550,Democrat,40,Republican,51,NA,-11,11/4/08,43.68,55.45,-11.77,0.77,0.77,1,"previously listed as University of Texas, telephone"
+5383888,2008_Pres-G_US,2008,US,Pres-G,Pres-G,American Research Group,NA,10/19/08,1200,Democrat,49,Republican,45,NA,4,11/4/08,52.92,45.66,7.26,3.26,-3.26,1,NA
+5383889,2008_Pres-G_US,2008,US,Pres-G,Pres-G,NBC News/Wall Street Journal,NA,10/19/08,1159,Democrat,50,Republican,39,NA,11,11/4/08,52.92,45.66,7.26,3.74,3.74,1,NA
+5383890,2008_Pres-G_VA,2008,VA,Pres-G,Pres-G,SurveyUSA,NA,10/19/08,652,Democrat,51,Republican,45,NA,6,11/4/08,52.63,46.33,6.3,0.3,-0.3,1,NA
+5383891,2008_Pres-G_VA,2008,VA,Pres-G,Pres-G,Zogby Interactive/JZ Analytics,NA,10/19/08,922,Democrat,49.7,Republican,46.1,NA,3.6,11/4/08,52.63,46.33,6.3,2.7,-2.7,1,NA
+5383892,2008_Pres-G_WI,2008,WI,Pres-G,Pres-G,SurveyUSA,NA,10/19/08,641,Democrat,51,Republican,43,NA,8,11/4/08,56.34,42.41,13.93,5.93,-5.93,1,NA
+5383893,2008_Pres-G_WY,2008,WY,Pres-G,Pres-G,SurveyUSA,NA,10/19/08,604,Democrat,37,Republican,58,NA,-21,11/4/08,31.31,62.33,-31.02,10.02,10.02,1,NA
+5383908,2008_Pres-G_CO,2008,CO,Pres-G,Pres-G,Opinion Savvy/InsiderAdvantage,NA,10/20/08,576,Democrat,51,Republican,46,NA,5,11/4/08,53.66,44.71,8.95,3.95,-3.95,1,previously listed as InsiderAdvantage
+5383909,2008_Pres-G_CT,2008,CT,Pres-G,Pres-G,University of Connecticut,NA,10/20/08,502,Democrat,56,Republican,31,NA,25,11/4/08,60.59,38.22,22.37,2.63,2.63,1,NA
+5383910,2008_Pres-G_KY,2008,KY,Pres-G,Pres-G,Research 2000,NA,10/20/08,600,Democrat,39,Republican,55,NA,-16,11/4/08,41.17,57.4,-16.23,0.23,0.23,1,NA
+5383911,2008_Pres-G_ME,2008,ME,Pres-G,Pres-G,Market Decisions,NA,10/20/08,425,Democrat,54,Republican,33,NA,21,11/4/08,57.71,40.38,17.33,3.67,3.67,1,NA
+5383912,2008_Pres-G_ME,2008,ME,Pres-G,Pres-G,SurveyUSA,NA,10/20/08,642,Democrat,54,Republican,39,NA,15,11/4/08,57.71,40.38,17.33,2.33,-2.33,1,NA
+5383913,2008_Pres-G_MI,2008,MI,Pres-G,Pres-G,EPIC-MRA,NA,10/20/08,400,Democrat,51,Republican,37,NA,14,11/4/08,57.43,40.96,16.47,2.47,-2.47,1,NA
+5383914,2008_Pres-G_NC,2008,NC,Pres-G,Pres-G,CNN/Opinion Research Corp.,NA,10/20/08,644,Democrat,51,Republican,46,NA,5,11/4/08,49.7,49.37,0.33,4.67,4.67,1,NA
+5383915,2008_Pres-G_NH,2008,NH,Pres-G,Pres-G,University of New Hampshire,NA,10/20/08,725,Democrat,54,Republican,39,NA,15,11/4/08,54.13,44.52,9.61,5.39,5.39,1,NA
+5383916,2008_Pres-G_NV,2008,NV,Pres-G,Pres-G,CNN/Opinion Research Corp.,NA,10/20/08,700,Democrat,49,Republican,43,NA,6,11/4/08,55.15,42.65,12.5,6.5,-6.5,1,NA
+5383917,2008_Pres-G_NY,2008,NY,Pres-G,Pres-G,Siena College,NA,10/20/08,721,Democrat,62,Republican,31,NA,31,11/4/08,62.91,36.04,26.87,4.13,4.13,1,NA
+5383918,2008_Pres-G_OH,2008,OH,Pres-G,Pres-G,CNN/Opinion Research Corp.,NA,10/20/08,737,Democrat,49,Republican,44,NA,5,11/4/08,50.62,46.1,4.52,0.48,0.48,1,NA
+5383919,2008_Pres-G_OH,2008,OH,Pres-G,Pres-G,University of Cincinnati (Ohio Poll),NA,10/20/08,886,Democrat,49,Republican,46,NA,3,11/4/08,50.62,46.1,4.52,1.52,-1.52,1,NA
+5383920,2008_Pres-G_OK,2008,OK,Pres-G,Pres-G,SoonerPoll.com,NA,10/20/08,763,Democrat,32.4,Republican,63.7,NA,-31.3,11/4/08,34.35,65.65,-31.3,0,0,1,NA
+5383921,2008_Pres-G_US,2008,US,Pres-G,Pres-G,CBS News/New York Times,NA,10/20/08,699,Democrat,52,Republican,39,NA,13,11/4/08,52.92,45.66,7.26,5.74,5.74,1,NA
+5383922,2008_Pres-G_US,2008,US,Pres-G,Pres-G,Financial Dynamics,NA,10/20/08,782,Democrat,47,Republican,42,NA,5,11/4/08,52.92,45.66,7.26,2.26,-2.26,1,aka Hotline/Diageo
+5383923,2008_Pres-G_US,2008,US,Pres-G,Pres-G,Gallup,NA,10/20/08,2331,Democrat,52,Republican,44,NA,8,11/4/08,52.92,45.66,7.26,0.74,0.74,1,NA
+5383924,2008_Pres-G_VA,2008,VA,Pres-G,Pres-G,CNN/Opinion Research Corp.,NA,10/20/08,647,Democrat,51,Republican,44,NA,7,11/4/08,52.63,46.33,6.3,0.7,0.7,1,NA
+5383925,2008_Pres-G_WV,2008,WV,Pres-G,Pres-G,CNN/Opinion Research Corp.,NA,10/20/08,674,Democrat,41,Republican,53,NA,-12,11/4/08,42.59,55.71,-13.12,1.12,1.12,1,NA
+5383926,2008_Pres-G_WV,2008,WV,Pres-G,Pres-G,Rasmussen Reports/Pulse Opinion Research,NA,10/20/08,500,Democrat,43,Republican,52,NA,-9,11/4/08,42.59,55.71,-13.12,4.12,4.12,1,NA
+5383966,2008_Pres-G_FL,2008,FL,Pres-G,Pres-G,"Mason-Dixon Polling & Research, Inc.",NA,10/21/08,625,Democrat,45,Republican,46,NA,-1,11/4/08,51.03,48.22,2.81,3.81,-3.81,0,NA
+5383967,2008_Pres-G_FL,2008,FL,Pres-G,Pres-G,"Schroth, Eldon & Associates",NA,10/21/08,800,Democrat,49,Republican,42,NA,7,11/4/08,51.03,48.22,2.81,4.19,4.19,1,NA
+5383968,2008_Pres-G_FL,2008,FL,Pres-G,Pres-G,"Strategic Vision, LLC",NA,10/21/08,1200,Democrat,46,Republican,48,NA,-2,11/4/08,51.03,48.22,2.81,4.81,-4.81,0,NA
+5383969,2008_Pres-G_GA,2008,GA,Pres-G,Pres-G,"Strategic Vision, LLC",NA,10/21/08,800,Democrat,45,Republican,51,NA,-6,11/4/08,46.99,52.2,-5.21,0.79,-0.79,1,NA
+5383970,2008_Pres-G_IA,2008,IA,Pres-G,Pres-G,Big Ten,NA,10/21/08,586,Democrat,52.4,Republican,39.1,NA,13.3,11/4/08,53.93,44.39,9.54,3.76,3.76,1,NA
+5383971,2008_Pres-G_IA,2008,IA,Pres-G,Pres-G,Research 2000,NA,10/21/08,600,Democrat,54,Republican,39,NA,15,11/4/08,53.93,44.39,9.54,5.46,5.46,1,NA
+5383972,2008_Pres-G_ID,2008,ID,Pres-G,Pres-G,"Harstad Strategic Research, Inc.",NA,10/21/08,503,Democrat,32,Republican,55,NA,-23,11/4/08,36.09,61.52,-25.43,2.43,2.43,1,NA
+5383973,2008_Pres-G_IL,2008,IL,Pres-G,Pres-G,Big Ten,NA,10/21/08,572,Democrat,61.2,Republican,31.6,NA,29.6,11/4/08,61.92,36.78,25.14,4.46,4.46,1,NA
+5383974,2008_Pres-G_IN,2008,IN,Pres-G,Pres-G,Big Ten,NA,10/21/08,586,Democrat,51,Republican,41.5,NA,9.5,11/4/08,49.77,48.74,1.03,8.47,8.47,1,NA
+5383975,2008_Pres-G_KY,2008,KY,Pres-G,Pres-G,Rasmussen Reports/Pulse Opinion Research,NA,10/21/08,500,Democrat,44,Republican,52,NA,-8,11/4/08,41.17,57.4,-16.23,8.23,8.23,1,NA
+5383976,2008_Pres-G_LA,2008,LA,Pres-G,Pres-G,Rasmussen Reports/Pulse Opinion Research,NA,10/21/08,500,Democrat,41,Republican,57,NA,-16,11/4/08,39.93,58.56,-18.63,2.63,2.63,1,NA
+5383977,2008_Pres-G_MA,2008,MA,Pres-G,Pres-G,Suffolk University,NA,10/21/08,400,Democrat,53,Republican,34,NA,19,11/4/08,61.8,35.99,25.81,6.81,-6.81,1,NA
+5383978,2008_Pres-G_MI,2008,MI,Pres-G,Pres-G,Big Ten,NA,10/21/08,562,Democrat,58.1,Republican,35.8,NA,22.3,11/4/08,57.43,40.96,16.47,5.83,5.83,1,NA
+5383979,2008_Pres-G_MN,2008,MN,Pres-G,Pres-G,Big Ten,NA,10/21/08,583,Democrat,57.3,Republican,37.9,NA,19.4,11/4/08,54.06,43.82,10.24,9.16,9.16,1,NA
+5383980,2008_Pres-G_NC,2008,NC,Pres-G,Pres-G,Marshall Marketing & Communications,NA,10/21/08,500,Democrat,48.4,Republican,46.4,NA,2,11/4/08,49.7,49.37,0.33,1.67,1.67,1,NA
+5383981,2008_Pres-G_NJ,2008,NJ,Pres-G,Pres-G,Marist College,NA,10/21/08,628,Democrat,56,Republican,39,NA,17,11/4/08,57.27,41.7,15.57,1.43,1.43,1,NA
+5383982,2008_Pres-G_OH,2008,OH,Pres-G,Pres-G,Big Ten,NA,10/21/08,564,Democrat,52.5,Republican,41,NA,11.5,11/4/08,50.62,46.1,4.52,6.98,6.98,1,NA
+5383983,2008_Pres-G_OH,2008,OH,Pres-G,Pres-G,"Strategic Vision, LLC",NA,10/21/08,1200,Democrat,45,Republican,48,NA,-3,11/4/08,50.62,46.1,4.52,7.52,-7.52,0,NA
+5383984,2008_Pres-G_PA,2008,PA,Pres-G,Pres-G,Big Ten,NA,10/21/08,566,Democrat,51.9,Republican,41.5,NA,10.4,11/4/08,54.56,44.23,10.33,0.07,0.07,1,NA
+5383985,2008_Pres-G_PA,2008,PA,Pres-G,Pres-G,Muhlenberg College,NA,10/21/08,608,Democrat,52,Republican,40,NA,12,11/4/08,54.56,44.23,10.33,1.67,1.67,1,NA
+5383986,2008_Pres-G_PA,2008,PA,Pres-G,Pres-G,"Strategic Vision, LLC",NA,10/21/08,1200,Democrat,50,Republican,43,NA,7,11/4/08,54.56,44.23,10.33,3.33,-3.33,1,NA
+5383987,2008_Pres-G_TX,2008,TX,Pres-G,Pres-G,Rasmussen Reports/Pulse Opinion Research,NA,10/21/08,500,Democrat,44,Republican,54,NA,-10,11/4/08,43.68,55.45,-11.77,1.77,1.77,1,NA
+5383988,2008_Pres-G_US,2008,US,Pres-G,Pres-G,ABC News/Washington Post,NA,10/21/08,1335,Democrat,54,Republican,43,NA,11,11/4/08,52.92,45.66,7.26,3.74,3.74,1,NA
+5383989,2008_Pres-G_US,2008,US,Pres-G,Pres-G,Big Ten,NA,10/21/08,1014,Democrat,51.5,Republican,42.5,NA,9,11/4/08,52.92,45.66,7.26,1.74,1.74,1,NA
+5383990,2008_Pres-G_US,2008,US,Pres-G,Pres-G,Fox News/Opinion Dynamics Corp.,NA,10/21/08,900,Democrat,49,Republican,40,NA,9,11/4/08,52.92,45.66,7.26,1.74,1.74,1,NA
+5383991,2008_Pres-G_US,2008,US,Pres-G,Pres-G,George Washington University (Battleground),NA,10/21/08,1000,Democrat,49,Republican,46,NA,3,11/4/08,52.92,45.66,7.26,4.26,-4.26,1,NA
+5383992,2008_Pres-G_US,2008,US,Pres-G,Pres-G,Rasmussen Reports/Pulse Opinion Research,NA,10/21/08,3000,Democrat,52,Republican,45,NA,7,11/4/08,52.92,45.66,7.26,0.26,-0.26,1,NA
+5383993,2008_Pres-G_US,2008,US,Pres-G,Pres-G,Research 2000,NA,10/21/08,1100,Democrat,51,Republican,41,NA,10,11/4/08,52.92,45.66,7.26,2.74,2.74,1,NA
+5383994,2008_Pres-G_US,2008,US,Pres-G,Pres-G,YouGov,NA,10/21/08,1000,Democrat,49,Republican,41,NA,8,11/4/08,52.92,45.66,7.26,0.74,0.74,1,NA
+5383995,2008_Pres-G_US,2008,US,Pres-G,Pres-G,Zogby Interactive/JZ Analytics,NA,10/21/08,1206,Democrat,52.2,Republican,40.3,NA,11.9,11/4/08,52.92,45.66,7.26,4.64,4.64,1,"previously listed as Zogby Analytics, telephone"
+5383996,2008_Pres-G_VA,2008,VA,Pres-G,Pres-G,"Mason-Dixon Polling & Research, Inc.",NA,10/21/08,625,Democrat,47,Republican,45,NA,2,11/4/08,52.63,46.33,6.3,4.3,-4.3,1,NA
+5383997,2008_Pres-G_VA,2008,VA,Pres-G,Pres-G,Virginia Commonwealth University,NA,10/21/08,817,Democrat,51,Republican,40,NA,11,11/4/08,52.63,46.33,6.3,4.7,4.7,1,NA
+5383998,2008_Pres-G_WI,2008,WI,Pres-G,Pres-G,Big Ten,NA,10/21/08,584,Democrat,52.9,Republican,40.5,NA,12.4,11/4/08,56.34,42.41,13.93,1.53,-1.53,1,NA
+5383999,2008_Pres-G_WI,2008,WI,Pres-G,Pres-G,Research 2000,NA,10/21/08,600,Democrat,52,Republican,41,NA,11,11/4/08,56.34,42.41,13.93,2.93,-2.93,1,NA
+5384000,2008_Pres-G_WV,2008,WV,Pres-G,Pres-G,Orion Strategies,NA,10/21/08,600,Democrat,43.5,Republican,49.2,NA,-5.7,11/4/08,42.59,55.71,-13.12,7.42,7.42,1,NA
+5384022,2008_Pres-G_AR,2008,AR,Pres-G,Pres-G,Research 2000,NA,10/22/08,600,Democrat,41,Republican,52,NA,-11,11/4/08,38.86,58.72,-19.86,8.86,8.86,1,NA
+5384023,2008_Pres-G_CO,2008,CO,Pres-G,Pres-G,Public Opinion Strategies,NA,10/22/08,500,Democrat,52,Republican,40,NA,12,11/4/08,53.66,44.71,8.95,3.05,3.05,1,aka Rocky Mountain News
+5384024,2008_Pres-G_GA,2008,GA,Pres-G,Pres-G,Rasmussen Reports/Pulse Opinion Research,NA,10/22/08,500,Democrat,46,Republican,51,NA,-5,11/4/08,46.99,52.2,-5.21,0.21,0.21,1,NA
+5384025,2008_Pres-G_IL,2008,IL,Pres-G,Pres-G,Research 2000,NA,10/22/08,800,Democrat,59,Republican,35,NA,24,11/4/08,61.92,36.78,25.14,1.14,-1.14,1,NA
+5384026,2008_Pres-G_IN,2008,IN,Pres-G,Pres-G,SurveyUSA,NA,10/22/08,631,Democrat,49,Republican,45,NA,4,11/4/08,49.77,48.74,1.03,2.97,2.97,1,NA
+5384027,2008_Pres-G_KS,2008,KS,Pres-G,Pres-G,SurveyUSA,NA,10/22/08,613,Democrat,41,Republican,53,NA,-12,11/4/08,41.65,56.61,-14.96,2.96,2.96,1,NA
+5384028,2008_Pres-G_LA,2008,LA,Pres-G,Pres-G,Southeastern Louisiana University,NA,10/22/08,503,Democrat,38.3,Republican,50.6,NA,-12.3,11/4/08,39.93,58.56,-18.63,6.33,6.33,1,NA
+5384029,2008_Pres-G_MN,2008,MN,Pres-G,Pres-G,Rasmussen Reports/Pulse Opinion Research,NA,10/22/08,500,Democrat,56,Republican,41,NA,15,11/4/08,54.06,43.82,10.24,4.76,4.76,1,NA
+5384030,2008_Pres-G_MO,2008,MO,Pres-G,Pres-G,Research 2000,NA,10/22/08,800,Democrat,48,Republican,47,NA,1,11/4/08,49.29,49.43,-0.14,1.14,1.14,0,NA
+5384031,2008_Pres-G_NY,2008,NY,Pres-G,Pres-G,Marist College,NA,10/22/08,527,Democrat,65,Republican,29,NA,36,11/4/08,62.91,36.04,26.87,9.13,9.13,1,NA
+5384032,2008_Pres-G_OH,2008,OH,Pres-G,Pres-G,Public Policy Polling,NA,10/22/08,993,Democrat,51,Republican,44,NA,7,11/4/08,50.62,46.1,4.52,2.48,2.48,1,NA
+5384033,2008_Pres-G_PA,2008,PA,Pres-G,Pres-G,SurveyUSA,NA,10/22/08,620,Democrat,53,Republican,41,NA,12,11/4/08,54.56,44.23,10.33,1.67,1.67,1,NA
+5384034,2008_Pres-G_TN,2008,TN,Pres-G,Pres-G,Research 2000,NA,10/22/08,600,Democrat,38,Republican,54,NA,-16,11/4/08,40.28,54.79,-14.51,1.49,-1.49,1,NA
+5384035,2008_Pres-G_US,2008,US,Pres-G,Pres-G,Greenberg Quinlan Rosner (Democracy Corps),NA,10/22/08,1000,Democrat,52,Republican,43,NA,9,11/4/08,52.92,45.66,7.26,1.74,1.74,1,NA
+5384036,2008_Pres-G_US,2008,US,Pres-G,Pres-G,Knowledge Networks,NA,10/22/08,1753,Democrat,50,Republican,43,NA,7,11/4/08,52.92,45.66,7.26,0.26,-0.26,1,NA
+5384037,2008_Pres-G_VA,2008,VA,Pres-G,Pres-G,Public Policy Polling,NA,10/22/08,1231,Democrat,52,Republican,43,NA,9,11/4/08,52.63,46.33,6.3,2.7,2.7,1,NA
+5384038,2008_Pres-G_WA,2008,WA,Pres-G,Pres-G,Rasmussen Reports/Pulse Opinion Research,NA,10/22/08,500,Democrat,54,Republican,43,NA,11,11/4/08,57.65,40.48,17.17,6.17,-6.17,1,NA
+5384039,2008_Pres-G_WA,2008,WA,Pres-G,Pres-G,University of Washington,NA,10/22/08,600,Democrat,55,Republican,34,NA,21,11/4/08,57.65,40.48,17.17,3.83,3.83,1,NA
+5384057,2008_Pres-G_AZ,2008,AZ,Pres-G,Pres-G,Northern Arizona University,NA,10/23/08,600,Democrat,41,Republican,49,NA,-8,11/4/08,45.12,53.64,-8.52,0.52,0.52,1,NA
+5384058,2008_Pres-G_CA,2008,CA,Pres-G,Pres-G,Field Research Corporation (Field Poll),NA,10/23/08,966,Democrat,55,Republican,33,NA,22,11/4/08,61.01,36.95,24.06,2.06,-2.06,1,NA
+5384059,2008_Pres-G_FL,2008,FL,Pres-G,Pres-G,Opinion Savvy/InsiderAdvantage,NA,10/23/08,562,Democrat,48,Republican,47,NA,1,11/4/08,51.03,48.22,2.81,1.81,-1.81,1,previously listed as InsiderAdvantage
+5384060,2008_Pres-G_GA,2008,GA,Pres-G,Pres-G,Opinion Savvy/InsiderAdvantage,NA,10/23/08,615,Democrat,48,Republican,47,NA,1,11/4/08,46.99,52.2,-5.21,6.21,6.21,0,previously listed as InsiderAdvantage
+5384061,2008_Pres-G_GA,2008,GA,Pres-G,Pres-G,"Mason-Dixon Polling & Research, Inc.",NA,10/23/08,625,Democrat,43,Republican,49,NA,-6,11/4/08,46.99,52.2,-5.21,0.79,-0.79,1,NA
+5384062,2008_Pres-G_IA,2008,IA,Pres-G,Pres-G,"Mason-Dixon Polling & Research, Inc.",NA,10/23/08,625,Democrat,51,Republican,40,NA,11,11/4/08,53.93,44.39,9.54,1.46,1.46,1,NA
+5384063,2008_Pres-G_IA,2008,IA,Pres-G,Pres-G,Rasmussen Reports/Pulse Opinion Research,NA,10/23/08,700,Democrat,52,Republican,44,NA,8,11/4/08,53.93,44.39,9.54,1.54,-1.54,1,NA
+5384064,2008_Pres-G_MO,2008,MO,Pres-G,Pres-G,"Mason-Dixon Polling & Research, Inc.",NA,10/23/08,625,Democrat,45,Republican,46,NA,-1,11/4/08,49.29,49.43,-0.14,0.86,-0.86,1,NA
+5384065,2008_Pres-G_NC,2008,NC,Pres-G,Pres-G,"Mason-Dixon Polling & Research, Inc.",NA,10/23/08,800,Democrat,47,Republican,47,NA,0,11/4/08,49.7,49.37,0.33,0.33,-0.33,0.5,NA
+5384066,2008_Pres-G_NC,2008,NC,Pres-G,Pres-G,Rasmussen Reports/Pulse Opinion Research,NA,10/23/08,700,Democrat,48,Republican,50,NA,-2,11/4/08,49.7,49.37,0.33,2.33,-2.33,0,NA
+5384067,2008_Pres-G_NH,2008,NH,Pres-G,Pres-G,Marist College,NA,10/23/08,655,Democrat,50,Republican,45,NA,5,11/4/08,54.13,44.52,9.61,4.61,-4.61,1,NA
+5384068,2008_Pres-G_NH,2008,NH,Pres-G,Pres-G,Rasmussen Reports/Pulse Opinion Research,NA,10/23/08,700,Democrat,50,Republican,46,NA,4,11/4/08,54.13,44.52,9.61,5.61,-5.61,1,NA
+5384069,2008_Pres-G_OH,2008,OH,Pres-G,Pres-G,Opinion Savvy/InsiderAdvantage,NA,10/23/08,408,Democrat,52,Republican,42,NA,10,11/4/08,50.62,46.1,4.52,5.48,5.48,1,previously listed as InsiderAdvantage
+5384070,2008_Pres-G_PA,2008,PA,Pres-G,Pres-G,Temple University,NA,10/23/08,761,Democrat,52,Republican,43,NA,9,11/4/08,54.56,44.23,10.33,1.33,-1.33,1,NA
+5384071,2008_Pres-G_SD,2008,SD,Pres-G,Pres-G,Research 2000,NA,10/23/08,600,Democrat,41,Republican,50,NA,-9,11/4/08,44.75,53.16,-8.41,0.59,-0.59,1,NA
+5384072,2008_Pres-G_US,2008,US,Pres-G,Pres-G,Financial Dynamics,NA,10/23/08,869,Democrat,50,Republican,43,NA,7,11/4/08,52.92,45.66,7.26,0.26,-0.26,1,aka Hotline/Diageo
+5384073,2008_Pres-G_US,2008,US,Pres-G,Pres-G,Gallup,NA,10/23/08,2358,Democrat,51,Republican,43,NA,8,11/4/08,52.92,45.66,7.26,0.74,0.74,1,NA
+5384074,2008_Pres-G_US,2008,US,Pres-G,Pres-G,IBD/TIPP,NA,10/23/08,886,Democrat,46.5,Republican,43.3,NA,3.2,11/4/08,52.92,45.66,7.26,4.06,-4.06,1,NA
+5384075,2008_Pres-G_US,2008,US,Pres-G,Pres-G,Princeton Survey Research Associates International,NA,10/23/08,882,Democrat,53,Republican,41,NA,12,11/4/08,52.92,45.66,7.26,4.74,4.74,1,NA
+5384076,2008_Pres-G_VA,2008,VA,Pres-G,Pres-G,Roanoke College,NA,10/23/08,614,Democrat,48,Republican,39,NA,9,11/4/08,52.63,46.33,6.3,2.7,2.7,1,NA
+5384077,2008_Pres-G_WI,2008,WI,Pres-G,Pres-G,Rasmussen Reports/Pulse Opinion Research,NA,10/23/08,500,Democrat,51,Republican,44,NA,7,11/4/08,56.34,42.41,13.93,6.93,-6.93,1,NA
+5384078,2008_Pres-G_WV,2008,WV,Pres-G,Pres-G,Research 2000,NA,10/23/08,600,Democrat,43,Republican,49,NA,-6,11/4/08,42.59,55.71,-13.12,7.12,7.12,1,NA
+5384094,2008_Pres-G_AZ,2008,AZ,Pres-G,Pres-G,Grove Insight,NA,10/24/08,600,Democrat,40,Republican,44,NA,-4,11/4/08,45.12,53.64,-8.52,4.52,4.52,1,NA
+5384095,2008_Pres-G_CO,2008,CO,Pres-G,Pres-G,GfK Group,NA,10/24/08,626,Democrat,50,Republican,41,NA,9,11/4/08,53.66,44.71,8.95,0.05,0.05,1,NA
+5384096,2008_Pres-G_FL,2008,FL,Pres-G,Pres-G,GfK Group,NA,10/24/08,600,Democrat,45,Republican,43,NA,2,11/4/08,51.03,48.22,2.81,0.81,-0.81,1,NA
+5384097,2008_Pres-G_FL,2008,FL,Pres-G,Pres-G,Quinnipiac University,NA,10/24/08,1435,Democrat,47,Republican,45,NA,2,11/4/08,51.03,48.22,2.81,0.81,-0.81,1,NA
+5384098,2008_Pres-G_IA,2008,IA,Pres-G,Pres-G,Marist College,NA,10/24/08,625,Democrat,52,Republican,42,NA,10,11/4/08,53.93,44.39,9.54,0.46,0.46,1,NA
+5384099,2008_Pres-G_IN,2008,IN,Pres-G,Pres-G,Howey Politics/DePauw University,NA,10/24/08,600,Democrat,45,Republican,47,NA,-2,11/4/08,49.77,48.74,1.03,3.03,-3.03,0,NA
+5384100,2008_Pres-G_IN,2008,IN,Pres-G,Pres-G,Research 2000,NA,10/24/08,600,Democrat,46,Republican,45,NA,1,11/4/08,49.77,48.74,1.03,0.03,-0.03,1,NA
+5384101,2008_Pres-G_MT,2008,MT,Pres-G,Pres-G,"Mason-Dixon Polling & Research, Inc.",NA,10/24/08,625,Democrat,44,Republican,48,NA,-4,11/4/08,47.25,49.51,-2.26,1.74,-1.74,1,NA
+5384102,2008_Pres-G_NC,2008,NC,Pres-G,Pres-G,GfK Group,NA,10/24/08,601,Democrat,48,Republican,46,NA,2,11/4/08,49.7,49.37,0.33,1.67,1.67,1,NA
+5384103,2008_Pres-G_NH,2008,NH,Pres-G,Pres-G,GfK Group,NA,10/24/08,600,Democrat,55,Republican,37,NA,18,11/4/08,54.13,44.52,9.61,8.39,8.39,1,NA
+5384104,2008_Pres-G_NH,2008,NH,Pres-G,Pres-G,"Mason-Dixon Polling & Research, Inc.",NA,10/24/08,625,Democrat,50,Republican,39,NA,11,11/4/08,54.13,44.52,9.61,1.39,1.39,1,NA
+5384105,2008_Pres-G_NV,2008,NV,Pres-G,Pres-G,GfK Group,NA,10/24/08,628,Democrat,52,Republican,40,NA,12,11/4/08,55.15,42.65,12.5,0.5,-0.5,1,NA
+5384106,2008_Pres-G_OH,2008,OH,Pres-G,Pres-G,GfK Group,NA,10/24/08,607,Democrat,48,Republican,41,NA,7,11/4/08,50.62,46.1,4.52,2.48,2.48,1,NA
+5384107,2008_Pres-G_OH,2008,OH,Pres-G,Pres-G,Quinnipiac University,NA,10/24/08,1425,Democrat,51,Republican,42,NA,9,11/4/08,50.62,46.1,4.52,4.48,4.48,1,NA
+5384108,2008_Pres-G_OR,2008,OR,Pres-G,Pres-G,"Davis, Hibbitts & Midghall, Inc.",NA,10/24/08,500,Democrat,53,Republican,34,NA,19,11/4/08,56.75,40.4,16.35,2.65,2.65,1,NA
+5384109,2008_Pres-G_PA,2008,PA,Pres-G,Pres-G,GfK Group,NA,10/24/08,607,Democrat,52,Republican,40,NA,12,11/4/08,54.56,44.23,10.33,1.67,1.67,1,NA
+5384110,2008_Pres-G_PA,2008,PA,Pres-G,Pres-G,Franklin & Marshall College,NA,10/24/08,545,Democrat,53,Republican,40,NA,13,11/4/08,54.56,44.23,10.33,2.67,2.67,1,NA
+5384111,2008_Pres-G_PA,2008,PA,Pres-G,Pres-G,Quinnipiac University,NA,10/24/08,1364,Democrat,53,Republican,41,NA,12,11/4/08,54.56,44.23,10.33,1.67,1.67,1,NA
+5384112,2008_Pres-G_US,2008,US,Pres-G,Pres-G,Harris Interactive,NA,10/24/08,1695,Democrat,50,Republican,44,NA,6,11/4/08,52.92,45.66,7.26,1.26,-1.26,1,"previously listed as Harris Interactive, online"
+5384113,2008_Pres-G_US,2008,US,Pres-G,Pres-G,Rasmussen Reports/Pulse Opinion Research,NA,10/24/08,3000,Democrat,52,Republican,44,NA,8,11/4/08,52.92,45.66,7.26,0.74,0.74,1,NA
+5384114,2008_Pres-G_US,2008,US,Pres-G,Pres-G,Research 2000,NA,10/24/08,1100,Democrat,51,Republican,40,NA,11,11/4/08,52.92,45.66,7.26,3.74,3.74,1,NA
+5384115,2008_Pres-G_US,2008,US,Pres-G,Pres-G,Zogby Interactive/JZ Analytics,NA,10/24/08,1203,Democrat,49.4,Republican,44.1,NA,5.3,11/4/08,52.92,45.66,7.26,1.96,-1.96,1,"previously listed as Zogby Analytics, telephone"
+5384116,2008_Pres-G_UT,2008,UT,Pres-G,Pres-G,"Mason-Dixon Polling & Research, Inc.",NA,10/24/08,625,Democrat,32,Republican,55,NA,-23,11/4/08,34.41,62.58,-28.17,5.17,5.17,1,NA
+5384117,2008_Pres-G_VA,2008,VA,Pres-G,Pres-G,ABC News/Washington Post,NA,10/24/08,784,Democrat,52,Republican,44,NA,8,11/4/08,52.63,46.33,6.3,1.7,1.7,1,NA
+5384118,2008_Pres-G_VA,2008,VA,Pres-G,Pres-G,GfK Group,NA,10/24/08,601,Democrat,49,Republican,42,NA,7,11/4/08,52.63,46.33,6.3,0.7,0.7,1,NA
+5384130,2008_Pres-G_AK,2008,AK,Pres-G,Pres-G,YouGov,NA,10/25/08,358,Democrat,38,Republican,55,NA,-17,11/4/08,37.89,59.42,-21.53,4.53,4.53,1,NA
+5384131,2008_Pres-G_AL,2008,AL,Pres-G,Pres-G,YouGov,NA,10/25/08,452,Democrat,39,Republican,57,NA,-18,11/4/08,38.74,60.32,-21.58,3.58,3.58,1,NA
+5384132,2008_Pres-G_AR,2008,AR,Pres-G,Pres-G,YouGov,NA,10/25/08,491,Democrat,41,Republican,53,NA,-12,11/4/08,38.86,58.72,-19.86,7.86,7.86,1,NA
+5384133,2008_Pres-G_AZ,2008,AZ,Pres-G,Pres-G,Arizona State University,NA,10/25/08,1019,Democrat,44,Republican,46,NA,-2,11/4/08,45.12,53.64,-8.52,6.52,6.52,1,NA
+5384134,2008_Pres-G_AZ,2008,AZ,Pres-G,Pres-G,YouGov,NA,10/25/08,682,Democrat,46,Republican,50,NA,-4,11/4/08,45.12,53.64,-8.52,4.52,4.52,1,NA
+5384135,2008_Pres-G_CA,2008,CA,Pres-G,Pres-G,Rasmussen Reports/Pulse Opinion Research,NA,10/25/08,500,Democrat,61,Republican,34,NA,27,11/4/08,61.01,36.95,24.06,2.94,2.94,1,NA
+5384136,2008_Pres-G_CA,2008,CA,Pres-G,Pres-G,YouGov,NA,10/25/08,999,Democrat,55,Republican,40,NA,15,11/4/08,61.01,36.95,24.06,9.06,-9.06,1,NA
+5384137,2008_Pres-G_CO,2008,CO,Pres-G,Pres-G,National Journal,NA,10/25/08,409,Democrat,48,Republican,44,NA,4,11/4/08,53.66,44.71,8.95,4.95,-4.95,1,NA
+5384138,2008_Pres-G_CO,2008,CO,Pres-G,Pres-G,YouGov,NA,10/25/08,685,Democrat,55,Republican,40,NA,15,11/4/08,53.66,44.71,8.95,6.05,6.05,1,NA
+5384139,2008_Pres-G_CT,2008,CT,Pres-G,Pres-G,YouGov,NA,10/25/08,704,Democrat,58,Republican,37,NA,21,11/4/08,60.59,38.22,22.37,1.37,-1.37,1,NA
+5384140,2008_Pres-G_DE,2008,DE,Pres-G,Pres-G,YouGov,NA,10/25/08,346,Democrat,59,Republican,37,NA,22,11/4/08,61.94,36.95,24.99,2.99,-2.99,1,NA
+5384141,2008_Pres-G_FL,2008,FL,Pres-G,Pres-G,National Journal,NA,10/25/08,408,Democrat,45,Republican,44,NA,1,11/4/08,51.03,48.22,2.81,1.81,-1.81,1,NA
+5384142,2008_Pres-G_FL,2008,FL,Pres-G,Pres-G,Suffolk University,NA,10/25/08,600,Democrat,49,Republican,44,NA,5,11/4/08,51.03,48.22,2.81,2.19,2.19,1,NA
+5384143,2008_Pres-G_FL,2008,FL,Pres-G,Pres-G,YouGov,NA,10/25/08,1001,Democrat,49,Republican,47,NA,2,11/4/08,51.03,48.22,2.81,0.81,-0.81,1,NA
+5384144,2008_Pres-G_FL,2008,FL,Pres-G,Pres-G,Zogby Interactive/JZ Analytics,NA,10/25/08,603,Democrat,47.2,Republican,46.9,NA,0.3,11/4/08,51.03,48.22,2.81,2.51,-2.51,1,"previously listed as Zogby Analytics, telephone"
+5384145,2008_Pres-G_GA,2008,GA,Pres-G,Pres-G,YouGov,NA,10/25/08,910,Democrat,47,Republican,50,NA,-3,11/4/08,46.99,52.2,-5.21,2.21,2.21,1,NA
+5384146,2008_Pres-G_HI,2008,HI,Pres-G,Pres-G,YouGov,NA,10/25/08,337,Democrat,56,Republican,34,NA,22,11/4/08,71.85,26.58,45.27,23.27,-23.27,1,NA
+5384147,2008_Pres-G_IA,2008,IA,Pres-G,Pres-G,YouGov,NA,10/25/08,795,Democrat,52,Republican,41,NA,11,11/4/08,53.93,44.39,9.54,1.46,1.46,1,NA
+5384148,2008_Pres-G_ID,2008,ID,Pres-G,Pres-G,YouGov,NA,10/25/08,372,Democrat,36,Republican,59,NA,-23,11/4/08,36.09,61.52,-25.43,2.43,2.43,1,NA
+5384149,2008_Pres-G_IL,2008,IL,Pres-G,Pres-G,YouGov,NA,10/25/08,783,Democrat,58,Republican,39,NA,19,11/4/08,61.92,36.78,25.14,6.14,-6.14,1,NA
+5384150,2008_Pres-G_IN,2008,IN,Pres-G,Pres-G,YouGov,NA,10/25/08,789,Democrat,45,Republican,53,NA,-8,11/4/08,49.77,48.74,1.03,9.03,-9.03,0,NA
+5384151,2008_Pres-G_IN,2008,IN,Pres-G,Pres-G,Zogby Interactive/JZ Analytics,NA,10/25/08,601,Democrat,44,Republican,50.2,NA,-6.2,11/4/08,49.77,48.74,1.03,7.23,-7.23,0,"previously listed as Zogby Analytics, telephone"
+5384152,2008_Pres-G_KS,2008,KS,Pres-G,Pres-G,YouGov,NA,10/25/08,499,Democrat,41,Republican,52,NA,-11,11/4/08,41.65,56.61,-14.96,3.96,3.96,1,NA
+5384153,2008_Pres-G_KY,2008,KY,Pres-G,Pres-G,YouGov,NA,10/25/08,486,Democrat,41,Republican,53,NA,-12,11/4/08,41.17,57.4,-16.23,4.23,4.23,1,NA
+5384154,2008_Pres-G_LA,2008,LA,Pres-G,Pres-G,Loyola University (New Orleans),NA,10/25/08,475,Democrat,40,Republican,43,NA,-3,11/4/08,39.93,58.56,-18.63,15.63,15.63,1,NA
+5384155,2008_Pres-G_LA,2008,LA,Pres-G,Pres-G,YouGov,NA,10/25/08,436,Democrat,45,Republican,52,NA,-7,11/4/08,39.93,58.56,-18.63,11.63,11.63,1,NA
+5384156,2008_Pres-G_MA,2008,MA,Pres-G,Pres-G,YouGov,NA,10/25/08,705,Democrat,57,Republican,39,NA,18,11/4/08,61.8,35.99,25.81,7.81,-7.81,1,NA
+5384157,2008_Pres-G_MD,2008,MD,Pres-G,Pres-G,YouGov,NA,10/25/08,475,Democrat,60,Republican,35,NA,25,11/4/08,61.92,36.47,25.45,0.45,-0.45,1,NA
+5384158,2008_Pres-G_ME,2008,ME,Pres-G,Pres-G,YouGov,NA,10/25/08,486,Democrat,51,Republican,42,NA,9,11/4/08,57.71,40.38,17.33,8.33,-8.33,1,NA
+5384159,2008_Pres-G_MI,2008,MI,Pres-G,Pres-G,YouGov,NA,10/25/08,973,Democrat,55,Republican,42,NA,13,11/4/08,57.43,40.96,16.47,3.47,-3.47,1,NA
+5384160,2008_Pres-G_MN,2008,MN,Pres-G,Pres-G,YouGov,NA,10/25/08,699,Democrat,51,Republican,45,NA,6,11/4/08,54.06,43.82,10.24,4.24,-4.24,1,NA
+5384161,2008_Pres-G_MO,2008,MO,Pres-G,Pres-G,YouGov,NA,10/25/08,684,Democrat,47,Republican,49,NA,-2,11/4/08,49.29,49.43,-0.14,1.86,-1.86,1,NA
+5384162,2008_Pres-G_MO,2008,MO,Pres-G,Pres-G,Zogby Interactive/JZ Analytics,NA,10/25/08,600,Democrat,48.2,Republican,45.7,NA,2.5,11/4/08,49.29,49.43,-0.14,2.64,2.64,0,"previously listed as Zogby Analytics, telephone"
+5384163,2008_Pres-G_MS,2008,MS,Pres-G,Pres-G,YouGov,NA,10/25/08,417,Democrat,42,Republican,55,NA,-13,11/4/08,43,56.18,-13.18,0.18,0.18,1,NA
+5384164,2008_Pres-G_MT,2008,MT,Pres-G,Pres-G,YouGov,NA,10/25/08,368,Democrat,44,Republican,54,NA,-10,11/4/08,47.25,49.51,-2.26,7.74,-7.74,1,NA
+5384165,2008_Pres-G_NC,2008,NC,Pres-G,Pres-G,National Journal,NA,10/25/08,402,Democrat,47,Republican,43,NA,4,11/4/08,49.7,49.37,0.33,3.67,3.67,1,NA
+5384166,2008_Pres-G_NC,2008,NC,Pres-G,Pres-G,YouGov,NA,10/25/08,955,Democrat,51,Republican,47,NA,4,11/4/08,49.7,49.37,0.33,3.67,3.67,1,NA
+5384167,2008_Pres-G_NC,2008,NC,Pres-G,Pres-G,Zogby Interactive/JZ Analytics,NA,10/25/08,600,Democrat,49.7,Republican,46.4,NA,3.3,11/4/08,49.7,49.37,0.33,2.97,2.97,1,"previously listed as Zogby Analytics, telephone"
+5384168,2008_Pres-G_ND,2008,ND,Pres-G,Pres-G,YouGov,NA,10/25/08,271,Democrat,43,Republican,50,NA,-7,11/4/08,44.62,53.25,-8.63,1.63,1.63,1,NA
+5384169,2008_Pres-G_NE,2008,NE,Pres-G,Pres-G,YouGov,NA,10/25/08,407,Democrat,38,Republican,57,NA,-19,11/4/08,41.6,56.53,-14.93,4.07,-4.07,1,NA
+5384170,2008_Pres-G_NH,2008,NH,Pres-G,Pres-G,YouGov,NA,10/25/08,516,Democrat,54,Republican,40,NA,14,11/4/08,54.13,44.52,9.61,4.39,4.39,1,NA
+5384171,2008_Pres-G_NJ,2008,NJ,Pres-G,Pres-G,"Strategic Vision, LLC",NA,10/25/08,800,Democrat,53,Republican,38,NA,15,11/4/08,57.27,41.7,15.57,0.57,-0.57,1,NA
+5384172,2008_Pres-G_NJ,2008,NJ,Pres-G,Pres-G,YouGov,NA,10/25/08,777,Democrat,55,Republican,40,NA,15,11/4/08,57.27,41.7,15.57,0.57,-0.57,1,NA
+5384173,2008_Pres-G_NM,2008,NM,Pres-G,Pres-G,YouGov,NA,10/25/08,457,Democrat,53,Republican,43,NA,10,11/4/08,56.91,41.78,15.13,5.13,-5.13,1,NA
+5384174,2008_Pres-G_NV,2008,NV,Pres-G,Pres-G,Suffolk University,NA,10/25/08,450,Democrat,50,Republican,40,NA,10,11/4/08,55.15,42.65,12.5,2.5,-2.5,1,NA
+5384175,2008_Pres-G_NV,2008,NV,Pres-G,Pres-G,YouGov,NA,10/25/08,494,Democrat,51,Republican,46,NA,5,11/4/08,55.15,42.65,12.5,7.5,-7.5,1,NA
+5384176,2008_Pres-G_NV,2008,NV,Pres-G,Pres-G,Zogby Interactive/JZ Analytics,NA,10/25/08,601,Democrat,48.2,Republican,44,NA,4.2,11/4/08,55.15,42.65,12.5,8.3,-8.3,1,"previously listed as Zogby Analytics, telephone"
+5384177,2008_Pres-G_NY,2008,NY,Pres-G,Pres-G,YouGov,NA,10/25/08,988,Democrat,58,Republican,38,NA,20,11/4/08,62.91,36.04,26.87,6.87,-6.87,1,NA
+5384178,2008_Pres-G_OH,2008,OH,Pres-G,Pres-G,Marist College,NA,10/25/08,661,Democrat,48,Republican,45,NA,3,11/4/08,50.62,46.1,4.52,1.52,-1.52,1,NA
+5384179,2008_Pres-G_OH,2008,OH,Pres-G,Pres-G,National Journal,NA,10/25/08,404,Democrat,48,Republican,41,NA,7,11/4/08,50.62,46.1,4.52,2.48,2.48,1,NA
+5384180,2008_Pres-G_OH,2008,OH,Pres-G,Pres-G,YouGov,NA,10/25/08,990,Democrat,51,Republican,45,NA,6,11/4/08,50.62,46.1,4.52,1.48,1.48,1,NA
+5384181,2008_Pres-G_OH,2008,OH,Pres-G,Pres-G,Zogby Interactive/JZ Analytics,NA,10/25/08,601,Democrat,49.7,Republican,45.1,NA,4.6,11/4/08,50.62,46.1,4.52,0.08,0.08,1,"previously listed as Zogby Analytics, telephone"
+5384182,2008_Pres-G_OK,2008,OK,Pres-G,Pres-G,SoonerPoll.com,NA,10/25/08,720,Democrat,34.8,Republican,61.6,NA,-26.8,11/4/08,34.35,65.65,-31.3,4.5,4.5,1,NA
+5384183,2008_Pres-G_OK,2008,OK,Pres-G,Pres-G,YouGov,NA,10/25/08,491,Democrat,39,Republican,58,NA,-19,11/4/08,34.35,65.65,-31.3,12.3,12.3,1,NA
+5384184,2008_Pres-G_OR,2008,OR,Pres-G,Pres-G,YouGov,NA,10/25/08,698,Democrat,54,Republican,43,NA,11,11/4/08,56.75,40.4,16.35,5.35,-5.35,1,NA
+5384185,2008_Pres-G_PA,2008,PA,Pres-G,Pres-G,YouGov,NA,10/25/08,1009,Democrat,51,Republican,44,NA,7,11/4/08,54.56,44.23,10.33,3.33,-3.33,1,NA
+5384186,2008_Pres-G_RI,2008,RI,Pres-G,Pres-G,YouGov,NA,10/25/08,365,Democrat,58,Republican,37,NA,21,11/4/08,62.86,35.06,27.8,6.8,-6.8,1,NA
+5384187,2008_Pres-G_SC,2008,SC,Pres-G,Pres-G,YouGov,NA,10/25/08,728,Democrat,44,Republican,52,NA,-8,11/4/08,44.9,53.87,-8.97,0.97,0.97,1,NA
+5384188,2008_Pres-G_SD,2008,SD,Pres-G,Pres-G,YouGov,NA,10/25/08,352,Democrat,43,Republican,52,NA,-9,11/4/08,44.75,53.16,-8.41,0.59,-0.59,1,NA
+5384189,2008_Pres-G_TN,2008,TN,Pres-G,Pres-G,YouGov,NA,10/25/08,653,Democrat,44,Republican,53,NA,-9,11/4/08,40.28,54.79,-14.51,5.51,5.51,1,NA
+5384190,2008_Pres-G_TX,2008,TX,Pres-G,Pres-G,YouGov,NA,10/25/08,972,Democrat,43,Republican,54,NA,-11,11/4/08,43.68,55.45,-11.77,0.77,0.77,1,NA
+5384191,2008_Pres-G_US,2008,US,Pres-G,Pres-G,ABC News/Washington Post,NA,10/25/08,1314,Democrat,52,Republican,45,NA,7,11/4/08,52.92,45.66,7.26,0.26,-0.26,1,NA
+5384192,2008_Pres-G_US,2008,US,Pres-G,Pres-G,Ipsos,NA,10/25/08,831,Democrat,48,Republican,42,NA,6,11/4/08,52.92,45.66,7.26,1.26,-1.26,1,"previously listed as Ipsos, telephone"
+5384193,2008_Pres-G_US,2008,US,Pres-G,Pres-G,Pew Research Center,NA,10/25/08,1198,Democrat,53,Republican,38,NA,15,11/4/08,52.92,45.66,7.26,7.74,7.74,1,NA
+5384194,2008_Pres-G_UT,2008,UT,Pres-G,Pres-G,YouGov,NA,10/25/08,395,Democrat,34,Republican,61,NA,-27,11/4/08,34.41,62.58,-28.17,1.17,1.17,1,NA
+5384195,2008_Pres-G_VA,2008,VA,Pres-G,Pres-G,National Journal,NA,10/25/08,404,Democrat,48,Republican,44,NA,4,11/4/08,52.63,46.33,6.3,2.3,-2.3,1,NA
+5384196,2008_Pres-G_VA,2008,VA,Pres-G,Pres-G,YouGov,NA,10/25/08,772,Democrat,52,Republican,45,NA,7,11/4/08,52.63,46.33,6.3,0.7,0.7,1,NA
+5384197,2008_Pres-G_VA,2008,VA,Pres-G,Pres-G,Zogby Interactive/JZ Analytics,NA,10/25/08,600,Democrat,52,Republican,44.8,NA,7.2,11/4/08,52.63,46.33,6.3,0.9,0.9,1,"previously listed as Zogby Analytics, telephone"
+5384198,2008_Pres-G_VT,2008,VT,Pres-G,Pres-G,Research 2000,NA,10/25/08,400,Democrat,57,Republican,36,NA,21,11/4/08,67.46,30.45,37.01,16.01,-16.01,1,NA
+5384199,2008_Pres-G_VT,2008,VT,Pres-G,Pres-G,YouGov,NA,10/25/08,275,Democrat,62,Republican,32,NA,30,11/4/08,67.46,30.45,37.01,7.01,-7.01,1,NA
+5384200,2008_Pres-G_WA,2008,WA,Pres-G,Pres-G,YouGov,NA,10/25/08,797,Democrat,53,Republican,43,NA,10,11/4/08,57.65,40.48,17.17,7.17,-7.17,1,NA
+5384201,2008_Pres-G_WI,2008,WI,Pres-G,Pres-G,"Strategic Vision, LLC",NA,10/25/08,800,Democrat,50,Republican,41,NA,9,11/4/08,56.34,42.41,13.93,4.93,-4.93,1,NA
+5384202,2008_Pres-G_WI,2008,WI,Pres-G,Pres-G,University of Wisconsin (Badger Poll),NA,10/25/08,538,Democrat,52,Republican,42,NA,10,11/4/08,56.34,42.41,13.93,3.93,-3.93,1,NA
+5384203,2008_Pres-G_WI,2008,WI,Pres-G,Pres-G,YouGov,NA,10/25/08,976,Democrat,53,Republican,41,NA,12,11/4/08,56.34,42.41,13.93,1.93,-1.93,1,NA
+5384204,2008_Pres-G_WV,2008,WV,Pres-G,Pres-G,YouGov,NA,10/25/08,404,Democrat,43,Republican,52,NA,-9,11/4/08,42.59,55.71,-13.12,4.12,4.12,1,NA
+5384205,2008_Pres-G_WV,2008,WV,Pres-G,Pres-G,Zogby Interactive/JZ Analytics,NA,10/25/08,600,Democrat,40.4,Republican,50.3,NA,-9.9,11/4/08,42.59,55.71,-13.12,3.22,3.22,1,"previously listed as Zogby Analytics, telephone"
+5384206,2008_Pres-G_WY,2008,WY,Pres-G,Pres-G,YouGov,NA,10/25/08,246,Democrat,29,Republican,67,NA,-38,11/4/08,31.31,62.33,-31.02,6.98,-6.98,1,NA
+5384259,2008_Pres-G_AZ,2008,AZ,Pres-G,Pres-G,CNN/Opinion Research Corp.,NA,10/26/08,807,Democrat,43,Republican,49,NA,-6,11/4/08,45.12,53.64,-8.52,2.52,2.52,1,NA
+5384260,2008_Pres-G_AZ,2008,AZ,Pres-G,Pres-G,Rasmussen Reports/Pulse Opinion Research,NA,10/26/08,500,Democrat,46,Republican,51,NA,-5,11/4/08,45.12,53.64,-8.52,3.52,3.52,1,NA
+5384261,2008_Pres-G_CO,2008,CO,Pres-G,Pres-G,CNN/Opinion Research Corp.,NA,10/26/08,774,Democrat,50,Republican,43,NA,7,11/4/08,53.66,44.71,8.95,1.95,-1.95,1,NA
+5384262,2008_Pres-G_CO,2008,CO,Pres-G,Pres-G,Opinion Savvy/InsiderAdvantage,NA,10/26/08,636,Democrat,51,Republican,42,NA,9,11/4/08,53.66,44.71,8.95,0.05,0.05,1,previously listed as InsiderAdvantage
+5384263,2008_Pres-G_CO,2008,CO,Pres-G,Pres-G,Rasmussen Reports/Pulse Opinion Research,NA,10/26/08,1000,Democrat,50,Republican,46,NA,4,11/4/08,53.66,44.71,8.95,4.95,-4.95,1,NA
+5384264,2008_Pres-G_FL,2008,FL,Pres-G,Pres-G,CNN/Opinion Research Corp.,NA,10/26/08,747,Democrat,50,Republican,45,NA,5,11/4/08,51.03,48.22,2.81,2.19,2.19,1,NA
+5384265,2008_Pres-G_FL,2008,FL,Pres-G,Pres-G,Datamar,NA,10/26/08,630,Democrat,49.2,Republican,44.4,NA,4.8,11/4/08,51.03,48.22,2.81,1.99,1.99,1,NA
+5384266,2008_Pres-G_FL,2008,FL,Pres-G,Pres-G,Los Angeles Times,NA,10/26/08,639,Democrat,50,Republican,43,NA,7,11/4/08,51.03,48.22,2.81,4.19,4.19,1,NA
+5384267,2008_Pres-G_FL,2008,FL,Pres-G,Pres-G,Rasmussen Reports/Pulse Opinion Research,NA,10/26/08,1000,Democrat,51,Republican,47,NA,4,11/4/08,51.03,48.22,2.81,1.19,1.19,1,NA
+5384268,2008_Pres-G_GA,2008,GA,Pres-G,Pres-G,CNN/Opinion Research Corp.,NA,10/26/08,690,Democrat,46,Republican,50,NA,-4,11/4/08,46.99,52.2,-5.21,1.21,1.21,1,NA
+5384269,2008_Pres-G_IN,2008,IN,Pres-G,Pres-G,Research 2000,NA,10/26/08,800,Democrat,47,Republican,47,NA,0,11/4/08,49.77,48.74,1.03,1.03,-1.03,0.5,NA
+5384270,2008_Pres-G_MN,2008,MN,Pres-G,Pres-G,Humphrey Institute,NA,10/26/08,451,Democrat,56,Republican,37,NA,19,11/4/08,54.06,43.82,10.24,8.76,8.76,1,NA
+5384271,2008_Pres-G_MO,2008,MO,Pres-G,Pres-G,CNN/Opinion Research Corp.,NA,10/26/08,825,Democrat,46,Republican,48,NA,-2,11/4/08,49.29,49.43,-0.14,1.86,-1.86,1,NA
+5384272,2008_Pres-G_MO,2008,MO,Pres-G,Pres-G,Rasmussen Reports/Pulse Opinion Research,NA,10/26/08,1000,Democrat,48,Republican,47,NA,1,11/4/08,49.29,49.43,-0.14,1.14,1.14,0,NA
+5384273,2008_Pres-G_MO,2008,MO,Pres-G,Pres-G,SurveyUSA,NA,10/26/08,672,Democrat,48,Republican,48,NA,0,11/4/08,49.29,49.43,-0.14,0.14,0.14,0.5,NA
+5384274,2008_Pres-G_NC,2008,NC,Pres-G,Pres-G,CNN/Opinion Research Corp.,NA,10/26/08,667,Democrat,52,Republican,46,NA,6,11/4/08,49.7,49.37,0.33,5.67,5.67,1,NA
+5384275,2008_Pres-G_NC,2008,NC,Pres-G,Pres-G,Public Policy Polling,NA,10/26/08,1038,Democrat,49,Republican,48,NA,1,11/4/08,49.7,49.37,0.33,0.67,0.67,1,NA
+5384276,2008_Pres-G_NC,2008,NC,Pres-G,Pres-G,Rasmussen Reports/Pulse Opinion Research,NA,10/26/08,1000,Democrat,48,Republican,49,NA,-1,11/4/08,49.7,49.37,0.33,1.33,-1.33,0,NA
+5384277,2008_Pres-G_NH,2008,NH,Pres-G,Pres-G,University of New Hampshire,NA,10/26/08,652,Democrat,58,Republican,33,NA,25,11/4/08,54.13,44.52,9.61,15.39,15.39,1,NA
+5384278,2008_Pres-G_NJ,2008,NJ,Pres-G,Pres-G,Fairleigh Dickinson University (PublicMind),NA,10/26/08,852,Democrat,53,Republican,35,NA,18,11/4/08,57.27,41.7,15.57,2.43,2.43,1,NA
+5384279,2008_Pres-G_NV,2008,NV,Pres-G,Pres-G,CNN/Opinion Research Corp.,NA,10/26/08,684,Democrat,50,Republican,43,NA,7,11/4/08,55.15,42.65,12.5,5.5,-5.5,1,NA
+5384280,2008_Pres-G_OH,2008,OH,Pres-G,Pres-G,CNN/Opinion Research Corp.,NA,10/26/08,779,Democrat,50,Republican,43,NA,7,11/4/08,50.62,46.1,4.52,2.48,2.48,1,NA
+5384281,2008_Pres-G_OH,2008,OH,Pres-G,Pres-G,Los Angeles Times,NA,10/26/08,644,Democrat,49,Republican,40,NA,9,11/4/08,50.62,46.1,4.52,4.48,4.48,1,NA
+5384282,2008_Pres-G_OH,2008,OH,Pres-G,Pres-G,Rasmussen Reports/Pulse Opinion Research,NA,10/26/08,1000,Democrat,49,Republican,45,NA,4,11/4/08,50.62,46.1,4.52,0.52,-0.52,1,NA
+5384283,2008_Pres-G_OR,2008,OR,Pres-G,Pres-G,SurveyUSA,NA,10/26/08,672,Democrat,57,Republican,38,NA,19,11/4/08,56.75,40.4,16.35,2.65,2.65,1,NA
+5384284,2008_Pres-G_PA,2008,PA,Pres-G,Pres-G,CNN/Opinion Research Corp.,NA,10/26/08,768,Democrat,53,Republican,41,NA,12,11/4/08,54.56,44.23,10.33,1.67,1.67,1,NA
+5384285,2008_Pres-G_PA,2008,PA,Pres-G,Pres-G,Opinion Savvy/InsiderAdvantage,NA,10/26/08,588,Democrat,53,Republican,45,NA,8,11/4/08,54.56,44.23,10.33,2.33,-2.33,1,previously listed as InsiderAdvantage
+5384286,2008_Pres-G_PA,2008,PA,Pres-G,Pres-G,Muhlenberg College,NA,10/26/08,610,Democrat,53,Republican,42,NA,11,11/4/08,54.56,44.23,10.33,0.67,0.67,1,NA
+5384287,2008_Pres-G_US,2008,US,Pres-G,Pres-G,American Research Group,NA,10/26/08,1200,Democrat,50,Republican,45,NA,5,11/4/08,52.92,45.66,7.26,2.26,-2.26,1,NA
+5384288,2008_Pres-G_US,2008,US,Pres-G,Pres-G,Financial Dynamics,NA,10/26/08,878,Democrat,50,Republican,42,NA,8,11/4/08,52.92,45.66,7.26,0.74,0.74,1,aka Hotline/Diageo
+5384289,2008_Pres-G_US,2008,US,Pres-G,Pres-G,Gallup,NA,10/26/08,2343,Democrat,51,Republican,44,NA,7,11/4/08,52.92,45.66,7.26,0.26,-0.26,1,NA
+5384290,2008_Pres-G_US,2008,US,Pres-G,Pres-G,George Washington University (Battleground),NA,10/26/08,1000,Democrat,49,Republican,46,NA,3,11/4/08,52.92,45.66,7.26,4.26,-4.26,1,NA
+5384291,2008_Pres-G_US,2008,US,Pres-G,Pres-G,YouGov,NA,10/26/08,1000,Democrat,49,Republican,42,NA,7,11/4/08,52.92,45.66,7.26,0.26,-0.26,1,NA
+5384292,2008_Pres-G_VA,2008,VA,Pres-G,Pres-G,CNN/Opinion Research Corp.,NA,10/26/08,721,Democrat,51,Republican,42,NA,9,11/4/08,52.63,46.33,6.3,2.7,2.7,1,NA
+5384293,2008_Pres-G_VA,2008,VA,Pres-G,Pres-G,Rasmussen Reports/Pulse Opinion Research,NA,10/26/08,1000,Democrat,51,Republican,47,NA,4,11/4/08,52.63,46.33,6.3,2.3,-2.3,1,NA
+5384294,2008_Pres-G_VA,2008,VA,Pres-G,Pres-G,SurveyUSA,NA,10/26/08,671,Democrat,52,Republican,43,NA,9,11/4/08,52.63,46.33,6.3,2.7,2.7,1,NA
+5384295,2008_Pres-G_WA,2008,WA,Pres-G,Pres-G,"Strategic Vision, LLC",NA,10/26/08,800,Democrat,54,Republican,42,NA,12,11/4/08,57.65,40.48,17.17,5.17,-5.17,1,NA
+5384319,2008_Pres-G_AK,2008,AK,Pres-G,Pres-G,Dittman Research,NA,10/27/08,489,Democrat,37,Republican,56,NA,-19,11/4/08,37.89,59.42,-21.53,2.53,2.53,1,NA
+5384320,2008_Pres-G_AR,2008,AR,Pres-G,Pres-G,Rasmussen Reports/Pulse Opinion Research,NA,10/27/08,500,Democrat,44,Republican,54,NA,-10,11/4/08,38.86,58.72,-19.86,9.86,9.86,1,NA
+5384321,2008_Pres-G_GA,2008,GA,Pres-G,Pres-G,Opinion Savvy/InsiderAdvantage,NA,10/27/08,637,Democrat,47,Republican,48,NA,-1,11/4/08,46.99,52.2,-5.21,4.21,4.21,1,previously listed as InsiderAdvantage
+5384322,2008_Pres-G_IN,2008,IN,Pres-G,Pres-G,Selzer & Company,NA,10/27/08,606,Democrat,45.9,Republican,45.3,NA,0.6,11/4/08,49.77,48.74,1.03,0.43,-0.43,1,NA
+5384323,2008_Pres-G_MI,2008,MI,Pres-G,Pres-G,EPIC-MRA,NA,10/27/08,600,Democrat,50,Republican,38,NA,12,11/4/08,57.43,40.96,16.47,4.47,-4.47,1,NA
+5384324,2008_Pres-G_MS,2008,MS,Pres-G,Pres-G,Rasmussen Reports/Pulse Opinion Research,NA,10/27/08,500,Democrat,45,Republican,53,NA,-8,11/4/08,43,56.18,-13.18,5.18,5.18,1,NA
+5384325,2008_Pres-G_NJ,2008,NJ,Pres-G,Pres-G,Research 2000,NA,10/27/08,600,Democrat,54,Republican,38,NA,16,11/4/08,57.27,41.7,15.57,0.43,0.43,1,NA
+5384326,2008_Pres-G_NV,2008,NV,Pres-G,Pres-G,Rasmussen Reports/Pulse Opinion Research,NA,10/27/08,700,Democrat,50,Republican,46,NA,4,11/4/08,55.15,42.65,12.5,8.5,-8.5,1,NA
+5384327,2008_Pres-G_NV,2008,NV,Pres-G,Pres-G,Research 2000,NA,10/27/08,600,Democrat,50,Republican,45,NA,5,11/4/08,55.15,42.65,12.5,7.5,-7.5,1,NA
+5384328,2008_Pres-G_OH,2008,OH,Pres-G,Pres-G,Columbus Dispatch,NA,10/27/08,2167,Democrat,52,Republican,46,NA,6,11/4/08,50.62,46.1,4.52,1.48,1.48,1,NA
+5384329,2008_Pres-G_OH,2008,OH,Pres-G,Pres-G,SurveyUSA,NA,10/27/08,648,Democrat,49,Republican,45,NA,4,11/4/08,50.62,46.1,4.52,0.52,-0.52,1,NA
+5384330,2008_Pres-G_PA,2008,PA,Pres-G,Pres-G,Marist College,NA,10/27/08,713,Democrat,55,Republican,41,NA,14,11/4/08,54.56,44.23,10.33,3.67,3.67,1,NA
+5384331,2008_Pres-G_PA,2008,PA,Pres-G,Pres-G,Rasmussen Reports/Pulse Opinion Research,NA,10/27/08,500,Democrat,53,Republican,46,NA,7,11/4/08,54.56,44.23,10.33,3.33,-3.33,1,NA
+5384332,2008_Pres-G_SC,2008,SC,Pres-G,Pres-G,Princeton Survey Research Associates International,NA,10/27/08,400,Democrat,42,Republican,53,NA,-11,11/4/08,44.9,53.87,-8.97,2.03,-2.03,1,NA
+5384333,2008_Pres-G_US,2008,US,Pres-G,Pres-G,CBS News/New York Times,NA,10/27/08,1005,Democrat,52,Republican,39,NA,13,11/4/08,52.92,45.66,7.26,5.74,5.74,1,NA
+5384334,2008_Pres-G_US,2008,US,Pres-G,Pres-G,Rasmussen Reports/Pulse Opinion Research,NA,10/27/08,3000,Democrat,50,Republican,47,NA,3,11/4/08,52.92,45.66,7.26,4.26,-4.26,1,NA
+5384335,2008_Pres-G_US,2008,US,Pres-G,Pres-G,Research 2000,NA,10/27/08,1100,Democrat,50,Republican,44,NA,6,11/4/08,52.92,45.66,7.26,1.26,-1.26,1,NA
+5384336,2008_Pres-G_US,2008,US,Pres-G,Pres-G,Zogby Interactive/JZ Analytics,NA,10/27/08,1203,Democrat,49.1,Republican,44.4,NA,4.7,11/4/08,52.92,45.66,7.26,2.56,-2.56,1,"previously listed as Zogby Analytics, telephone"
+5384337,2008_Pres-G_UT,2008,UT,Pres-G,Pres-G,Dan Jones & Associates,NA,10/27/08,1205,Democrat,32,Republican,57,NA,-25,11/4/08,34.41,62.58,-28.17,3.17,3.17,1,NA
+5384338,2008_Pres-G_VA,2008,VA,Pres-G,Pres-G,Marist College,NA,10/27/08,671,Democrat,51,Republican,47,NA,4,11/4/08,52.63,46.33,6.3,2.3,-2.3,1,NA
+5384339,2008_Pres-G_WA,2008,WA,Pres-G,Pres-G,SurveyUSA,NA,10/27/08,630,Democrat,56,Republican,39,NA,17,11/4/08,57.65,40.48,17.17,0.17,-0.17,1,NA
+5384357,2008_Pres-G_AK,2008,AK,Pres-G,Pres-G,Rasmussen Reports/Pulse Opinion Research,NA,10/28/08,500,Democrat,41,Republican,57,NA,-16,11/4/08,37.89,59.42,-21.53,5.53,5.53,1,NA
+5384358,2008_Pres-G_AL,2008,AL,Pres-G,Pres-G,SurveyUSA,NA,10/28/08,650,Democrat,36,Republican,61,NA,-25,11/4/08,38.74,60.32,-21.58,3.42,-3.42,1,NA
+5384359,2008_Pres-G_AZ,2008,AZ,Pres-G,Pres-G,"Mason-Dixon Polling & Research, Inc.",NA,10/28/08,625,Democrat,44,Republican,48,NA,-4,11/4/08,45.12,53.64,-8.52,4.52,4.52,1,NA
+5384360,2008_Pres-G_CO,2008,CO,Pres-G,Pres-G,Marist College,NA,10/28/08,682,Democrat,51,Republican,45,NA,6,11/4/08,53.66,44.71,8.95,2.95,-2.95,1,NA
+5384361,2008_Pres-G_DE,2008,DE,Pres-G,Pres-G,SurveyUSA,NA,10/28/08,657,Democrat,63,Republican,33,NA,30,11/4/08,61.94,36.95,24.99,5.01,5.01,1,NA
+5384362,2008_Pres-G_IA,2008,IA,Pres-G,Pres-G,Research 2000,NA,10/28/08,600,Democrat,53,Republican,39,NA,14,11/4/08,53.93,44.39,9.54,4.46,4.46,1,NA
+5384363,2008_Pres-G_KS,2008,KS,Pres-G,Pres-G,SurveyUSA,NA,10/28/08,626,Democrat,37,Republican,58,NA,-21,11/4/08,41.65,56.61,-14.96,6.04,-6.04,1,NA
+5384364,2008_Pres-G_KY,2008,KY,Pres-G,Pres-G,"Mason-Dixon Polling & Research, Inc.",NA,10/28/08,817,Democrat,42,Republican,51,NA,-9,11/4/08,41.17,57.4,-16.23,7.23,7.23,1,NA
+5384365,2008_Pres-G_KY,2008,KY,Pres-G,Pres-G,Research 2000,NA,10/28/08,600,Democrat,39,Republican,56,NA,-17,11/4/08,41.17,57.4,-16.23,0.77,-0.77,1,NA
+5384366,2008_Pres-G_MA,2008,MA,Pres-G,Pres-G,SurveyUSA,NA,10/28/08,658,Democrat,56,Republican,39,NA,17,11/4/08,61.8,35.99,25.81,8.81,-8.81,1,NA
+5384367,2008_Pres-G_MI,2008,MI,Pres-G,Pres-G,Mitchell Research & Communications,NA,10/28/08,600,Democrat,54,Republican,40,NA,14,11/4/08,57.43,40.96,16.47,2.47,-2.47,1,NA
+5384368,2008_Pres-G_MI,2008,MI,Pres-G,Pres-G,Rasmussen Reports/Pulse Opinion Research,NA,10/28/08,500,Democrat,53,Republican,43,NA,10,11/4/08,57.43,40.96,16.47,6.47,-6.47,1,NA
+5384369,2008_Pres-G_MI,2008,MI,Pres-G,Pres-G,"Strategic Vision, LLC",NA,10/28/08,1200,Democrat,54,Republican,41,NA,13,11/4/08,57.43,40.96,16.47,3.47,-3.47,1,NA
+5384370,2008_Pres-G_MN,2008,MN,Pres-G,Pres-G,"Mason-Dixon Polling & Research, Inc.",NA,10/28/08,625,Democrat,48,Republican,40,NA,8,11/4/08,54.06,43.82,10.24,2.24,-2.24,1,NA
+5384371,2008_Pres-G_MN,2008,MN,Pres-G,Pres-G,Rasmussen Reports/Pulse Opinion Research,NA,10/28/08,500,Democrat,55,Republican,43,NA,12,11/4/08,54.06,43.82,10.24,1.76,1.76,1,NA
+5384372,2008_Pres-G_MN,2008,MN,Pres-G,Pres-G,Research 2000,NA,10/28/08,600,Democrat,53,Republican,38,NA,15,11/4/08,54.06,43.82,10.24,4.76,4.76,1,NA
+5384373,2008_Pres-G_MS,2008,MS,Pres-G,Pres-G,Research 2000,NA,10/28/08,600,Democrat,40,Republican,53,NA,-13,11/4/08,43,56.18,-13.18,0.18,0.18,1,NA
+5384374,2008_Pres-G_NC,2008,NC,Pres-G,Pres-G,Tel Opinion Research,NA,10/28/08,600,Democrat,47,Republican,46,NA,1,11/4/08,49.7,49.37,0.33,0.67,0.67,1,aka Civitas
+5384375,2008_Pres-G_NH,2008,NH,Pres-G,Pres-G,"Strategic Vision, LLC",NA,10/28/08,800,Democrat,50,Republican,41,NA,9,11/4/08,54.13,44.52,9.61,0.61,-0.61,1,NA
+5384376,2008_Pres-G_NH,2008,NH,Pres-G,Pres-G,Suffolk University,NA,10/28/08,600,Democrat,53,Republican,40,NA,13,11/4/08,54.13,44.52,9.61,3.39,3.39,1,NA
+5384377,2008_Pres-G_NM,2008,NM,Pres-G,Pres-G,Rasmussen Reports/Pulse Opinion Research,NA,10/28/08,500,Democrat,54,Republican,44,NA,10,11/4/08,56.91,41.78,15.13,5.13,-5.13,1,NA
+5384378,2008_Pres-G_NY,2008,NY,Pres-G,Pres-G,SurveyUSA,NA,10/28/08,633,Democrat,62,Republican,33,NA,29,11/4/08,62.91,36.04,26.87,2.13,2.13,1,NA
+5384379,2008_Pres-G_OR,2008,OR,Pres-G,Pres-G,Research 2000,NA,10/28/08,600,Democrat,55,Republican,39,NA,16,11/4/08,56.75,40.4,16.35,0.35,-0.35,1,NA
+5384380,2008_Pres-G_PA,2008,PA,Pres-G,Pres-G,"Mason-Dixon Polling & Research, Inc.",NA,10/28/08,625,Democrat,47,Republican,43,NA,4,11/4/08,54.56,44.23,10.33,6.33,-6.33,1,NA
+5384381,2008_Pres-G_PA,2008,PA,Pres-G,Pres-G,"Strategic Vision, LLC",NA,10/28/08,1200,Democrat,49,Republican,44,NA,5,11/4/08,54.56,44.23,10.33,5.33,-5.33,1,NA
+5384382,2008_Pres-G_US,2008,US,Pres-G,Pres-G,IBD/TIPP,NA,10/28/08,894,Democrat,48.2,Republican,43.8,NA,4.4,11/4/08,52.92,45.66,7.26,2.86,-2.86,1,NA
+5384383,2008_Pres-G_WI,2008,WI,Pres-G,Pres-G,Research 2000,NA,10/28/08,600,Democrat,53,Republican,42,NA,11,11/4/08,56.34,42.41,13.93,2.93,-2.93,1,NA
+5384384,2008_Pres-G_WY,2008,WY,Pres-G,Pres-G,Research 2000,NA,10/28/08,500,Democrat,36,Republican,61,NA,-25,11/4/08,31.31,62.33,-31.02,6.02,6.02,1,NA
+5384423,2008_Pres-G_AK,2008,AK,Pres-G,Pres-G,Research 2000,NA,10/29/08,600,Democrat,39,Republican,58,NA,-19,11/4/08,37.89,59.42,-21.53,2.53,2.53,1,NA
+5384424,2008_Pres-G_AZ,2008,AZ,Pres-G,Pres-G,American Research Group,NA,10/29/08,600,Democrat,46,Republican,50,NA,-4,11/4/08,45.12,53.64,-8.52,4.52,4.52,1,NA
+5384425,2008_Pres-G_AZ,2008,AZ,Pres-G,Pres-G,Research 2000,NA,10/29/08,600,Democrat,47,Republican,48,NA,-1,11/4/08,45.12,53.64,-8.52,7.52,7.52,1,NA
+5384426,2008_Pres-G_CO,2008,CO,Pres-G,Pres-G,American Research Group,NA,10/29/08,600,Democrat,52,Republican,45,NA,7,11/4/08,53.66,44.71,8.95,1.95,-1.95,1,NA
+5384427,2008_Pres-G_CO,2008,CO,Pres-G,Pres-G,"Mason-Dixon Polling & Research, Inc.",NA,10/29/08,625,Democrat,49,Republican,44,NA,5,11/4/08,53.66,44.71,8.95,3.95,-3.95,1,NA
+5384428,2008_Pres-G_CO,2008,CO,Pres-G,Pres-G,Public Policy Polling,NA,10/29/08,2023,Democrat,54,Republican,44,NA,10,11/4/08,53.66,44.71,8.95,1.05,1.05,1,NA
+5384429,2008_Pres-G_GA,2008,GA,Pres-G,Pres-G,Research 2000,NA,10/29/08,600,Democrat,44,Republican,47,NA,-3,11/4/08,46.99,52.2,-5.21,2.21,2.21,1,NA
+5384430,2008_Pres-G_IA,2008,IA,Pres-G,Pres-G,SurveyUSA,NA,10/29/08,658,Democrat,55,Republican,40,NA,15,11/4/08,53.93,44.39,9.54,5.46,5.46,1,NA
+5384431,2008_Pres-G_IN,2008,IN,Pres-G,Pres-G,Rasmussen Reports/Pulse Opinion Research,NA,10/29/08,700,Democrat,46,Republican,49,NA,-3,11/4/08,49.77,48.74,1.03,4.03,-4.03,0,NA
+5384432,2008_Pres-G_IN,2008,IN,Pres-G,Pres-G,SurveyUSA,NA,10/29/08,900,Democrat,49,Republican,49,NA,0,11/4/08,49.77,48.74,1.03,1.03,-1.03,0.5,NA
+5384433,2008_Pres-G_KY,2008,KY,Pres-G,Pres-G,Rasmussen Reports/Pulse Opinion Research,NA,10/29/08,500,Democrat,43,Republican,55,NA,-12,11/4/08,41.17,57.4,-16.23,4.23,4.23,1,NA
+5384434,2008_Pres-G_MI,2008,MI,Pres-G,Pres-G,Public Policy Polling,NA,10/29/08,1532,Democrat,53,Republican,40,NA,13,11/4/08,57.43,40.96,16.47,3.47,-3.47,1,NA
+5384435,2008_Pres-G_MN,2008,MN,Pres-G,Pres-G,Public Policy Polling,NA,10/29/08,1050,Democrat,57,Republican,41,NA,16,11/4/08,54.06,43.82,10.24,5.76,5.76,1,NA
+5384436,2008_Pres-G_MO,2008,MO,Pres-G,Pres-G,American Research Group,NA,10/29/08,600,Democrat,48,Republican,48,NA,0,11/4/08,49.29,49.43,-0.14,0.14,0.14,0.5,NA
+5384437,2008_Pres-G_MO,2008,MO,Pres-G,Pres-G,Opinion Savvy/InsiderAdvantage,NA,10/29/08,841,Democrat,47,Republican,50,NA,-3,11/4/08,49.29,49.43,-0.14,2.86,-2.86,1,previously listed as InsiderAdvantage
+5384438,2008_Pres-G_MO,2008,MO,Pres-G,Pres-G,"Mason-Dixon Polling & Research, Inc.",NA,10/29/08,625,Democrat,46,Republican,47,NA,-1,11/4/08,49.29,49.43,-0.14,0.86,-0.86,1,NA
+5384439,2008_Pres-G_MT,2008,MT,Pres-G,Pres-G,American Research Group,NA,10/29/08,600,Democrat,46,Republican,49,NA,-3,11/4/08,47.25,49.51,-2.26,0.74,-0.74,1,NA
+5384440,2008_Pres-G_MT,2008,MT,Pres-G,Pres-G,Rasmussen Reports/Pulse Opinion Research,NA,10/29/08,500,Democrat,46,Republican,50,NA,-4,11/4/08,47.25,49.51,-2.26,1.74,-1.74,1,NA
+5384441,2008_Pres-G_MT,2008,MT,Pres-G,Pres-G,Research 2000,NA,10/29/08,500,Democrat,44,Republican,48,NA,-4,11/4/08,47.25,49.51,-2.26,1.74,-1.74,1,NA
+5384442,2008_Pres-G_NC,2008,NC,Pres-G,Pres-G,Elon University,NA,10/29/08,797,Democrat,45,Republican,38,NA,7,11/4/08,49.7,49.37,0.33,6.67,6.67,1,NA
+5384443,2008_Pres-G_NC,2008,NC,Pres-G,Pres-G,Opinion Savvy/InsiderAdvantage,NA,10/29/08,641,Democrat,48,Republican,48,NA,0,11/4/08,49.7,49.37,0.33,0.33,-0.33,0.5,previously listed as InsiderAdvantage
+5384444,2008_Pres-G_NC,2008,NC,Pres-G,Pres-G,Rasmussen Reports/Pulse Opinion Research,NA,10/29/08,700,Democrat,50,Republican,48,NA,2,11/4/08,49.7,49.37,0.33,1.67,1.67,1,NA
+5384445,2008_Pres-G_NC,2008,NC,Pres-G,Pres-G,Research 2000,NA,10/29/08,600,Democrat,47,Republican,45,NA,2,11/4/08,49.7,49.37,0.33,1.67,1.67,1,NA
+5384446,2008_Pres-G_ND,2008,ND,Pres-G,Pres-G,Research 2000,NA,10/29/08,500,Democrat,46,Republican,47,NA,-1,11/4/08,44.62,53.25,-8.63,7.63,7.63,1,NA
+5384447,2008_Pres-G_NH,2008,NH,Pres-G,Pres-G,American Research Group,NA,10/29/08,600,Democrat,56,Republican,41,NA,15,11/4/08,54.13,44.52,9.61,5.39,5.39,1,NA
+5384448,2008_Pres-G_NH,2008,NH,Pres-G,Pres-G,Research 2000,NA,10/29/08,600,Democrat,51,Republican,44,NA,7,11/4/08,54.13,44.52,9.61,2.61,-2.61,1,NA
+5384449,2008_Pres-G_NH,2008,NH,Pres-G,Pres-G,University of New Hampshire,NA,10/29/08,617,Democrat,53,Republican,39,NA,14,11/4/08,54.13,44.52,9.61,4.39,4.39,1,NA
+5384450,2008_Pres-G_NM,2008,NM,Pres-G,Pres-G,Public Policy Polling,NA,10/29/08,1537,Democrat,58,Republican,41,NA,17,11/4/08,56.91,41.78,15.13,1.87,1.87,1,NA
+5384451,2008_Pres-G_NM,2008,NM,Pres-G,Pres-G,"Research & Polling, Inc.",NA,10/29/08,1002,Democrat,51,Republican,43,NA,8,11/4/08,56.91,41.78,15.13,7.13,-7.13,1,NA
+5384452,2008_Pres-G_NV,2008,NV,Pres-G,Pres-G,"Mason-Dixon Polling & Research, Inc.",NA,10/29/08,625,Democrat,47,Republican,43,NA,4,11/4/08,55.15,42.65,12.5,8.5,-8.5,1,NA
+5384453,2008_Pres-G_OK,2008,OK,Pres-G,Pres-G,SurveyUSA,NA,10/29/08,594,Democrat,34,Republican,63,NA,-29,11/4/08,34.35,65.65,-31.3,2.3,2.3,1,NA
+5384454,2008_Pres-G_OR,2008,OR,Pres-G,Pres-G,Public Policy Polling,NA,10/29/08,1424,Democrat,57,Republican,42,NA,15,11/4/08,56.75,40.4,16.35,1.35,-1.35,1,NA
+5384455,2008_Pres-G_SC,2008,SC,Pres-G,Pres-G,SurveyUSA,NA,10/29/08,654,Democrat,44,Republican,52,NA,-8,11/4/08,44.9,53.87,-8.97,0.97,0.97,1,NA
+5384456,2008_Pres-G_US,2008,US,Pres-G,Pres-G,ABC News/Washington Post,NA,10/29/08,1580,Democrat,53,Republican,44,NA,9,11/4/08,52.92,45.66,7.26,1.74,1.74,1,NA
+5384457,2008_Pres-G_US,2008,US,Pres-G,Pres-G,Financial Dynamics,NA,10/29/08,870,Democrat,48,Republican,41,NA,7,11/4/08,52.92,45.66,7.26,0.26,-0.26,1,aka Hotline/Diageo
+5384458,2008_Pres-G_US,2008,US,Pres-G,Pres-G,Fox News/Opinion Dynamics Corp.,NA,10/29/08,924,Democrat,47,Republican,44,NA,3,11/4/08,52.92,45.66,7.26,4.26,-4.26,1,NA
+5384459,2008_Pres-G_US,2008,US,Pres-G,Pres-G,Gallup,NA,10/29/08,2459,Democrat,52,Republican,43,NA,9,11/4/08,52.92,45.66,7.26,1.74,1.74,1,NA
+5384460,2008_Pres-G_US,2008,US,Pres-G,Pres-G,Marist College,NA,10/29/08,543,Democrat,50,Republican,43,NA,7,11/4/08,52.92,45.66,7.26,0.26,-0.26,1,NA
+5384461,2008_Pres-G_WA,2008,WA,Pres-G,Pres-G,University of Washington,NA,10/29/08,387,Democrat,51,Republican,39,NA,12,11/4/08,57.65,40.48,17.17,5.17,-5.17,1,NA
+5384462,2008_Pres-G_WI,2008,WI,Pres-G,Pres-G,SurveyUSA,NA,10/29/08,667,Democrat,55,Republican,38,NA,17,11/4/08,56.34,42.41,13.93,3.07,3.07,1,NA
+5384487,2008_Pres-G_AR,2008,AR,Pres-G,Pres-G,American Research Group,NA,10/30/08,600,Democrat,44,Republican,51,NA,-7,11/4/08,38.86,58.72,-19.86,12.86,12.86,1,NA
+5384488,2008_Pres-G_CA,2008,CA,Pres-G,Pres-G,SurveyUSA,NA,10/30/08,637,Democrat,60,Republican,36,NA,24,11/4/08,61.01,36.95,24.06,0.06,-0.06,1,NA
+5384489,2008_Pres-G_FL,2008,FL,Pres-G,Pres-G,American Research Group,NA,10/30/08,600,Democrat,50,Republican,46,NA,4,11/4/08,51.03,48.22,2.81,1.19,1.19,1,NA
+5384490,2008_Pres-G_FL,2008,FL,Pres-G,Pres-G,Datamar,NA,10/30/08,995,Democrat,46.7,Republican,46.7,NA,0,11/4/08,51.03,48.22,2.81,2.81,-2.81,0.5,NA
+5384491,2008_Pres-G_FL,2008,FL,Pres-G,Pres-G,"Mason-Dixon Polling & Research, Inc.",NA,10/30/08,625,Democrat,47,Republican,45,NA,2,11/4/08,51.03,48.22,2.81,0.81,-0.81,1,NA
+5384492,2008_Pres-G_FL,2008,FL,Pres-G,Pres-G,Quinnipiac University,NA,10/30/08,1773,Democrat,47,Republican,45,NA,2,11/4/08,51.03,48.22,2.81,0.81,-0.81,1,NA
+5384493,2008_Pres-G_GA,2008,GA,Pres-G,Pres-G,Rasmussen Reports/Pulse Opinion Research,NA,10/30/08,500,Democrat,47,Republican,52,NA,-5,11/4/08,46.99,52.2,-5.21,0.21,0.21,1,NA
+5384494,2008_Pres-G_IA,2008,IA,Pres-G,Pres-G,Selzer & Company,NA,10/30/08,814,Democrat,54,Republican,37,NA,17,11/4/08,53.93,44.39,9.54,7.46,7.46,1,NA
+5384495,2008_Pres-G_IN,2008,IN,Pres-G,Pres-G,American Research Group,NA,10/30/08,600,Democrat,48,Republican,48,NA,0,11/4/08,49.77,48.74,1.03,1.03,-1.03,0.5,NA
+5384496,2008_Pres-G_ME,2008,ME,Pres-G,Pres-G,SurveyUSA,NA,10/30/08,674,Democrat,58,Republican,38,NA,20,11/4/08,57.71,40.38,17.33,2.67,2.67,1,NA
+5384497,2008_Pres-G_MI,2008,MI,Pres-G,Pres-G,Selzer & Company,NA,10/30/08,616,Democrat,53,Republican,37,NA,16,11/4/08,57.43,40.96,16.47,0.47,-0.47,1,NA
+5384498,2008_Pres-G_MN,2008,MN,Pres-G,Pres-G,Princeton Survey Research Associates International,NA,10/30/08,933,Democrat,53,Republican,42,NA,11,11/4/08,54.06,43.82,10.24,0.76,0.76,1,for Star Tribune
+5384499,2008_Pres-G_NC,2008,NC,Pres-G,Pres-G,"Mason-Dixon Polling & Research, Inc.",NA,10/30/08,625,Democrat,46,Republican,49,NA,-3,11/4/08,49.7,49.37,0.33,3.33,-3.33,0,NA
+5384500,2008_Pres-G_NH,2008,NH,Pres-G,Pres-G,Rasmussen Reports/Pulse Opinion Research,NA,10/30/08,700,Democrat,51,Republican,44,NA,7,11/4/08,54.13,44.52,9.61,2.61,-2.61,1,NA
+5384501,2008_Pres-G_NH,2008,NH,Pres-G,Pres-G,SurveyUSA,NA,10/30/08,682,Democrat,53,Republican,42,NA,11,11/4/08,54.13,44.52,9.61,1.39,1.39,1,NA
+5384502,2008_Pres-G_NJ,2008,NJ,Pres-G,Pres-G,Monmouth University,NA,10/30/08,801,Democrat,55,Republican,34,NA,21,11/4/08,57.27,41.7,15.57,5.43,5.43,1,NA
+5384503,2008_Pres-G_NJ,2008,NJ,Pres-G,Pres-G,SurveyUSA,NA,10/30/08,632,Democrat,52,Republican,42,NA,10,11/4/08,57.27,41.7,15.57,5.57,-5.57,1,NA
+5384504,2008_Pres-G_NM,2008,NM,Pres-G,Pres-G,SurveyUSA,NA,10/30/08,664,Democrat,52,Republican,45,NA,7,11/4/08,56.91,41.78,15.13,8.13,-8.13,1,NA
+5384505,2008_Pres-G_OH,2008,OH,Pres-G,Pres-G,"Mason-Dixon Polling & Research, Inc.",NA,10/30/08,625,Democrat,45,Republican,47,NA,-2,11/4/08,50.62,46.1,4.52,6.52,-6.52,0,NA
+5384506,2008_Pres-G_OH,2008,OH,Pres-G,Pres-G,Quinnipiac University,NA,10/30/08,1574,Democrat,50,Republican,43,NA,7,11/4/08,50.62,46.1,4.52,2.48,2.48,1,NA
+5384507,2008_Pres-G_OR,2008,OR,Pres-G,Pres-G,Rasmussen Reports/Pulse Opinion Research,NA,10/30/08,500,Democrat,54,Republican,42,NA,12,11/4/08,56.75,40.4,16.35,4.35,-4.35,1,NA
+5384508,2008_Pres-G_OR,2008,OR,Pres-G,Pres-G,SurveyUSA,NA,10/30/08,700,Democrat,57,Republican,38,NA,19,11/4/08,56.75,40.4,16.35,2.65,2.65,1,NA
+5384509,2008_Pres-G_PA,2008,PA,Pres-G,Pres-G,American Research Group,NA,10/30/08,600,Democrat,51,Republican,45,NA,6,11/4/08,54.56,44.23,10.33,4.33,-4.33,1,NA
+5384510,2008_Pres-G_PA,2008,PA,Pres-G,Pres-G,Quinnipiac University,NA,10/30/08,1493,Democrat,52,Republican,42,NA,10,11/4/08,54.56,44.23,10.33,0.33,-0.33,1,NA
+5384511,2008_Pres-G_PA,2008,PA,Pres-G,Pres-G,Rasmussen Reports/Pulse Opinion Research,NA,10/30/08,500,Democrat,51,Republican,47,NA,4,11/4/08,54.56,44.23,10.33,6.33,-6.33,1,NA
+5384512,2008_Pres-G_PA,2008,PA,Pres-G,Pres-G,SurveyUSA,NA,10/30/08,700,Democrat,51,Republican,44,NA,7,11/4/08,54.56,44.23,10.33,3.33,-3.33,1,NA
+5384513,2008_Pres-G_SD,2008,SD,Pres-G,Pres-G,Rasmussen Reports/Pulse Opinion Research,NA,10/30/08,500,Democrat,44,Republican,53,NA,-9,11/4/08,44.75,53.16,-8.41,0.59,-0.59,1,NA
+5384514,2008_Pres-G_US,2008,US,Pres-G,Pres-G,CBS News/New York Times,NA,10/30/08,747,Democrat,54,Republican,41,NA,13,11/4/08,52.92,45.66,7.26,5.74,5.74,1,NA
+5384515,2008_Pres-G_US,2008,US,Pres-G,Pres-G,George Washington University (Battleground),NA,10/30/08,800,Democrat,50,Republican,44,NA,6,11/4/08,52.92,45.66,7.26,1.26,-1.26,1,NA
+5384516,2008_Pres-G_US,2008,US,Pres-G,Pres-G,Rasmussen Reports/Pulse Opinion Research,NA,10/30/08,3000,Democrat,51,Republican,46,NA,5,11/4/08,52.92,45.66,7.26,2.26,-2.26,1,NA
+5384517,2008_Pres-G_US,2008,US,Pres-G,Pres-G,Research 2000,NA,10/30/08,1100,Democrat,51,Republican,44,NA,7,11/4/08,52.92,45.66,7.26,0.26,-0.26,1,NA
+5384518,2008_Pres-G_US,2008,US,Pres-G,Pres-G,Zogby Interactive/JZ Analytics,NA,10/30/08,1200,Democrat,49.1,Republican,44.1,NA,5,11/4/08,52.92,45.66,7.26,2.26,-2.26,1,"previously listed as Zogby Analytics, telephone"
+5384519,2008_Pres-G_VA,2008,VA,Pres-G,Pres-G,"Mason-Dixon Polling & Research, Inc.",NA,10/30/08,625,Democrat,47,Republican,44,NA,3,11/4/08,52.63,46.33,6.3,3.3,-3.3,1,NA
+5384520,2008_Pres-G_WV,2008,WV,Pres-G,Pres-G,Public Policy Polling,NA,10/30/08,2128,Democrat,42,Republican,55,NA,-13,11/4/08,42.59,55.71,-13.12,0.12,0.12,1,NA
+5384537,2008_Pres-G_FL,2008,FL,Pres-G,Pres-G,Zogby Interactive/JZ Analytics,NA,10/31/08,600,Democrat,47.5,Republican,46.2,NA,1.3,11/4/08,51.03,48.22,2.81,1.51,-1.51,1,"previously listed as Zogby Analytics, telephone"
+5384538,2008_Pres-G_KY,2008,KY,Pres-G,Pres-G,SurveyUSA,NA,10/31/08,616,Democrat,40,Republican,56,NA,-16,11/4/08,41.17,57.4,-16.23,0.23,0.23,1,NA
+5384539,2008_Pres-G_OH,2008,OH,Pres-G,Pres-G,University of Cincinnati (Ohio Poll),NA,10/31/08,1308,Democrat,51.5,Republican,45.7,NA,5.8,11/4/08,50.62,46.1,4.52,1.28,1.28,1,NA
+5384540,2008_Pres-G_PA,2008,PA,Pres-G,Pres-G,Muhlenberg College,NA,10/31/08,617,Democrat,52,Republican,46,NA,6,11/4/08,54.56,44.23,10.33,4.33,-4.33,1,NA
+5384541,2008_Pres-G_US,2008,US,Pres-G,Pres-G,CBS News/New York Times,NA,10/31/08,607,Democrat,54,Republican,41,NA,13,11/4/08,52.92,45.66,7.26,5.74,5.74,1,NA
+5384542,2008_Pres-G_US,2008,US,Pres-G,Pres-G,CNN/Opinion Research Corp.,NA,10/31/08,714,Democrat,51,Republican,43,NA,8,11/4/08,52.92,45.66,7.26,0.74,0.74,1,NA
+5384543,2008_Pres-G_US,2008,US,Pres-G,Pres-G,Pew Research Center,NA,10/31/08,2578,Democrat,49,Republican,42,NA,7,11/4/08,52.92,45.66,7.26,0.26,-0.26,1,NA
+5384544,2008_Pres-G_VA,2008,VA,Pres-G,Pres-G,SurveyUSA,NA,10/31/08,672,Democrat,50,Republican,46,NA,4,11/4/08,52.63,46.33,6.3,2.3,-2.3,1,NA
+5384562,2008_Pres-G_FL,2008,FL,Pres-G,Pres-G,Public Policy Polling,NA,11/1/08,1717,Democrat,50,Republican,48,NA,2,11/4/08,51.03,48.22,2.81,0.81,-0.81,1,NA
+5384563,2008_Pres-G_FL,2008,FL,Pres-G,Pres-G,"Strategic Vision, LLC",NA,11/1/08,1200,Democrat,49,Republican,47,NA,2,11/4/08,51.03,48.22,2.81,0.81,-0.81,1,NA
+5384564,2008_Pres-G_GA,2008,GA,Pres-G,Pres-G,Public Policy Polling,NA,11/1/08,1253,Democrat,48,Republican,50,NA,-2,11/4/08,46.99,52.2,-5.21,3.21,3.21,1,NA
+5384565,2008_Pres-G_GA,2008,GA,Pres-G,Pres-G,"Strategic Vision, LLC",NA,11/1/08,800,Democrat,46,Republican,50,NA,-4,11/4/08,46.99,52.2,-5.21,1.21,1.21,1,NA
+5384566,2008_Pres-G_GA,2008,GA,Pres-G,Pres-G,SurveyUSA,NA,11/1/08,683,Democrat,45,Republican,52,NA,-7,11/4/08,46.99,52.2,-5.21,1.79,-1.79,1,NA
+5384567,2008_Pres-G_IL,2008,IL,Pres-G,Pres-G,Rasmussen Reports/Pulse Opinion Research,NA,11/1/08,500,Democrat,60,Republican,38,NA,22,11/4/08,61.92,36.78,25.14,3.14,-3.14,1,NA
+5384568,2008_Pres-G_IN,2008,IN,Pres-G,Pres-G,Public Policy Polling,NA,11/1/08,2634,Democrat,49,Republican,48,NA,1,11/4/08,49.77,48.74,1.03,0.03,-0.03,1,NA
+5384569,2008_Pres-G_IN,2008,IN,Pres-G,Pres-G,Zogby Interactive/JZ Analytics,NA,11/1/08,603,Democrat,43.9,Republican,49.1,NA,-5.2,11/4/08,49.77,48.74,1.03,6.23,-6.23,0,"previously listed as Zogby Analytics, telephone"
+5384570,2008_Pres-G_ME,2008,ME,Pres-G,Pres-G,Rasmussen Reports/Pulse Opinion Research,NA,11/1/08,500,Democrat,56,Republican,43,NA,13,11/4/08,57.71,40.38,17.33,4.33,-4.33,1,NA
+5384571,2008_Pres-G_MN,2008,MN,Pres-G,Pres-G,SurveyUSA,NA,11/1/08,669,Democrat,49,Republican,46,NA,3,11/4/08,54.06,43.82,10.24,7.24,-7.24,1,NA
+5384572,2008_Pres-G_MO,2008,MO,Pres-G,Pres-G,Public Policy Polling,NA,11/1/08,1343,Democrat,49.4,Republican,48.6,NA,0.8,11/4/08,49.29,49.43,-0.14,0.94,0.94,0,NA
+5384573,2008_Pres-G_MO,2008,MO,Pres-G,Pres-G,SurveyUSA,NA,11/1/08,674,Democrat,48,Republican,48,NA,0,11/4/08,49.29,49.43,-0.14,0.14,0.14,0.5,NA
+5384574,2008_Pres-G_MO,2008,MO,Pres-G,Pres-G,Zogby Interactive/JZ Analytics,NA,11/1/08,602,Democrat,47.4,Republican,45.7,NA,1.7,11/4/08,49.29,49.43,-0.14,1.84,1.84,0,"previously listed as Zogby Analytics, telephone"
+5384575,2008_Pres-G_MT,2008,MT,Pres-G,Pres-G,Public Policy Polling,NA,11/1/08,2734,Democrat,48,Republican,47,NA,1,11/4/08,47.25,49.51,-2.26,3.26,3.26,0,NA
+5384576,2008_Pres-G_NC,2008,NC,Pres-G,Pres-G,Public Policy Polling,NA,11/1/08,2100,Democrat,50,Republican,49,NA,1,11/4/08,49.7,49.37,0.33,0.67,0.67,1,NA
+5384577,2008_Pres-G_NC,2008,NC,Pres-G,Pres-G,SurveyUSA,NA,11/1/08,682,Democrat,48,Republican,49,NA,-1,11/4/08,49.7,49.37,0.33,1.33,-1.33,0,NA
+5384578,2008_Pres-G_NC,2008,NC,Pres-G,Pres-G,Zogby Interactive/JZ Analytics,NA,11/1/08,600,Democrat,47.7,Republican,49.3,NA,-1.6,11/4/08,49.7,49.37,0.33,1.93,-1.93,0,"previously listed as Zogby Analytics, telephone"
+5384579,2008_Pres-G_NH,2008,NH,Pres-G,Pres-G,University of New Hampshire,NA,11/1/08,831,Democrat,53,Republican,42,NA,11,11/4/08,54.13,44.52,9.61,1.39,1.39,1,NA
+5384580,2008_Pres-G_NV,2008,NV,Pres-G,Pres-G,Public Policy Polling,NA,11/1/08,1243,Democrat,51,Republican,47,NA,4,11/4/08,55.15,42.65,12.5,8.5,-8.5,1,NA
+5384581,2008_Pres-G_NV,2008,NV,Pres-G,Pres-G,Zogby Interactive/JZ Analytics,NA,11/1/08,601,Democrat,50.7,Republican,42.9,NA,7.8,11/4/08,55.15,42.65,12.5,4.7,-4.7,1,"previously listed as Zogby Analytics, telephone"
+5384582,2008_Pres-G_OH,2008,OH,Pres-G,Pres-G,Public Policy Polling,NA,11/1/08,1208,Democrat,50,Republican,48,NA,2,11/4/08,50.62,46.1,4.52,2.52,-2.52,1,NA
+5384583,2008_Pres-G_OH,2008,OH,Pres-G,Pres-G,"Strategic Vision, LLC",NA,11/1/08,1200,Democrat,46,Republican,48,NA,-2,11/4/08,50.62,46.1,4.52,6.52,-6.52,0,NA
+5384584,2008_Pres-G_OH,2008,OH,Pres-G,Pres-G,SurveyUSA,NA,11/1/08,600,Democrat,48,Republican,46,NA,2,11/4/08,50.62,46.1,4.52,2.52,-2.52,1,NA
+5384585,2008_Pres-G_OH,2008,OH,Pres-G,Pres-G,Zogby Interactive/JZ Analytics,NA,11/1/08,605,Democrat,50.2,Republican,43.9,NA,6.3,11/4/08,50.62,46.1,4.52,1.78,1.78,1,"previously listed as Zogby Analytics, telephone"
+5384586,2008_Pres-G_PA,2008,PA,Pres-G,Pres-G,Public Policy Polling,NA,11/1/08,1529,Democrat,53,Republican,45,NA,8,11/4/08,54.56,44.23,10.33,2.33,-2.33,1,NA
+5384587,2008_Pres-G_PA,2008,PA,Pres-G,Pres-G,Rasmussen Reports/Pulse Opinion Research,NA,11/1/08,700,Democrat,52,Republican,46,NA,6,11/4/08,54.56,44.23,10.33,4.33,-4.33,1,NA
+5384588,2008_Pres-G_PA,2008,PA,Pres-G,Pres-G,"Strategic Vision, LLC",NA,11/1/08,1200,Democrat,51,Republican,44,NA,7,11/4/08,54.56,44.23,10.33,3.33,-3.33,1,NA
+5384589,2008_Pres-G_PA,2008,PA,Pres-G,Pres-G,Zogby Interactive/JZ Analytics,NA,11/1/08,602,Democrat,53.7,Republican,40,NA,13.7,11/4/08,54.56,44.23,10.33,3.37,3.37,1,"previously listed as Zogby Analytics, telephone"
+5384590,2008_Pres-G_US,2008,US,Pres-G,Pres-G,CBS News/New York Times,NA,11/1/08,714,Democrat,51,Republican,42,NA,9,11/4/08,52.92,45.66,7.26,1.74,1.74,1,NA
+5384591,2008_Pres-G_US,2008,US,Pres-G,Pres-G,Financial Dynamics,NA,11/1/08,887,Democrat,50,Republican,45,NA,5,11/4/08,52.92,45.66,7.26,2.26,-2.26,1,aka Hotline/Diageo
+5384592,2008_Pres-G_US,2008,US,Pres-G,Pres-G,Gallup,NA,11/1/08,2472,Democrat,53,Republican,42,NA,11,11/4/08,52.92,45.66,7.26,3.74,3.74,1,NA
+5384593,2008_Pres-G_US,2008,US,Pres-G,Pres-G,Greenberg Quinlan Rosner (Democracy Corps),NA,11/1/08,1000,Democrat,51,Republican,44,NA,7,11/4/08,52.92,45.66,7.26,0.26,-0.26,1,NA
+5384594,2008_Pres-G_US,2008,US,Pres-G,Pres-G,IBD/TIPP,NA,11/1/08,1014,Democrat,47.5,Republican,43,NA,4.5,11/4/08,52.92,45.66,7.26,2.76,-2.76,1,NA
+5384595,2008_Pres-G_US,2008,US,Pres-G,Pres-G,Ipsos,NA,11/1/08,760,Democrat,53,Republican,46,NA,7,11/4/08,52.92,45.66,7.26,0.26,-0.26,1,"previously listed as Ipsos, telephone"
+5384596,2008_Pres-G_VA,2008,VA,Pres-G,Pres-G,Public Policy Polling,NA,11/1/08,1557,Democrat,52,Republican,46,NA,6,11/4/08,52.63,46.33,6.3,0.3,-0.3,1,NA
+5384597,2008_Pres-G_VA,2008,VA,Pres-G,Pres-G,Zogby Interactive/JZ Analytics,NA,11/1/08,604,Democrat,50.7,Republican,44.6,NA,6.1,11/4/08,52.63,46.33,6.3,0.2,-0.2,1,"previously listed as Zogby Analytics, telephone"
+5384598,2008_Pres-G_WA,2008,WA,Pres-G,Pres-G,"Strategic Vision, LLC",NA,11/1/08,800,Democrat,55,Republican,40,NA,15,11/4/08,57.65,40.48,17.17,2.17,-2.17,1,NA
+5384599,2008_Pres-G_WA,2008,WA,Pres-G,Pres-G,SurveyUSA,NA,11/1/08,663,Democrat,56,Republican,40,NA,16,11/4/08,57.65,40.48,17.17,1.17,-1.17,1,NA
+5384600,2008_Pres-G_WI,2008,WI,Pres-G,Pres-G,"Strategic Vision, LLC",NA,11/1/08,800,Democrat,53,Republican,40,NA,13,11/4/08,56.34,42.41,13.93,0.93,-0.93,1,NA
+5384613,2008_Pres-G_AK,2008,AK,Pres-G,Pres-G,American Research Group,NA,11/2/08,600,Democrat,43,Republican,55,NA,-12,11/4/08,37.89,59.42,-21.53,9.53,9.53,1,NA
+5384614,2008_Pres-G_AK,2008,AK,Pres-G,Pres-G,Hays Research Group,NA,11/2/08,400,Democrat,43.9,Republican,46.6,NA,-2.7,11/4/08,37.89,59.42,-21.53,18.83,18.83,1,NA
+5384615,2008_Pres-G_CO,2008,CO,Pres-G,Pres-G,Rasmussen Reports/Pulse Opinion Research,NA,11/2/08,1000,Democrat,51,Republican,47,NA,4,11/4/08,53.66,44.71,8.95,4.95,-4.95,1,NA
+5384616,2008_Pres-G_FL,2008,FL,Pres-G,Pres-G,Datamar,NA,11/2/08,657,Democrat,47,Republican,48.2,NA,-1.2,11/4/08,51.03,48.22,2.81,4.01,-4.01,0,NA
+5384617,2008_Pres-G_FL,2008,FL,Pres-G,Pres-G,Rasmussen Reports/Pulse Opinion Research,NA,11/2/08,1000,Democrat,49,Republican,50,NA,-1,11/4/08,51.03,48.22,2.81,3.81,-3.81,0,NA
+5384618,2008_Pres-G_FL,2008,FL,Pres-G,Pres-G,SurveyUSA,NA,11/2/08,691,Democrat,50,Republican,47,NA,3,11/4/08,51.03,48.22,2.81,0.19,0.19,1,NA
+5384619,2008_Pres-G_FL,2008,FL,Pres-G,Pres-G,Zogby Interactive/JZ Analytics,NA,11/2/08,600,Democrat,49.2,Republican,48,NA,1.2,11/4/08,51.03,48.22,2.81,1.61,-1.61,1,"previously listed as Zogby Analytics, telephone"
+5384620,2008_Pres-G_GA,2008,GA,Pres-G,Pres-G,Opinion Savvy/InsiderAdvantage,NA,11/2/08,512,Democrat,47,Republican,48,NA,-1,11/4/08,46.99,52.2,-5.21,4.21,4.21,1,previously listed as InsiderAdvantage
+5384621,2008_Pres-G_IN,2008,IN,Pres-G,Pres-G,Zogby Interactive/JZ Analytics,NA,11/2/08,600,Democrat,45.1,Republican,50.4,NA,-5.3,11/4/08,49.77,48.74,1.03,6.33,-6.33,0,"previously listed as Zogby Analytics, telephone"
+5384622,2008_Pres-G_MO,2008,MO,Pres-G,Pres-G,Rasmussen Reports/Pulse Opinion Research,NA,11/2/08,1000,Democrat,49,Republican,49,NA,0,11/4/08,49.29,49.43,-0.14,0.14,0.14,0.5,NA
+5384623,2008_Pres-G_MO,2008,MO,Pres-G,Pres-G,Zogby Interactive/JZ Analytics,NA,11/2/08,600,Democrat,48.8,Republican,48.8,NA,0,11/4/08,49.29,49.43,-0.14,0.14,0.14,0.5,"previously listed as Zogby Analytics, telephone"
+5384624,2008_Pres-G_NC,2008,NC,Pres-G,Pres-G,American Research Group,NA,11/2/08,600,Democrat,49,Republican,48,NA,1,11/4/08,49.7,49.37,0.33,0.67,0.67,1,NA
+5384625,2008_Pres-G_NC,2008,NC,Pres-G,Pres-G,Rasmussen Reports/Pulse Opinion Research,NA,11/2/08,1000,Democrat,49,Republican,50,NA,-1,11/4/08,49.7,49.37,0.33,1.33,-1.33,0,NA
+5384626,2008_Pres-G_NC,2008,NC,Pres-G,Pres-G,Zogby Interactive/JZ Analytics,NA,11/2/08,600,Democrat,49.1,Republican,49.5,NA,-0.4,11/4/08,49.7,49.37,0.33,0.73,-0.73,0,"previously listed as Zogby Analytics, telephone"
+5384627,2008_Pres-G_NJ,2008,NJ,Pres-G,Pres-G,Rasmussen Reports/Pulse Opinion Research,NA,11/2/08,500,Democrat,57,Republican,42,NA,15,11/4/08,57.27,41.7,15.57,0.57,-0.57,1,NA
+5384628,2008_Pres-G_NV,2008,NV,Pres-G,Pres-G,American Research Group,NA,11/2/08,600,Democrat,52,Republican,47,NA,5,11/4/08,55.15,42.65,12.5,7.5,-7.5,1,NA
+5384629,2008_Pres-G_NV,2008,NV,Pres-G,Pres-G,Zogby Interactive/JZ Analytics,NA,11/2/08,600,Democrat,53.2,Republican,42.4,NA,10.8,11/4/08,55.15,42.65,12.5,1.7,-1.7,1,"previously listed as Zogby Analytics, telephone"
+5384630,2008_Pres-G_OH,2008,OH,Pres-G,Pres-G,Rasmussen Reports/Pulse Opinion Research,NA,11/2/08,1000,Democrat,49,Republican,49,NA,0,11/4/08,50.62,46.1,4.52,4.52,-4.52,0.5,NA
+5384631,2008_Pres-G_OH,2008,OH,Pres-G,Pres-G,Zogby Interactive/JZ Analytics,NA,11/2/08,600,Democrat,49.4,Republican,47.4,NA,2,11/4/08,50.62,46.1,4.52,2.52,-2.52,1,"previously listed as Zogby Analytics, telephone"
+5384632,2008_Pres-G_PA,2008,PA,Pres-G,Pres-G,SurveyUSA,NA,11/2/08,657,Democrat,52,Republican,43,NA,9,11/4/08,54.56,44.23,10.33,1.33,-1.33,1,NA
+5384633,2008_Pres-G_PA,2008,PA,Pres-G,Pres-G,Zogby Interactive/JZ Analytics,NA,11/2/08,600,Democrat,51.2,Republican,41.4,NA,9.8,11/4/08,54.56,44.23,10.33,0.53,-0.53,1,"previously listed as Zogby Analytics, telephone"
+5384634,2008_Pres-G_US,2008,US,Pres-G,Pres-G,ABC News/Washington Post,NA,11/2/08,2304,Democrat,53,Republican,44,NA,9,11/4/08,52.92,45.66,7.26,1.74,1.74,1,NA
+5384635,2008_Pres-G_US,2008,US,Pres-G,Pres-G,Fox News/Opinion Dynamics Corp.,NA,11/2/08,971,Democrat,50,Republican,43,NA,7,11/4/08,52.92,45.66,7.26,0.26,-0.26,1,NA
+5384636,2008_Pres-G_US,2008,US,Pres-G,Pres-G,Marist College,NA,11/2/08,635,Democrat,53,Republican,44,NA,9,11/4/08,52.92,45.66,7.26,1.74,1.74,1,NA
+5384637,2008_Pres-G_US,2008,US,Pres-G,Pres-G,NBC News/Wall Street Journal,NA,11/2/08,1011,Democrat,51,Republican,43,NA,8,11/4/08,52.92,45.66,7.26,0.74,0.74,1,NA
+5384638,2008_Pres-G_US,2008,US,Pres-G,Pres-G,Rasmussen Reports/Pulse Opinion Research,NA,11/2/08,3000,Democrat,52,Republican,46,NA,6,11/4/08,52.92,45.66,7.26,1.26,-1.26,1,NA
+5384639,2008_Pres-G_US,2008,US,Pres-G,Pres-G,Research 2000,NA,11/2/08,1100,Democrat,51,Republican,46,NA,5,11/4/08,52.92,45.66,7.26,2.26,-2.26,1,NA
+5384640,2008_Pres-G_US,2008,US,Pres-G,Pres-G,Zogby Interactive/JZ Analytics,NA,11/2/08,1226,Democrat,54.1,Republican,42.7,NA,11.4,11/4/08,52.92,45.66,7.26,4.14,4.14,1,"previously listed as Zogby Analytics, telephone"
+5384641,2008_Pres-G_VA,2008,VA,Pres-G,Pres-G,American Research Group,NA,11/2/08,600,Democrat,51,Republican,47,NA,4,11/4/08,52.63,46.33,6.3,2.3,-2.3,1,NA
+5384642,2008_Pres-G_VA,2008,VA,Pres-G,Pres-G,Rasmussen Reports/Pulse Opinion Research,NA,11/2/08,1000,Democrat,51,Republican,47,NA,4,11/4/08,52.63,46.33,6.3,2.3,-2.3,1,NA
+5384643,2008_Pres-G_VA,2008,VA,Pres-G,Pres-G,Zogby Interactive/JZ Analytics,NA,11/2/08,600,Democrat,51.7,Republican,45.3,NA,6.4,11/4/08,52.63,46.33,6.3,0.1,0.1,1,"previously listed as Zogby Analytics, telephone"
+5384644,2008_Pres-G_WV,2008,WV,Pres-G,Pres-G,American Research Group,NA,11/2/08,600,Democrat,42,Republican,53,NA,-11,11/4/08,42.59,55.71,-13.12,2.12,2.12,1,NA
+5384647,2008_Pres-G_US,2008,US,Pres-G,Pres-G,George Washington University (Battleground),NA,11/3/08,400,Democrat,49,Republican,44,NA,5,11/4/08,52.92,45.66,7.26,2.26,-2.26,1,NA
+5384648,2008_Pres-G_US,2008,US,Pres-G,Pres-G,Marist College,NA,11/3/08,804,Democrat,52,Republican,43,NA,9,11/4/08,52.92,45.66,7.26,1.74,1.74,1,NA
+5385742,2012_Pres-G_CO,2012,CO,Pres-G,Pres-G,Grove Insight,NA,10/16/12,500,Democrat,47,Republican,44,NA,3,11/6/12,51.45,46.09,5.36,2.36,-2.36,1,NA
+5385743,2012_Pres-G_CT,2012,CT,Pres-G,Pres-G,"Mason-Dixon Polling & Research, Inc.",NA,10/16/12,625,Democrat,49,Republican,42,NA,7,11/6/12,58.06,40.72,17.34,10.34,-10.34,1,NA
+5385744,2012_Pres-G_CT,2012,CT,Pres-G,Pres-G,Public Policy Polling,NA,10/16/12,1015,Democrat,53,Republican,44,NA,9,11/6/12,58.06,40.72,17.34,8.34,-8.34,1,NA
+5385745,2012_Pres-G_IA,2012,IA,Pres-G,Pres-G,Marist College,NA,10/16/12,1137,Democrat,51,Republican,43,NA,8,11/6/12,51.99,46.18,5.81,2.19,2.19,1,aka NBC/Marist
+5385746,2012_Pres-G_MA,2012,MA,Pres-G,Pres-G,Public Policy Polling,NA,10/16/12,709,Democrat,57,Republican,39,NA,18,11/6/12,60.67,37.52,23.15,5.15,-5.15,1,NA
+5385747,2012_Pres-G_MT,2012,MT,Pres-G,Pres-G,Public Policy Polling,NA,10/16/12,806,Democrat,43,Republican,53,NA,-10,11/6/12,41.66,55.3,-13.64,3.64,3.64,1,NA
+5385748,2012_Pres-G_NV,2012,NV,Pres-G,Pres-G,Grove Insight,NA,10/16/12,500,Democrat,50,Republican,43,NA,7,11/6/12,52.36,45.68,6.68,0.32,0.32,1,NA
+5385749,2012_Pres-G_NV,2012,NV,Pres-G,Pres-G,Mellman Group,NA,10/16/12,600,Democrat,51,Republican,43,NA,8,11/6/12,52.36,45.68,6.68,1.32,1.32,1,NA
+5385750,2012_Pres-G_US,2012,US,Pres-G,Pres-G,George Washington University (Battleground),NA,10/16/12,1000,Democrat,47,Republican,49,NA,-2,11/6/12,51.01,47.15,3.86,5.86,-5.86,0,aka Politico/George Washington U.
+5385751,2012_Pres-G_VA,2012,VA,Pres-G,Pres-G,Public Policy Polling,NA,10/16/12,733,Democrat,49,Republican,48,NA,1,11/6/12,51.16,47.28,3.88,2.88,-2.88,1,NA
+5385752,2012_Pres-G_WA,2012,WA,Pres-G,Pres-G,Public Policy Polling,NA,10/16/12,574,Democrat,50,Republican,45,NA,5,11/6/12,55.8,41.03,14.77,9.77,-9.77,1,NA
+5385753,2012_Pres-G_WI,2012,WI,Pres-G,Pres-G,Marist College,NA,10/16/12,1013,Democrat,51,Republican,45,NA,6,11/6/12,52.83,45.89,6.94,0.94,-0.94,1,aka NBC/Marist
+5385754,2012_Pres-G_WI,2012,WI,Pres-G,Pres-G,"Mason-Dixon Polling & Research, Inc.",NA,10/16/12,625,Democrat,48,Republican,46,NA,2,11/6/12,52.83,45.89,6.94,4.94,-4.94,1,NA
+5385772,2012_Pres-G_CO,2012,CO,Pres-G,Pres-G,Public Policy Polling,NA,10/17/12,1000,Democrat,49.5,Republican,45.5,4,4,11/6/12,51.45,46.09,5.36,1.36,-1.36,1,NA
+5385773,2012_Pres-G_MI,2012,MI,Pres-G,Pres-G,EPIC-MRA,NA,10/17/12,800,Democrat,52,Republican,46,NA,6,11/6/12,54.04,44.58,9.46,3.46,-3.46,1,NA
+5385774,2012_Pres-G_MO,2012,MO,Pres-G,Pres-G,Rasmussen Reports/Pulse Opinion Research,NA,10/17/12,500,Democrat,43,Republican,54,NA,-11,11/6/12,44.28,53.64,-9.36,1.64,-1.64,1,NA
+5385775,2012_Pres-G_NC,2012,NC,Pres-G,Pres-G,Rasmussen Reports/Pulse Opinion Research,NA,10/17/12,500,Democrat,46,Republican,52,NA,-6,11/6/12,48.35,50.39,-2.04,3.96,-3.96,1,NA
+5385776,2012_Pres-G_OH,2012,OH,Pres-G,Pres-G,Rasmussen Reports/Pulse Opinion Research,NA,10/17/12,750,Democrat,49,Republican,48,NA,1,11/6/12,50.58,47.6,2.98,1.98,-1.98,1,NA
+5385777,2012_Pres-G_OR,2012,OR,Pres-G,Pres-G,SurveyUSA,NA,10/17/12,579,Democrat,49,Republican,42,NA,7,11/6/12,54.24,42.15,12.09,5.09,-5.09,1,NA
+5385778,2012_Pres-G_US,2012,US,Pres-G,Pres-G,Google Consumer Surveys,NA,10/17/12,1916,Democrat,47.1,Republican,44.9,NA,2.2,11/6/12,51.01,47.15,3.86,1.66,-1.66,1,NA
+5385789,2012_Pres-G_CA,2012,CA,Pres-G,Pres-G,Public Policy Institute of California,NA,10/18/12,993,Democrat,53,Republican,41,NA,12,11/6/12,60.16,37.07,23.09,11.09,-11.09,1,NA
+5385790,2012_Pres-G_CA,2012,CA,Pres-G,Pres-G,Greenberg Quinlan Rosner/American Viewpoint,NA,10/18/12,1440,Democrat,54,Republican,40,0,14,11/6/12,60.16,37.07,23.09,9.09,-9.09,1,aka USC Dornsife/Los Angeles Times Poll
+5385791,2012_Pres-G_FL,2012,FL,Pres-G,Pres-G,CNN/Opinion Research Corp.,NA,10/18/12,681,Democrat,48,Republican,49,NA,-1,11/6/12,49.9,49.03,0.87,1.87,-1.87,0,NA
+5385792,2012_Pres-G_FL,2012,FL,Pres-G,Pres-G,Fox News/Anderson Robbins Research/Shaw & Company Research,NA,10/18/12,1130,Democrat,45,Republican,48,NA,-3,11/6/12,49.9,49.03,0.87,3.87,-3.87,0,aka Fox News
+5385793,2012_Pres-G_FL,2012,FL,Pres-G,Pres-G,Grove Insight,NA,10/18/12,500,Democrat,48,Republican,45,NA,3,11/6/12,49.9,49.03,0.87,2.13,2.13,1,NA
+5385794,2012_Pres-G_FL,2012,FL,Pres-G,Pres-G,Public Policy Polling,NA,10/18/12,800,Democrat,47,Republican,48,NA,-1,11/6/12,49.9,49.03,0.87,1.87,-1.87,0,NA
+5385795,2012_Pres-G_FL,2012,FL,Pres-G,Pres-G,Rasmussen Reports/Pulse Opinion Research,NA,10/18/12,750,Democrat,46,Republican,51,NA,-5,11/6/12,49.9,49.03,0.87,5.87,-5.87,0,NA
+5385796,2012_Pres-G_FL,2012,FL,Pres-G,Pres-G,SurveyUSA,NA,10/18/12,600,Democrat,47,Republican,46,NA,1,11/6/12,49.9,49.03,0.87,0.13,0.13,1,NA
+5385797,2012_Pres-G_IA,2012,IA,Pres-G,Pres-G,Public Policy Polling,NA,10/18/12,869,Democrat,48,Republican,49,NA,-1,11/6/12,51.99,46.18,5.81,6.81,-6.81,0,NA
+5385798,2012_Pres-G_MN,2012,MN,Pres-G,Pres-G,St. Cloud State University,NA,10/18/12,601,Democrat,53,Republican,45,NA,8,11/6/12,52.65,44.96,7.69,0.31,0.31,1,NA
+5385799,2012_Pres-G_NC,2012,NC,Pres-G,Pres-G,Grove Insight,NA,10/18/12,500,Democrat,47,Republican,44,NA,3,11/6/12,48.35,50.39,-2.04,5.04,5.04,0,NA
+5385800,2012_Pres-G_ND,2012,ND,Pres-G,Pres-G,Rasmussen Reports/Pulse Opinion Research,NA,10/18/12,600,Democrat,40,Republican,54,NA,-14,11/6/12,38.69,58.32,-19.63,5.63,5.63,1,NA
+5385801,2012_Pres-G_NH,2012,NH,Pres-G,Pres-G,Public Policy Polling,NA,10/18/12,1036,Democrat,48,Republican,49,NA,-1,11/6/12,51.98,46.4,5.58,6.58,-6.58,0,NA
+5385802,2012_Pres-G_NJ,2012,NJ,Pres-G,Pres-G,SurveyUSA,NA,10/18/12,577,Democrat,54,Republican,40,NA,14,11/6/12,58.25,40.5,17.75,3.75,-3.75,1,NA
+5385803,2012_Pres-G_OH,2012,OH,Pres-G,Pres-G,Fox News/Anderson Robbins Research/Shaw & Company Research,NA,10/18/12,1131,Democrat,46,Republican,43,NA,3,11/6/12,50.58,47.6,2.98,0.02,0.02,1,aka Fox News
+5385804,2012_Pres-G_TX,2012,TX,Pres-G,Pres-G,University of Texas,NA,10/18/12,540,Democrat,39,Republican,55,NA,-16,11/6/12,41.35,57.13,-15.78,0.22,-0.22,1,"previously listed as University of Texas, online"
+5385805,2012_Pres-G_US,2012,US,Pres-G,Pres-G,Gallup,NA,10/18/12,2700,Democrat,45,Republican,51,NA,-6,11/6/12,51.01,47.15,3.86,9.86,-9.86,0,NA
+5385806,2012_Pres-G_US,2012,US,Pres-G,Pres-G,Google Consumer Surveys,NA,10/18/12,1817,Democrat,46.3,Republican,45.7,NA,0.6,11/6/12,51.01,47.15,3.86,3.26,-3.26,1,NA
+5385807,2012_Pres-G_US,2012,US,Pres-G,Pres-G,Gravis Marketing,NA,10/18/12,805,Democrat,44,Republican,46,NA,-2,11/6/12,51.01,47.15,3.86,5.86,-5.86,0,NA
+5385808,2012_Pres-G_US,2012,US,Pres-G,Pres-G,Ipsos,NA,10/18/12,1368,Democrat,46,Republican,45,NA,1,11/6/12,51.01,47.15,3.86,2.86,-2.86,1,"previously listed as Ipsos, online"
+5385809,2012_Pres-G_US,2012,US,Pres-G,Pres-G,Public Policy Polling,NA,10/18/12,1200,Democrat,49,Republican,47,NA,2,11/6/12,51.01,47.15,3.86,1.86,-1.86,1,NA
+5385810,2012_Pres-G_US,2012,US,Pres-G,Pres-G,Rasmussen Reports/Pulse Opinion Research,NA,10/18/12,1500,Democrat,47,Republican,48,NA,-1,11/6/12,51.01,47.15,3.86,4.86,-4.86,0,NA
+5385811,2012_Pres-G_VA,2012,VA,Pres-G,Pres-G,CallFire,NA,10/18/12,624,Democrat,46,Republican,48,NA,-2,11/6/12,51.16,47.28,3.88,5.88,-5.88,0,NA
+5385812,2012_Pres-G_VA,2012,VA,Pres-G,Pres-G,Rasmussen Reports/Pulse Opinion Research,NA,10/18/12,750,Democrat,47,Republican,50,NA,-3,11/6/12,51.16,47.28,3.88,6.88,-6.88,0,NA
+5385813,2012_Pres-G_WI,2012,WI,Pres-G,Pres-G,Grove Insight,NA,10/18/12,500,Democrat,47,Republican,44,NA,3,11/6/12,52.83,45.89,6.94,3.94,-3.94,1,NA
+5385814,2012_Pres-G_WI,2012,WI,Pres-G,Pres-G,Rasmussen Reports/Pulse Opinion Research,NA,10/18/12,500,Democrat,50,Republican,48,NA,2,11/6/12,52.83,45.89,6.94,4.94,-4.94,1,NA
+5385832,2012_Pres-G_FL,2012,FL,Pres-G,Pres-G,Angus Reid Global,NA,10/19/12,502,Democrat,44,Republican,49,NA,-5,11/6/12,49.9,49.03,0.87,5.87,-5.87,0,NA
+5385833,2012_Pres-G_IA,2012,IA,Pres-G,Pres-G,Public Policy Polling,NA,10/19/12,660,Democrat,49,Republican,48,NA,1,11/6/12,51.99,46.18,5.81,4.81,-4.81,1,NA
+5385834,2012_Pres-G_MI,2012,MI,Pres-G,Pres-G,Angus Reid Global,NA,10/19/12,551,Democrat,49,Republican,40,NA,9,11/6/12,54.04,44.58,9.46,0.46,-0.46,1,NA
+5385835,2012_Pres-G_NH,2012,NH,Pres-G,Pres-G,University of New Hampshire,NA,10/19/12,773,Democrat,51,Republican,42,NA,9,11/6/12,51.98,46.4,5.58,3.42,3.42,1,NA
+5385836,2012_Pres-G_OH,2012,OH,Pres-G,Pres-G,Angus Reid Global,NA,10/19/12,550,Democrat,45,Republican,45,NA,0,11/6/12,50.58,47.6,2.98,2.98,-2.98,0.5,NA
+5385837,2012_Pres-G_OH,2012,OH,Pres-G,Pres-G,Gravis Marketing,NA,10/19/12,1943,Democrat,47,Republican,47,NA,0,11/6/12,50.58,47.6,2.98,2.98,-2.98,0.5,NA
+5385838,2012_Pres-G_OH,2012,OH,Pres-G,Pres-G,Public Policy Polling,NA,10/19/12,532,Democrat,49,Republican,48,NA,1,11/6/12,50.58,47.6,2.98,1.98,-1.98,1,NA
+5385839,2012_Pres-G_OH,2012,OH,Pres-G,Pres-G,Quinnipiac University,NA,10/19/12,1548,Democrat,50,Republican,45,NA,5,11/6/12,50.58,47.6,2.98,2.02,2.02,1,NA
+5385840,2012_Pres-G_PA,2012,PA,Pres-G,Pres-G,Angus Reid Global,NA,10/19/12,559,Democrat,48,Republican,39,NA,9,11/6/12,51.96,46.58,5.38,3.62,3.62,1,NA
+5385841,2012_Pres-G_PA,2012,PA,Pres-G,Pres-G,Muhlenberg College,NA,10/19/12,444,Democrat,50,Republican,45,NA,5,11/6/12,51.96,46.58,5.38,0.38,-0.38,1,NA
+5385842,2012_Pres-G_TN,2012,TN,Pres-G,Pres-G,Middle Tennessee State University,NA,10/19/12,609,Democrat,34,Republican,59,NA,-25,11/6/12,39.04,59.42,-20.38,4.62,-4.62,1,NA
+5385843,2012_Pres-G_US,2012,US,Pres-G,Pres-G,CBS News/New York Times,NA,10/19/12,790,Democrat,48,Republican,46,NA,2,11/6/12,51.01,47.15,3.86,1.86,-1.86,1,CBS News only
+5385844,2012_Pres-G_US,2012,US,Pres-G,Pres-G,IBD/TIPP,NA,10/19/12,885,Democrat,47.4,Republican,43.4,NA,4,11/6/12,51.01,47.15,3.86,0.14,0.14,1,NA
+5385845,2012_Pres-G_US,2012,US,Pres-G,Pres-G,NBC News/Wall Street Journal,NA,10/19/12,816,Democrat,47,Republican,47,NA,0,11/6/12,51.01,47.15,3.86,3.86,-3.86,0.5,NA
+5385846,2012_Pres-G_US,2012,US,Pres-G,Pres-G,RAND (American Life Panel),NA,10/19/12,3500,Democrat,48.26,Republican,46.36,NA,1.9,11/6/12,51.01,47.15,3.86,1.96,-1.96,1,NA
+5385847,2012_Pres-G_US,2012,US,Pres-G,Pres-G,Zogby Interactive/JZ Analytics,NA,10/19/12,800,Democrat,49.7,Republican,47.3,NA,2.4,11/6/12,51.01,47.15,3.86,1.46,-1.46,1,"; previously listed as Zogby Analytics, telephone"
+5385848,2012_Pres-G_VA,2012,VA,Pres-G,Pres-G,Public Policy Polling,NA,10/19/12,500,Democrat,49,Republican,47,NA,2,11/6/12,51.16,47.28,3.88,1.88,-1.88,1,NA
+5385849,2012_Pres-G_WA,2012,WA,Pres-G,Pres-G,Strategies 360,NA,10/19/12,500,Democrat,52,Republican,39,NA,13,11/6/12,55.8,41.03,14.77,1.77,-1.77,1,NA
+5385850,2012_Pres-G_WI,2012,WI,Pres-G,Pres-G,Angus Reid Global,NA,10/19/12,502,Democrat,48,Republican,43,NA,5,11/6/12,52.83,45.89,6.94,1.94,-1.94,1,NA
+5385876,2012_Pres-G_FL,2012,FL,Pres-G,Pres-G,Mellman Group,NA,10/20/12,800,Democrat,47,Republican,47,NA,0,11/6/12,49.9,49.03,0.87,0.87,-0.87,0.5,NA
+5385877,2012_Pres-G_FL,2012,FL,Pres-G,Pres-G,Pharos Research Group,NA,10/20/12,759,Democrat,46.77,Republican,46.64,NA,0.13,11/6/12,49.9,49.03,0.87,0.74,-0.74,1,NA
+5385878,2012_Pres-G_IN,2012,IN,Pres-G,Pres-G,Pharos Research Group,NA,10/20/12,754,Democrat,38.33,Republican,51.46,NA,-13.13,11/6/12,43.84,54.04,-10.2,2.93,-2.93,1,NA
+5385879,2012_Pres-G_MA,2012,MA,Pres-G,Pres-G,Kimball Political Consulting,NA,10/20/12,761,Democrat,55,Republican,39,NA,16,11/6/12,60.67,37.52,23.15,7.15,-7.15,1,NA
+5385880,2012_Pres-G_MO,2012,MO,Pres-G,Pres-G,Public Policy Polling,NA,10/20/12,582,Democrat,46,Republican,52,NA,-6,11/6/12,44.28,53.64,-9.36,3.36,3.36,1,NA
+5385881,2012_Pres-G_MT,2012,MT,Pres-G,Pres-G,Pharos Research Group,NA,10/20/12,828,Democrat,41.3,Republican,47.46,NA,-6.16,11/6/12,41.66,55.3,-13.64,7.48,7.48,1,NA
+5385882,2012_Pres-G_ND,2012,ND,Pres-G,Pres-G,Pharos Research Group,NA,10/20/12,807,Democrat,39,Republican,49,NA,-10,11/6/12,38.69,58.32,-19.63,9.63,9.63,1,NA
+5385883,2012_Pres-G_NE,2012,NE,Pres-G,Pres-G,Pharos Research Group,NA,10/20/12,783,Democrat,41,Republican,51,NA,-10,11/6/12,38.03,59.8,-21.77,11.77,11.77,1,NA
+5385884,2012_Pres-G_NH,2012,NH,Pres-G,Pres-G,Lake Research Partners,NA,10/20/12,400,Democrat,48,Republican,45,NA,3,11/6/12,51.98,46.4,5.58,2.58,-2.58,1,aka Lake Research Partners
+5385885,2012_Pres-G_NY,2012,NY,Pres-G,Pres-G,Marist College,NA,10/20/12,565,Democrat,61,Republican,35,NA,26,11/6/12,63.35,35.17,28.18,2.18,-2.18,1,NA
+5385886,2012_Pres-G_OH,2012,OH,Pres-G,Pres-G,Pharos Research Group,NA,10/20/12,810,Democrat,50,Republican,45,NA,5,11/6/12,50.58,47.6,2.98,2.02,2.02,1,NA
+5385887,2012_Pres-G_OH,2012,OH,Pres-G,Pres-G,Suffolk University,NA,10/20/12,600,Democrat,47,Republican,47,1,0,11/6/12,50.58,47.6,2.98,2.98,-2.98,0.5,NA
+5385888,2012_Pres-G_OH,2012,OH,Pres-G,Pres-G,TCJ Research,NA,10/20/12,1000,Democrat,47,Republican,49.7,NA,-2.7,11/6/12,50.58,47.6,2.98,5.68,-5.68,0,NA
+5385889,2012_Pres-G_PA,2012,PA,Pres-G,Pres-G,Pharos Research Group,NA,10/20/12,760,Democrat,49,Republican,46,NA,3,11/6/12,51.96,46.58,5.38,2.38,-2.38,1,NA
+5385890,2012_Pres-G_US,2012,US,Pres-G,Pres-G,American Research Group,NA,10/20/12,1200,Democrat,47,Republican,49,NA,-2,11/6/12,51.01,47.15,3.86,5.86,-5.86,0,NA
+5385891,2012_Pres-G_US,2012,US,Pres-G,Pres-G,Greenberg Quinlan Rosner (Democracy Corps),NA,10/20/12,1000,Democrat,49,Republican,46,NA,3,11/6/12,51.01,47.15,3.86,0.86,-0.86,1,aka Democracy Corps
+5385892,2012_Pres-G_US,2012,US,Pres-G,Pres-G,Monmouth University,NA,10/20/12,1402,Democrat,45,Republican,48,NA,-3,11/6/12,51.01,47.15,3.86,6.86,-6.86,0,aka Monmouth U.
+5385893,2012_Pres-G_US,2012,US,Pres-G,Pres-G,Pharos Research Group,NA,10/20/12,918,Democrat,49.67,Republican,47.39,NA,2.28,11/6/12,51.01,47.15,3.86,1.58,-1.58,1,NA
+5385894,2012_Pres-G_US,2012,US,Pres-G,Pres-G,Public Policy Polling,NA,10/20/12,1300,Democrat,48,Republican,48,NA,0,11/6/12,51.01,47.15,3.86,3.86,-3.86,0.5,aka PPP/Daily Kos/SEIU
+5385895,2012_Pres-G_US,2012,US,Pres-G,Pres-G,TCJ Research,NA,10/20/12,1500,Democrat,45.8,Republican,50.2,NA,-4.4,11/6/12,51.01,47.15,3.86,8.26,-8.26,0,NA
+5385896,2012_Pres-G_VA,2012,VA,Pres-G,Pres-G,Mellman Group,NA,10/20/12,800,Democrat,46,Republican,45,NA,1,11/6/12,51.16,47.28,3.88,2.88,-2.88,1,NA
+5385897,2012_Pres-G_VA,2012,VA,Pres-G,Pres-G,Clout Research/Wenzel Strategies,NA,10/20/12,1000,Democrat,47,Republican,49,NA,-2,11/6/12,51.16,47.28,3.88,5.88,-5.88,0,previously listed as Wenzel Strategies
+5385898,2012_Pres-G_WI,2012,WI,Pres-G,Pres-G,TCJ Research,NA,10/20/12,1000,Democrat,45.5,Republican,48.6,NA,-3.1,11/6/12,52.83,45.89,6.94,10.04,-10.04,0,NA
+5385914,2012_Pres-G_AZ,2012,AZ,Pres-G,Pres-G,Rasmussen Reports/Pulse Opinion Research,NA,10/21/12,500,Democrat,44,Republican,52,NA,-8,11/6/12,44.45,53.48,-9.03,1.03,1.03,1,NA
+5385915,2012_Pres-G_CO,2012,CO,Pres-G,Pres-G,Rasmussen Reports/Pulse Opinion Research,NA,10/21/12,500,Democrat,46,Republican,50,NA,-4,11/6/12,51.45,46.09,5.36,9.36,-9.36,0,NA
+5385916,2012_Pres-G_CT,2012,CT,Pres-G,Pres-G,Quinnipiac University,NA,10/21/12,1412,Democrat,55,Republican,41,NA,14,11/6/12,58.06,40.72,17.34,3.34,-3.34,1,NA
+5385917,2012_Pres-G_CT,2012,CT,Pres-G,Pres-G,Rasmussen Reports/Pulse Opinion Research,NA,10/21/12,500,Democrat,52,Republican,45,NA,7,11/6/12,58.06,40.72,17.34,10.34,-10.34,1,NA
+5385918,2012_Pres-G_CT,2012,CT,Pres-G,Pres-G,SurveyUSA,NA,10/21/12,575,Democrat,53,Republican,40,NA,13,11/6/12,58.06,40.72,17.34,4.34,-4.34,1,NA
+5385919,2012_Pres-G_IA,2012,IA,Pres-G,Pres-G,Rasmussen Reports/Pulse Opinion Research,NA,10/21/12,500,Democrat,48,Republican,48,NA,0,11/6/12,51.99,46.18,5.81,5.81,-5.81,0.5,NA
+5385920,2012_Pres-G_MN,2012,MN,Pres-G,Pres-G,Rasmussen Reports/Pulse Opinion Research,NA,10/21/12,500,Democrat,51,Republican,46,NA,5,11/6/12,52.65,44.96,7.69,2.69,-2.69,1,NA
+5385921,2012_Pres-G_NC,2012,NC,Pres-G,Pres-G,"National Research, Inc.",NA,10/21/12,600,Democrat,47,Republican,48,NA,-1,11/6/12,48.35,50.39,-2.04,1.04,1.04,1,aka National Research/Civitas
+5385922,2012_Pres-G_NH,2012,NH,Pres-G,Pres-G,American Research Group,NA,10/21/12,600,Democrat,47,Republican,49,NA,-2,11/6/12,51.98,46.4,5.58,7.58,-7.58,0,NA
+5385923,2012_Pres-G_NV,2012,NV,Pres-G,Pres-G,American Research Group,NA,10/21/12,600,Democrat,49,Republican,47,NA,2,11/6/12,52.36,45.68,6.68,4.68,-4.68,1,NA
+5385924,2012_Pres-G_OH,2012,OH,Pres-G,Pres-G,SurveyUSA,NA,10/21/12,609,Democrat,47,Republican,44,NA,3,11/6/12,50.58,47.6,2.98,0.02,0.02,1,NA
+5385925,2012_Pres-G_OH,2012,OH,Pres-G,Pres-G,University of Cincinnati (Ohio Poll),NA,10/21/12,1015,Democrat,49,Republican,49,NA,0,11/6/12,50.58,47.6,2.98,2.98,-2.98,0.5,NA
+5385926,2012_Pres-G_OK,2012,OK,Pres-G,Pres-G,SoonerPoll.com,NA,10/21/12,305,Democrat,32.7,Republican,58.6,NA,-25.9,11/6/12,33.23,66.77,-33.54,7.64,7.64,1,NA
+5385927,2012_Pres-G_PA,2012,PA,Pres-G,Pres-G,Gravis Marketing,NA,10/21/12,887,Democrat,48,Republican,45,NA,3,11/6/12,51.96,46.58,5.38,2.38,-2.38,1,NA
+5385928,2012_Pres-G_US,2012,US,Pres-G,Pres-G,GfK Group,NA,10/21/12,839,Democrat,45,Republican,47,NA,-2,11/6/12,51.01,47.15,3.86,5.86,-5.86,0,NA
+5385929,2012_Pres-G_US,2012,US,Pres-G,Pres-G,Public Policy Polling,NA,10/21/12,1200,Democrat,47,Republican,49,NA,-2,11/6/12,51.01,47.15,3.86,5.86,-5.86,0,NA
+5385930,2012_Pres-G_US,2012,US,Pres-G,Pres-G,Rasmussen Reports/Pulse Opinion Research,NA,10/21/12,1500,Democrat,46,Republican,50,NA,-4,11/6/12,51.01,47.15,3.86,7.86,-7.86,0,NA
+5385931,2012_Pres-G_US,2012,US,Pres-G,Pres-G,YouGov,NA,10/21/12,803,Democrat,48,Republican,46,NA,2,11/6/12,51.01,47.15,3.86,1.86,-1.86,1,NA
+5385943,2012_Pres-G_MA,2012,MA,Pres-G,Pres-G,MassINC Polling Group,NA,10/22/12,516,Democrat,56,Republican,36,NA,20,11/6/12,60.67,37.52,23.15,3.15,-3.15,1,NA
+5385944,2012_Pres-G_MD,2012,MD,Pres-G,Pres-G,OpinionWorks,NA,10/22/12,801,Democrat,55,Republican,36,NA,19,11/6/12,61.97,35.9,26.07,7.07,-7.07,1,NA
+5385945,2012_Pres-G_NM,2012,NM,Pres-G,Pres-G,Public Opinion Strategies,NA,10/22/12,500,Democrat,47,Republican,42,6,5,11/6/12,52.99,42.84,10.15,5.15,-5.15,1,NA
+5385946,2012_Pres-G_OH,2012,OH,Pres-G,Pres-G,Lake Research Partners,NA,10/22/12,600,Democrat,46,Republican,44,NA,2,11/6/12,50.58,47.6,2.98,0.98,-0.98,1,aka Lake Research Partners
+5385947,2012_Pres-G_US,2012,US,Pres-G,Pres-G,ABC News/Washington Post,NA,10/22/12,1394,Democrat,48,Republican,49,NA,-1,11/6/12,51.01,47.15,3.86,4.86,-4.86,0,NA
+5385948,2012_Pres-G_US,2012,US,Pres-G,Pres-G,CVOTER International,NA,10/22/12,1179,Democrat,48,Republican,47,NA,1,11/6/12,51.01,47.15,3.86,2.86,-2.86,1,NA
+5385949,2012_Pres-G_US,2012,US,Pres-G,Pres-G,Google Consumer Surveys,NA,10/22/12,1499,Democrat,46.9,Republican,45.2,NA,1.7,11/6/12,51.01,47.15,3.86,2.16,-2.16,1,NA
+5385950,2012_Pres-G_VA,2012,VA,Pres-G,Pres-G,Zogby Interactive/JZ Analytics,NA,10/22/12,827,Democrat,49,Republican,46,NA,3,11/6/12,51.16,47.28,3.88,0.88,-0.88,1,aka JZ Analytics (online)
+5385958,2012_Pres-G_FL,2012,FL,Pres-G,Pres-G,"Susquehanna Polling & Research, Inc.",NA,10/23/12,1001,Democrat,46,Republican,51,NA,-5,11/6/12,49.9,49.03,0.87,5.87,-5.87,0,NA
+5385959,2012_Pres-G_IA,2012,IA,Pres-G,Pres-G,University of Iowa,NA,10/23/12,307,Democrat,44.4,Republican,45.2,NA,-0.8,11/6/12,51.99,46.18,5.81,6.61,-6.61,0,NA
+5385960,2012_Pres-G_MI,2012,MI,Pres-G,Pres-G,Baydoun Consulting,NA,10/23/12,1122,Democrat,46.92,Republican,46.56,NA,0.36,11/6/12,54.04,44.58,9.46,9.1,-9.1,1,aka FMW/Baydoun Consulting
+5385961,2012_Pres-G_NH,2012,NH,Pres-G,Pres-G,Rasmussen Reports/Pulse Opinion Research,NA,10/23/12,500,Democrat,48,Republican,50,NA,-2,11/6/12,51.98,46.4,5.58,7.58,-7.58,0,NA
+5385962,2012_Pres-G_NV,2012,NV,Pres-G,Pres-G,Public Policy Polling,NA,10/23/12,636,Democrat,50,Republican,47,3,3,11/6/12,52.36,45.68,6.68,3.68,-3.68,1,NA
+5385963,2012_Pres-G_NV,2012,NV,Pres-G,Pres-G,Rasmussen Reports/Pulse Opinion Research,NA,10/23/12,500,Democrat,50,Republican,48,NA,2,11/6/12,52.36,45.68,6.68,4.68,-4.68,1,NA
+5385964,2012_Pres-G_NY,2012,NY,Pres-G,Pres-G,Siena College,NA,10/23/12,750,Democrat,59,Republican,35,NA,24,11/6/12,63.35,35.17,28.18,4.18,-4.18,1,NA
+5385965,2012_Pres-G_OH,2012,OH,Pres-G,Pres-G,Rasmussen Reports/Pulse Opinion Research,NA,10/23/12,1000,Democrat,47,Republican,47,NA,0,11/6/12,50.58,47.6,2.98,2.98,-2.98,0.5,aka Pulse Opinion Research
+5385966,2012_Pres-G_OH,2012,OH,Pres-G,Pres-G,Rasmussen Reports/Pulse Opinion Research,NA,10/23/12,750,Democrat,48,Republican,48,NA,0,11/6/12,50.58,47.6,2.98,2.98,-2.98,0.5,NA
+5385967,2012_Pres-G_OH,2012,OH,Pres-G,Pres-G,Time/Abt SRBI,NA,10/23/12,783,Democrat,49,Republican,44,NA,5,11/6/12,50.58,47.6,2.98,2.02,2.02,1,NA
+5385968,2012_Pres-G_PA,2012,PA,Pres-G,Pres-G,Rasmussen Reports/Pulse Opinion Research,NA,10/23/12,1000,Democrat,50,Republican,44,NA,6,11/6/12,51.96,46.58,5.38,0.62,0.62,1,aka Pulse Opinion Research
+5385969,2012_Pres-G_US,2012,US,Pres-G,Pres-G,Google Consumer Surveys,NA,10/23/12,1726,Democrat,46.2,Republican,44.7,NA,1.5,11/6/12,51.01,47.15,3.86,2.36,-2.36,1,NA
+5385970,2012_Pres-G_VA,2012,VA,Pres-G,Pres-G,Rasmussen Reports/Pulse Opinion Research,NA,10/23/12,1000,Democrat,48,Republican,48,NA,0,11/6/12,51.16,47.28,3.88,3.88,-3.88,0.5,aka Pulse Opinion Research
+5385971,2012_Pres-G_VA,2012,VA,Pres-G,Pres-G,Zogby Interactive/JZ Analytics,NA,10/23/12,832,Democrat,49,Republican,47,NA,2,11/6/12,51.16,47.28,3.88,1.88,-1.88,1,aka JZ Analytics (online)
+5385972,2012_Pres-G_WI,2012,WI,Pres-G,Pres-G,Rasmussen Reports/Pulse Opinion Research,NA,10/23/12,1000,Democrat,48,Republican,47,NA,1,11/6/12,52.83,45.89,6.94,5.94,-5.94,1,aka Pulse Opinion Research
+5385991,2012_Pres-G_CA,2012,CA,Pres-G,Pres-G,Field Research Corporation (Field Poll),NA,10/24/12,1566,Democrat,54,Republican,39,NA,15,11/6/12,60.16,37.07,23.09,8.09,-8.09,1,NA
+5385992,2012_Pres-G_CO,2012,CO,Pres-G,Pres-G,Grove Insight,NA,10/24/12,500,Democrat,46,Republican,43,NA,3,11/6/12,51.45,46.09,5.36,2.36,-2.36,1,NA
+5385993,2012_Pres-G_CO,2012,CO,Pres-G,Pres-G,"Keating Research, Inc.",NA,10/24/12,502,Democrat,48,Republican,45,NA,3,11/6/12,51.45,46.09,5.36,2.36,-2.36,1,NA
+5385994,2012_Pres-G_CO,2012,CO,Pres-G,Pres-G,Marist College,NA,10/24/12,1128,Democrat,48,Republican,48,NA,0,11/6/12,51.45,46.09,5.36,5.36,-5.36,0.5,aka NBC/Marist
+5385995,2012_Pres-G_CO,2012,CO,Pres-G,Pres-G,Public Policy Polling,NA,10/24/12,904,Democrat,50,Republican,46.5,2,3.5,11/6/12,51.45,46.09,5.36,1.86,-1.86,1,NA
+5385996,2012_Pres-G_CO,2012,CO,Pres-G,Pres-G,Purple Strategies,NA,10/24/12,600,Democrat,47,Republican,46,NA,1,11/6/12,51.45,46.09,5.36,4.36,-4.36,1,NA
+5385997,2012_Pres-G_FL,2012,FL,Pres-G,Pres-G,Gravis Marketing,NA,10/24/12,1182,Democrat,49,Republican,50,NA,-1,11/6/12,49.9,49.03,0.87,1.87,-1.87,0,NA
+5385998,2012_Pres-G_FL,2012,FL,Pres-G,Pres-G,Grove Insight,NA,10/24/12,600,Democrat,47,Republican,45,NA,2,11/6/12,49.9,49.03,0.87,1.13,1.13,1,NA
+5385999,2012_Pres-G_IA,2012,IA,Pres-G,Pres-G,Gravis Marketing,NA,10/24/12,517,Democrat,50,Republican,46,NA,4,11/6/12,51.99,46.18,5.81,1.81,-1.81,1,NA
+5386000,2012_Pres-G_IA,2012,IA,Pres-G,Pres-G,Public Policy Polling,NA,10/24/12,690,Democrat,49,Republican,47,NA,2,11/6/12,51.99,46.18,5.81,3.81,-3.81,1,NA
+5386001,2012_Pres-G_MN,2012,MN,Pres-G,Pres-G,"Mason-Dixon Polling & Research, Inc.",NA,10/24/12,800,Democrat,47,Republican,44,NA,3,11/6/12,52.65,44.96,7.69,4.69,-4.69,1,NA
+5386002,2012_Pres-G_MO,2012,MO,Pres-G,Pres-G,"Mason-Dixon Polling & Research, Inc.",NA,10/24/12,625,Democrat,41,Republican,54,NA,-13,11/6/12,44.28,53.64,-9.36,3.64,-3.64,1,NA
+5386003,2012_Pres-G_NC,2012,NC,Pres-G,Pres-G,Elon University,NA,10/24/12,1238,Democrat,45.4,Republican,45.3,NA,0.1,11/6/12,48.35,50.39,-2.04,2.14,2.14,0,NA
+5386004,2012_Pres-G_NC,2012,NC,Pres-G,Pres-G,Gravis Marketing,NA,10/24/12,1723,Democrat,45,Republican,53,NA,-8,11/6/12,48.35,50.39,-2.04,5.96,-5.96,1,NA
+5386005,2012_Pres-G_NC,2012,NC,Pres-G,Pres-G,Grove Insight,NA,10/24/12,500,Democrat,47,Republican,44,NA,3,11/6/12,48.35,50.39,-2.04,5.04,5.04,0,NA
+5386006,2012_Pres-G_NC,2012,NC,Pres-G,Pres-G,Public Policy Polling,NA,10/24/12,880,Democrat,48,Republican,48,NA,0,11/6/12,48.35,50.39,-2.04,2.04,2.04,0.5,NA
+5386007,2012_Pres-G_NE,2012,NE,Pres-G,Pres-G,"Wiese Research Associates, Inc.",NA,10/24/12,800,Democrat,38,Republican,52,NA,-14,11/6/12,38.03,59.8,-21.77,7.77,7.77,1,aka Omaha World-Herald
+5386008,2012_Pres-G_NH,2012,NH,Pres-G,Pres-G,New England College,NA,10/24/12,571,Democrat,49,Republican,46,NA,3,11/6/12,51.98,46.4,5.58,2.58,-2.58,1,NA
+5386009,2012_Pres-G_NJ,2012,NJ,Pres-G,Pres-G,Philadelphia Inquirer,NA,10/24/12,601,Democrat,51,Republican,41,NA,10,11/6/12,58.25,40.5,17.75,7.75,-7.75,1,NA
+5386010,2012_Pres-G_NM,2012,NM,Pres-G,Pres-G,Public Policy Polling,NA,10/24/12,727,Democrat,53,Republican,44,NA,9,11/6/12,52.99,42.84,10.15,1.15,-1.15,1,NA
+5386011,2012_Pres-G_NM,2012,NM,Pres-G,Pres-G,"Research & Polling, Inc.",NA,10/24/12,650,Democrat,50,Republican,41,5,9,11/6/12,52.99,42.84,10.15,1.15,-1.15,1,NA
+5386012,2012_Pres-G_NV,2012,NV,Pres-G,Pres-G,CallFire,NA,10/24/12,909,Democrat,50,Republican,46,NA,4,11/6/12,52.36,45.68,6.68,2.68,-2.68,1,NA
+5386013,2012_Pres-G_NV,2012,NV,Pres-G,Pres-G,Gravis Marketing,NA,10/24/12,955,Democrat,50,Republican,49,NA,1,11/6/12,52.36,45.68,6.68,5.68,-5.68,1,NA
+5386014,2012_Pres-G_NV,2012,NV,Pres-G,Pres-G,Marist College,NA,10/24/12,1042,Democrat,50,Republican,47,NA,3,11/6/12,52.36,45.68,6.68,3.68,-3.68,1,aka NBC/Marist
+5386015,2012_Pres-G_NV,2012,NV,Pres-G,Pres-G,TCJ Research,NA,10/24/12,1000,Democrat,48.6,Republican,47.6,NA,1,11/6/12,52.36,45.68,6.68,5.68,-5.68,1,NA
+5386016,2012_Pres-G_NY,2012,NY,Pres-G,Pres-G,SurveyUSA,NA,10/24/12,554,Democrat,62,Republican,33,NA,29,11/6/12,63.35,35.17,28.18,0.82,0.82,1,NA
+5386017,2012_Pres-G_OH,2012,OH,Pres-G,Pres-G,American Research Group,NA,10/24/12,600,Democrat,49,Republican,47,NA,2,11/6/12,50.58,47.6,2.98,0.98,-0.98,1,NA
+5386018,2012_Pres-G_OH,2012,OH,Pres-G,Pres-G,CNN/Opinion Research Corp.,NA,10/24/12,741,Democrat,49,Republican,45,4,4,11/6/12,50.58,47.6,2.98,1.02,1.02,1,NA
+5386019,2012_Pres-G_OH,2012,OH,Pres-G,Pres-G,Mellman Group,NA,10/24/12,600,Democrat,49,Republican,44,NA,5,11/6/12,50.58,47.6,2.98,2.02,2.02,1,NA
+5386020,2012_Pres-G_OH,2012,OH,Pres-G,Pres-G,Purple Strategies,NA,10/24/12,600,Democrat,46,Republican,44,NA,2,11/6/12,50.58,47.6,2.98,0.98,-0.98,1,NA
+5386021,2012_Pres-G_PA,2012,PA,Pres-G,Pres-G,Philadelphia Inquirer,NA,10/24/12,600,Democrat,49,Republican,43,NA,6,11/6/12,51.96,46.58,5.38,0.62,0.62,1,NA
+5386022,2012_Pres-G_PA,2012,PA,Pres-G,Pres-G,Rasmussen Reports/Pulse Opinion Research,NA,10/24/12,500,Democrat,51,Republican,46,NA,5,11/6/12,51.96,46.58,5.38,0.38,-0.38,1,NA
+5386023,2012_Pres-G_PA,2012,PA,Pres-G,Pres-G,TCJ Research,NA,10/24/12,1000,Democrat,48.5,Republican,47.6,NA,0.9,11/6/12,51.96,46.58,5.38,4.48,-4.48,1,NA
+5386024,2012_Pres-G_US,2012,US,Pres-G,Pres-G,George Washington University (Battleground),NA,10/24/12,1000,Democrat,49,Republican,48,NA,1,11/6/12,51.01,47.15,3.86,2.86,-2.86,1,aka Politico/George Washington U.
+5386025,2012_Pres-G_US,2012,US,Pres-G,Pres-G,Ipsos,NA,10/24/12,1237,Democrat,47,Republican,46,NA,1,11/6/12,51.01,47.15,3.86,2.86,-2.86,1,"previously listed as Ipsos, online"
+5386026,2012_Pres-G_US,2012,US,Pres-G,Pres-G,NPR,NA,10/24/12,1000,Democrat,47,Republican,48,NA,-1,11/6/12,51.01,47.15,3.86,4.86,-4.86,0,Democracy Corps + Resurgent Republic
+5386027,2012_Pres-G_US,2012,US,Pres-G,Pres-G,Public Policy Polling,NA,10/24/12,1200,Democrat,48,Republican,48,NA,0,11/6/12,51.01,47.15,3.86,3.86,-3.86,0.5,NA
+5386028,2012_Pres-G_US,2012,US,Pres-G,Pres-G,Rasmussen Reports/Pulse Opinion Research,NA,10/24/12,1500,Democrat,47,Republican,50,NA,-3,11/6/12,51.01,47.15,3.86,6.86,-6.86,0,NA
+5386029,2012_Pres-G_VA,2012,VA,Pres-G,Pres-G,ABC News/Washington Post,NA,10/24/12,1228,Democrat,51,Republican,47,NA,4,11/6/12,51.16,47.28,3.88,0.12,0.12,1,Washington Post only
+5386030,2012_Pres-G_VA,2012,VA,Pres-G,Pres-G,Fox News/Anderson Robbins Research/Shaw & Company Research,NA,10/24/12,1126,Democrat,44,Republican,46,NA,-2,11/6/12,51.16,47.28,3.88,5.88,-5.88,0,aka Fox News
+5386031,2012_Pres-G_VA,2012,VA,Pres-G,Pres-G,Public Policy Polling,NA,10/24/12,722,Democrat,51,Republican,46,NA,5,11/6/12,51.16,47.28,3.88,1.12,1.12,1,NA
+5386032,2012_Pres-G_VA,2012,VA,Pres-G,Pres-G,Purple Strategies,NA,10/24/12,600,Democrat,47,Republican,47,NA,0,11/6/12,51.16,47.28,3.88,3.88,-3.88,0.5,NA
+5386033,2012_Pres-G_VA,2012,VA,Pres-G,Pres-G,Rasmussen Reports/Pulse Opinion Research,NA,10/24/12,750,Democrat,48,Republican,50,NA,-2,11/6/12,51.16,47.28,3.88,5.88,-5.88,0,NA
+5386034,2012_Pres-G_VA,2012,VA,Pres-G,Pres-G,TCJ Research,NA,10/24/12,1000,Democrat,47.1,Republican,50.4,NA,-3.3,11/6/12,51.16,47.28,3.88,7.18,-7.18,0,NA
+5386035,2012_Pres-G_VA,2012,VA,Pres-G,Pres-G,Zogby Interactive/JZ Analytics,NA,10/24/12,834,Democrat,48,Republican,48,NA,0,11/6/12,51.16,47.28,3.88,3.88,-3.88,0.5,aka JZ Analytics (online)
+5386036,2012_Pres-G_WI,2012,WI,Pres-G,Pres-G,Public Policy Polling,NA,10/24/12,827,Democrat,51,Republican,45,NA,6,11/6/12,52.83,45.89,6.94,0.94,-0.94,1,NA
+5386065,2012_Pres-G_CA,2012,CA,Pres-G,Pres-G,M4 Strategies,NA,10/25/12,2115,Democrat,55.95,Republican,33,NA,22.95,11/6/12,60.16,37.07,23.09,0.14,-0.14,1,NA
+5386066,2012_Pres-G_FL,2012,FL,Pres-G,Pres-G,Rasmussen Reports/Pulse Opinion Research,NA,10/25/12,750,Democrat,48,Republican,50,NA,-2,11/6/12,49.9,49.03,0.87,2.87,-2.87,0,NA
+5386067,2012_Pres-G_IN,2012,IN,Pres-G,Pres-G,McLaughlin & Associates,NA,10/25/12,600,Democrat,41,Republican,55,NA,-14,11/6/12,43.84,54.04,-10.2,3.8,-3.8,1,NA
+5386068,2012_Pres-G_MA,2012,MA,Pres-G,Pres-G,Rasmussen Reports/Pulse Opinion Research,NA,10/25/12,500,Democrat,59,Republican,40,NA,19,11/6/12,60.67,37.52,23.15,4.15,-4.15,1,NA
+5386069,2012_Pres-G_NC,2012,NC,Pres-G,Pres-G,Rasmussen Reports/Pulse Opinion Research,NA,10/25/12,500,Democrat,46,Republican,52,NA,-6,11/6/12,48.35,50.39,-2.04,3.96,-3.96,1,NA
+5386070,2012_Pres-G_NH,2012,NH,Pres-G,Pres-G,Grove Insight,NA,10/25/12,500,Democrat,47,Republican,44,NA,3,11/6/12,51.98,46.4,5.58,2.58,-2.58,1,NA
+5386071,2012_Pres-G_OR,2012,OR,Pres-G,Pres-G,Hoffman Research Group,NA,10/25/12,615,Democrat,47,Republican,42,NA,5,11/6/12,54.24,42.15,12.09,7.09,-7.09,1,NA
+5386072,2012_Pres-G_US,2012,US,Pres-G,Pres-G,Gallup,NA,10/25/12,2700,Democrat,46,Republican,51,NA,-5,11/6/12,51.01,47.15,3.86,8.86,-8.86,0,NA
+5386073,2012_Pres-G_US,2012,US,Pres-G,Pres-G,Google Consumer Surveys,NA,10/25/12,1712,Democrat,47.3,Republican,43.6,NA,3.7,11/6/12,51.01,47.15,3.86,0.16,-0.16,1,NA
+5386074,2012_Pres-G_US,2012,US,Pres-G,Pres-G,IBD/TIPP,NA,10/25/12,942,Democrat,45.4,Republican,44.1,NA,1.3,11/6/12,51.01,47.15,3.86,2.56,-2.56,1,NA
+5386075,2012_Pres-G_VA,2012,VA,Pres-G,Pres-G,Roanoke College,NA,10/25/12,638,Democrat,44,Republican,49,NA,-5,11/6/12,51.16,47.28,3.88,8.88,-8.88,0,NA
+5386076,2012_Pres-G_WA,2012,WA,Pres-G,Pres-G,University of Washington,NA,10/25/12,632,Democrat,57.1,Republican,36.4,NA,20.7,11/6/12,55.8,41.03,14.77,5.93,5.93,1,NA
+5386077,2012_Pres-G_WI,2012,WI,Pres-G,Pres-G,Grove Insight,NA,10/25/12,500,Democrat,48,Republican,43,NA,5,11/6/12,52.83,45.89,6.94,1.94,-1.94,1,NA
+5386078,2012_Pres-G_WI,2012,WI,Pres-G,Pres-G,Rasmussen Reports/Pulse Opinion Research,NA,10/25/12,500,Democrat,49,Republican,49,NA,0,11/6/12,52.83,45.89,6.94,6.94,-6.94,0.5,NA
+5386094,2012_Pres-G_FL,2012,FL,Pres-G,Pres-G,Mellman Group,NA,10/26/12,800,Democrat,49,Republican,47,NA,2,11/6/12,49.9,49.03,0.87,1.13,1.13,1,NA
+5386095,2012_Pres-G_FL,2012,FL,Pres-G,Pres-G,Quinnipiac University,NA,10/26/12,1073,Democrat,48,Republican,47,NA,1,11/6/12,49.9,49.03,0.87,0.13,0.13,1,aka The New York Times/Quinnipiac
+5386096,2012_Pres-G_FL,2012,FL,Pres-G,Pres-G,SurveyUSA,NA,10/26/12,595,Democrat,47,Republican,47,NA,0,11/6/12,49.9,49.03,0.87,0.87,-0.87,0.5,NA
+5386097,2012_Pres-G_HI,2012,HI,Pres-G,Pres-G,Merriman River Group,NA,10/26/12,1218,Democrat,61,Republican,34,NA,27,11/6/12,70.55,27.84,42.71,15.71,-15.71,1,aka Honolulu Civil Beat
+5386098,2012_Pres-G_MA,2012,MA,Pres-G,Pres-G,University of New Hampshire,NA,10/26/12,583,Democrat,52,Republican,38,NA,14,11/6/12,60.67,37.52,23.15,9.15,-9.15,1,NA
+5386099,2012_Pres-G_NC,2012,NC,Pres-G,Pres-G,High Point University,NA,10/26/12,403,Democrat,45,Republican,46,NA,-1,11/6/12,48.35,50.39,-2.04,1.04,1.04,1,NA
+5386100,2012_Pres-G_NH,2012,NH,Pres-G,Pres-G,Lake Research Partners,NA,10/26/12,400,Democrat,47,Republican,42,4,5,11/6/12,51.98,46.4,5.58,0.58,-0.58,1,aka Lake Research Partners
+5386101,2012_Pres-G_NV,2012,NV,Pres-G,Pres-G,SurveyUSA,NA,10/26/12,1212,Democrat,50,Republican,46,1,4,11/6/12,52.36,45.68,6.68,2.68,-2.68,1,NA
+5386102,2012_Pres-G_OH,2012,OH,Pres-G,Pres-G,Quinnipiac University,NA,10/26/12,1110,Democrat,50,Republican,45,NA,5,11/6/12,50.58,47.6,2.98,2.02,2.02,1,aka The New York Times/Quinnipiac
+5386103,2012_Pres-G_PA,2012,PA,Pres-G,Pres-G,Franklin & Marshall College,NA,10/26/12,547,Democrat,49,Republican,45,NA,4,11/6/12,51.96,46.58,5.38,1.38,-1.38,1,NA
+5386104,2012_Pres-G_RI,2012,RI,Pres-G,Pres-G,Fleming & Associates,NA,10/26/12,601,Democrat,54,Republican,33,NA,21,11/6/12,62.7,35.24,27.46,6.46,-6.46,1,NA
+5386105,2012_Pres-G_US,2012,US,Pres-G,Pres-G,ABC News/Washington Post,NA,10/26/12,1278,Democrat,48,Republican,49,NA,-1,11/6/12,51.01,47.15,3.86,4.86,-4.86,0,NA
+5386106,2012_Pres-G_US,2012,US,Pres-G,Pres-G,High Point University,NA,10/26/12,805,Democrat,46,Republican,43,NA,3,11/6/12,51.01,47.15,3.86,0.86,-0.86,1,NA
+5386107,2012_Pres-G_US,2012,US,Pres-G,Pres-G,Pew Research Center,NA,10/26/12,1495,Democrat,47,Republican,47,NA,0,11/6/12,51.01,47.15,3.86,3.86,-3.86,0.5,NA
+5386108,2012_Pres-G_US,2012,US,Pres-G,Pres-G,RAND (American Life Panel),NA,10/26/12,3500,Democrat,50.36,Republican,45.29,NA,5.07,11/6/12,51.01,47.15,3.86,1.21,1.21,1,NA
+5386109,2012_Pres-G_VA,2012,VA,Pres-G,Pres-G,Gravis Marketing,NA,10/26/12,645,Democrat,48,Republican,48,NA,0,11/6/12,51.16,47.28,3.88,3.88,-3.88,0.5,NA
+5386110,2012_Pres-G_VA,2012,VA,Pres-G,Pres-G,Quinnipiac University,NA,10/26/12,1074,Democrat,49,Republican,47,NA,2,11/6/12,51.16,47.28,3.88,1.88,-1.88,1,aka The New York Times/Quinnipiac
+5386134,2012_Pres-G_CO,2012,CO,Pres-G,Pres-G,American Research Group,NA,10/27/12,600,Democrat,47,Republican,48,NA,-1,11/6/12,51.45,46.09,5.36,6.36,-6.36,0,NA
+5386135,2012_Pres-G_FL,2012,FL,Pres-G,Pres-G,CNN/Opinion Research Corp.,NA,10/27/12,770,Democrat,48.5,Republican,49,1,-0.5,11/6/12,49.9,49.03,0.87,1.37,-1.37,0,NA
+5386136,2012_Pres-G_FL,2012,FL,Pres-G,Pres-G,Public Policy Polling,NA,10/27/12,687,Democrat,49,Republican,48,NA,1,11/6/12,49.9,49.03,0.87,0.13,0.13,1,NA
+5386137,2012_Pres-G_FL,2012,FL,Pres-G,Pres-G,Zogby Interactive/JZ Analytics,NA,10/27/12,827,Democrat,47,Republican,48,NA,-1,11/6/12,49.9,49.03,0.87,1.87,-1.87,0,aka JZ Analytics (online)
+5386138,2012_Pres-G_GA,2012,GA,Pres-G,Pres-G,SurveyUSA,NA,10/27/12,574,Democrat,44,Republican,52,NA,-8,11/6/12,45.39,53.19,-7.8,0.2,-0.2,1,NA
+5386139,2012_Pres-G_IN,2012,IN,Pres-G,Pres-G,Pharos Research Group,NA,10/27/12,753,Democrat,42,Republican,55,NA,-13,11/6/12,43.84,54.04,-10.2,2.8,-2.8,1,NA
+5386140,2012_Pres-G_MA,2012,MA,Pres-G,Pres-G,Suffolk University,NA,10/27/12,600,Democrat,63,Republican,31,NA,32,11/6/12,60.67,37.52,23.15,8.85,8.85,1,NA
+5386141,2012_Pres-G_MN,2012,MN,Pres-G,Pres-G,SurveyUSA,NA,10/27/12,574,Democrat,50,Republican,43,NA,7,11/6/12,52.65,44.96,7.69,0.69,-0.69,1,NA
+5386142,2012_Pres-G_MT,2012,MT,Pres-G,Pres-G,Pharos Research Group,NA,10/27/12,799,Democrat,43,Republican,50,NA,-7,11/6/12,41.66,55.3,-13.64,6.64,6.64,1,NA
+5386143,2012_Pres-G_ND,2012,ND,Pres-G,Pres-G,"Mason-Dixon Polling & Research, Inc.",NA,10/27/12,625,Democrat,40,Republican,54,NA,-14,11/6/12,38.69,58.32,-19.63,5.63,5.63,1,NA
+5386144,2012_Pres-G_ND,2012,ND,Pres-G,Pres-G,Pharos Research Group,NA,10/27/12,752,Democrat,38,Republican,55,NA,-17,11/6/12,38.69,58.32,-19.63,2.63,2.63,1,NA
+5386145,2012_Pres-G_NE,2012,NE,Pres-G,Pres-G,Pharos Research Group,NA,10/27/12,761,Democrat,39,Republican,58,NA,-19,11/6/12,38.03,59.8,-21.77,2.77,2.77,1,NA
+5386146,2012_Pres-G_NH,2012,NH,Pres-G,Pres-G,Public Policy Polling,NA,10/27/12,874,Democrat,49,Republican,47,NA,2,11/6/12,51.98,46.4,5.58,3.58,-3.58,1,NA
+5386147,2012_Pres-G_OH,2012,OH,Pres-G,Pres-G,Gravis Marketing,NA,10/27/12,730,Democrat,50,Republican,49,NA,1,11/6/12,50.58,47.6,2.98,1.98,-1.98,1,NA
+5386148,2012_Pres-G_OH,2012,OH,Pres-G,Pres-G,Public Policy Polling,NA,10/27/12,718,Democrat,51,Republican,47,NA,4,11/6/12,50.58,47.6,2.98,1.02,1.02,1,NA
+5386149,2012_Pres-G_OH,2012,OH,Pres-G,Pres-G,TCJ Research,NA,10/27/12,1000,Democrat,46.6,Republican,50.3,NA,-3.7,11/6/12,50.58,47.6,2.98,6.68,-6.68,0,NA
+5386150,2012_Pres-G_OH,2012,OH,Pres-G,Pres-G,Zogby Interactive/JZ Analytics,NA,10/27/12,827,Democrat,49.1,Republican,45,NA,4.1,11/6/12,50.58,47.6,2.98,1.12,1.12,1,aka JZ Analytics (online)
+5386151,2012_Pres-G_OR,2012,OR,Pres-G,Pres-G,"Davis, Hibbitts & Midghall, Inc.",NA,10/27/12,500,Democrat,49,Republican,42,NA,7,11/6/12,54.24,42.15,12.09,5.09,-5.09,1,NA
+5386152,2012_Pres-G_OR,2012,OR,Pres-G,Pres-G,Elway Research,NA,10/27/12,405,Democrat,47,Republican,41,NA,6,11/6/12,54.24,42.15,12.09,6.09,-6.09,1,NA
+5386153,2012_Pres-G_US,2012,US,Pres-G,Pres-G,American Research Group,NA,10/27/12,1200,Democrat,48,Republican,48,NA,0,11/6/12,51.01,47.15,3.86,3.86,-3.86,0.5,NA
+5386154,2012_Pres-G_US,2012,US,Pres-G,Pres-G,CBS News/New York Times,NA,10/27/12,563,Democrat,48,Republican,47,NA,1,11/6/12,51.01,47.15,3.86,2.86,-2.86,1,NA
+5386155,2012_Pres-G_US,2012,US,Pres-G,Pres-G,Princeton Survey Research Associates International,NA,10/27/12,713,Democrat,50,Republican,45,NA,5,11/6/12,51.01,47.15,3.86,1.14,1.14,1,aka National Journal/PSRAI
+5386156,2012_Pres-G_US,2012,US,Pres-G,Pres-G,Public Policy Polling,NA,10/27/12,1200,Democrat,48,Republican,49,NA,-1,11/6/12,51.01,47.15,3.86,4.86,-4.86,0,NA
+5386157,2012_Pres-G_US,2012,US,Pres-G,Pres-G,Public Policy Polling,NA,10/27/12,1400,Democrat,49,Republican,49,NA,0,11/6/12,51.01,47.15,3.86,3.86,-3.86,0.5,aka PPP/Daily Kos/SEIU
+5386158,2012_Pres-G_US,2012,US,Pres-G,Pres-G,Rasmussen Reports/Pulse Opinion Research,NA,10/27/12,1500,Democrat,47,Republican,49,NA,-2,11/6/12,51.01,47.15,3.86,5.86,-5.86,0,NA
+5386159,2012_Pres-G_US,2012,US,Pres-G,Pres-G,TCJ Research,NA,10/27/12,1500,Democrat,46,Republican,50.9,NA,-4.9,11/6/12,51.01,47.15,3.86,8.76,-8.76,0,NA
+5386160,2012_Pres-G_US,2012,US,Pres-G,Pres-G,Zogby Interactive/JZ Analytics,NA,10/27/12,1076,Democrat,45.3,Republican,46.6,2,-1.3,11/6/12,51.01,47.15,3.86,5.16,-5.16,0,aka JZ Analytics (online)
+5386161,2012_Pres-G_VA,2012,VA,Pres-G,Pres-G,Zogby Interactive/JZ Analytics,NA,10/27/12,827,Democrat,48.25,Republican,46.55,NA,1.7,11/6/12,51.16,47.28,3.88,2.18,-2.18,1,aka JZ Analytics (online)
+5386162,2012_Pres-G_WI,2012,WI,Pres-G,Pres-G,Marquette University,NA,10/27/12,1243,Democrat,51,Republican,43,NA,8,11/6/12,52.83,45.89,6.94,1.06,1.06,1,NA
+5386163,2012_Pres-G_WI,2012,WI,Pres-G,Pres-G,St. Norbert College,NA,10/27/12,402,Democrat,52,Republican,43,NA,9,11/6/12,52.83,45.89,6.94,2.06,2.06,1,NA
+5386164,2012_Pres-G_WI,2012,WI,Pres-G,Pres-G,TCJ Research,NA,10/27/12,1000,Democrat,47.6,Republican,49.5,NA,-1.9,11/6/12,52.83,45.89,6.94,8.84,-8.84,0,NA
+5386192,2012_Pres-G_MI,2012,MI,Pres-G,Pres-G,EPIC-MRA,NA,10/28/12,600,Democrat,48,Republican,42,NA,6,11/6/12,54.04,44.58,9.46,3.46,-3.46,1,NA
+5386193,2012_Pres-G_MI,2012,MI,Pres-G,Pres-G,"Glengariff Group, Inc.",NA,10/28/12,600,Democrat,47.7,Republican,45,NA,2.7,11/6/12,54.04,44.58,9.46,6.76,-6.76,1,aka Detroit News
+5386194,2012_Pres-G_NC,2012,NC,Pres-G,Pres-G,SurveyUSA,NA,10/28/12,682,Democrat,45,Republican,50,NA,-5,11/6/12,48.35,50.39,-2.04,2.96,-2.96,1,NA
+5386195,2012_Pres-G_NE,2012,NE,Pres-G,Pres-G,Gravis Marketing,NA,10/28/12,1168,Democrat,39,Republican,61,NA,-22,11/6/12,38.03,59.8,-21.77,0.23,-0.23,1,NA
+5386196,2012_Pres-G_NV,2012,NV,Pres-G,Pres-G,Grove Insight,NA,10/28/12,500,Democrat,49,Republican,43,NA,6,11/6/12,52.36,45.68,6.68,0.68,-0.68,1,NA
+5386197,2012_Pres-G_OH,2012,OH,Pres-G,Pres-G,Rasmussen Reports/Pulse Opinion Research,NA,10/28/12,750,Democrat,48,Republican,50,NA,-2,11/6/12,50.58,47.6,2.98,4.98,-4.98,0,NA
+5386198,2012_Pres-G_OH,2012,OH,Pres-G,Pres-G,SurveyUSA,NA,10/28/12,603,Democrat,48,Republican,45,NA,3,11/6/12,50.58,47.6,2.98,0.02,0.02,1,NA
+5386199,2012_Pres-G_OH,2012,OH,Pres-G,Pres-G,University of Cincinnati (Ohio Poll),NA,10/28/12,1182,Democrat,48,Republican,46,2,2,11/6/12,50.58,47.6,2.98,0.98,-0.98,1,NA
+5386200,2012_Pres-G_US,2012,US,Pres-G,Pres-G,Google Consumer Surveys,NA,10/28/12,1834,Democrat,45.6,Republican,46.7,NA,-1.1,11/6/12,51.01,47.15,3.86,4.96,-4.96,0,NA
+5386201,2012_Pres-G_US,2012,US,Pres-G,Pres-G,YouGov,NA,10/28/12,688,Democrat,48,Republican,47,NA,1,11/6/12,51.01,47.15,3.86,2.86,-2.86,1,NA
+5386214,2012_Pres-G_CO,2012,CO,Pres-G,Pres-G,CNN/Opinion Research Corp.,NA,10/29/12,733,Democrat,50,Republican,48,NA,2,11/6/12,51.45,46.09,5.36,3.36,-3.36,1,NA
+5386215,2012_Pres-G_CO,2012,CO,Pres-G,Pres-G,Grove Insight,NA,10/29/12,500,Democrat,48,Republican,45,NA,3,11/6/12,51.45,46.09,5.36,2.36,-2.36,1,NA
+5386216,2012_Pres-G_CO,2012,CO,Pres-G,Pres-G,Rasmussen Reports/Pulse Opinion Research,NA,10/29/12,750,Democrat,47,Republican,50,NA,-3,11/6/12,51.45,46.09,5.36,8.36,-8.36,0,NA
+5386217,2012_Pres-G_FL,2012,FL,Pres-G,Pres-G,Grove Insight,NA,10/29/12,600,Democrat,48,Republican,47,NA,1,11/6/12,49.9,49.03,0.87,0.13,0.13,1,NA
+5386218,2012_Pres-G_FL,2012,FL,Pres-G,Pres-G,Rasmussen Reports/Pulse Opinion Research,NA,10/29/12,1000,Democrat,48,Republican,50,NA,-2,11/6/12,49.9,49.03,0.87,2.87,-2.87,0,aka Pulse Opinion Research
+5386219,2012_Pres-G_IA,2012,IA,Pres-G,Pres-G,Marist College,NA,10/29/12,1142,Democrat,50,Republican,44,NA,6,11/6/12,51.99,46.18,5.81,0.19,0.19,1,aka NBC/Marist
+5386220,2012_Pres-G_IN,2012,IN,Pres-G,Pres-G,Howey Politics/DePauw University,NA,10/29/12,800,Democrat,41,Republican,51,NA,-10,11/6/12,43.84,54.04,-10.2,0.2,0.2,1,aka Howey/DePauw
+5386221,2012_Pres-G_MA,2012,MA,Pres-G,Pres-G,Western New England University,NA,10/29/12,535,Democrat,58,Republican,40,NA,18,11/6/12,60.67,37.52,23.15,5.15,-5.15,1,NA
+5386222,2012_Pres-G_MT,2012,MT,Pres-G,Pres-G,Rasmussen Reports/Pulse Opinion Research,NA,10/29/12,500,Democrat,43,Republican,53,NA,-10,11/6/12,41.66,55.3,-13.64,3.64,3.64,1,NA
+5386223,2012_Pres-G_NH,2012,NH,Pres-G,Pres-G,Marist College,NA,10/29/12,1013,Democrat,49,Republican,47,NA,2,11/6/12,51.98,46.4,5.58,3.58,-3.58,1,aka NBC/Marist
+5386224,2012_Pres-G_OH,2012,OH,Pres-G,Pres-G,Columbus Dispatch,NA,10/29/12,1501,Democrat,50,Republican,48,NA,2,11/6/12,50.58,47.6,2.98,0.98,-0.98,1,NA
+5386225,2012_Pres-G_OH,2012,OH,Pres-G,Pres-G,Grove Insight,NA,10/29/12,500,Democrat,48,Republican,45,NA,3,11/6/12,50.58,47.6,2.98,0.02,0.02,1,NA
+5386226,2012_Pres-G_OH,2012,OH,Pres-G,Pres-G,Rasmussen Reports/Pulse Opinion Research,NA,10/29/12,1000,Democrat,48,Republican,46,NA,2,11/6/12,50.58,47.6,2.98,0.98,-0.98,1,aka Pulse Opinion Research
+5386227,2012_Pres-G_US,2012,US,Pres-G,Pres-G,Fox News/Anderson Robbins Research/Shaw & Company Research,NA,10/29/12,1128,Democrat,46,Republican,46,NA,0,11/6/12,51.01,47.15,3.86,3.86,-3.86,0.5,aka Fox News
+5386228,2012_Pres-G_US,2012,US,Pres-G,Pres-G,Ipsos,NA,10/29/12,4085,Democrat,47,Republican,46,NA,1,11/6/12,51.01,47.15,3.86,2.86,-2.86,1,"previously listed as Ipsos, online"
+5386229,2012_Pres-G_UT,2012,UT,Pres-G,Pres-G,Dan Jones & Associates,NA,10/29/12,870,Democrat,26,Republican,69,NA,-43,11/6/12,24.67,72.55,-47.88,4.88,4.88,1,NA
+5386230,2012_Pres-G_WI,2012,WI,Pres-G,Pres-G,Marist College,NA,10/29/12,1065,Democrat,49,Republican,46,NA,3,11/6/12,52.83,45.89,6.94,3.94,-3.94,1,aka NBC/Marist
+5386231,2012_Pres-G_WI,2012,WI,Pres-G,Pres-G,Rasmussen Reports/Pulse Opinion Research,NA,10/29/12,1000,Democrat,49,Republican,48,NA,1,11/6/12,52.83,45.89,6.94,5.94,-5.94,1,aka Pulse Opinion Research
+5386232,2012_Pres-G_WI,2012,WI,Pres-G,Pres-G,Rasmussen Reports/Pulse Opinion Research,NA,10/29/12,750,Democrat,49,Republican,49,NA,0,11/6/12,52.83,45.89,6.94,6.94,-6.94,0.5,NA
+5386257,2012_Pres-G_CO,2012,CO,Pres-G,Pres-G,CallFire,NA,10/30/12,839,Democrat,49,Republican,48,NA,1,11/6/12,51.45,46.09,5.36,4.36,-4.36,1,NA
+5386258,2012_Pres-G_CO,2012,CO,Pres-G,Pres-G,SurveyUSA,NA,10/30/12,695,Democrat,47,Republican,45,NA,2,11/6/12,51.45,46.09,5.36,3.36,-3.36,1,NA
+5386259,2012_Pres-G_CO,2012,CO,Pres-G,Pres-G,TCJ Research,NA,10/30/12,1000,Democrat,46.9,Republican,51.3,NA,-4.4,11/6/12,51.45,46.09,5.36,9.76,-9.76,0,NA
+5386260,2012_Pres-G_CO,2012,CO,Pres-G,Pres-G,We Ask America,NA,10/30/12,1246,Democrat,50.1,Republican,46.7,NA,3.4,11/6/12,51.45,46.09,5.36,1.96,-1.96,1,NA
+5386261,2012_Pres-G_FL,2012,FL,Pres-G,Pres-G,Gravis Marketing,NA,10/30/12,549,Democrat,47,Republican,50,NA,-3,11/6/12,49.9,49.03,0.87,3.87,-3.87,0,NA
+5386262,2012_Pres-G_FL,2012,FL,Pres-G,Pres-G,We Ask America,NA,10/30/12,1146,Democrat,48.9,Republican,49.8,NA,-0.9,11/6/12,49.9,49.03,0.87,1.77,-1.77,0,NA
+5386263,2012_Pres-G_GA,2012,GA,Pres-G,Pres-G,20/20 Insight,NA,10/30/12,1316,Democrat,46,Republican,52,NA,-6,11/6/12,45.39,53.19,-7.8,1.8,1.8,1,NA
+5386264,2012_Pres-G_IA,2012,IA,Pres-G,Pres-G,CallFire,NA,10/30/12,891,Democrat,50,Republican,47,NA,3,11/6/12,51.99,46.18,5.81,2.81,-2.81,1,NA
+5386265,2012_Pres-G_IA,2012,IA,Pres-G,Pres-G,Public Policy Polling,NA,10/30/12,676,Democrat,50,Republican,45,NA,5,11/6/12,51.99,46.18,5.81,0.81,-0.81,1,NA
+5386266,2012_Pres-G_IA,2012,IA,Pres-G,Pres-G,Rasmussen Reports/Pulse Opinion Research,NA,10/30/12,750,Democrat,48,Republican,49,NA,-1,11/6/12,51.99,46.18,5.81,6.81,-6.81,0,NA
+5386267,2012_Pres-G_IA,2012,IA,Pres-G,Pres-G,We Ask America,NA,10/30/12,1174,Democrat,48.8,Republican,47.3,NA,1.5,11/6/12,51.99,46.18,5.81,4.31,-4.31,1,NA
+5386268,2012_Pres-G_IL,2012,IL,Pres-G,Pres-G,We Ask America,NA,10/30/12,1198,Democrat,57,Republican,41,NA,16,11/6/12,57.5,40.66,16.84,0.84,-0.84,1,NA
+5386269,2012_Pres-G_IN,2012,IN,Pres-G,Pres-G,McLaughlin & Associates,NA,10/30/12,600,Democrat,39,Republican,57,NA,-18,11/6/12,43.84,54.04,-10.2,7.8,-7.8,1,NA
+5386270,2012_Pres-G_MN,2012,MN,Pres-G,Pres-G,TCJ Research,NA,10/30/12,1000,Democrat,49.3,Republican,45.8,NA,3.5,11/6/12,52.65,44.96,7.69,4.19,-4.19,1,NA
+5386271,2012_Pres-G_MO,2012,MO,Pres-G,Pres-G,We Ask America,NA,10/30/12,1217,Democrat,42.2,Republican,53.8,NA,-11.6,11/6/12,44.28,53.64,-9.36,2.24,-2.24,1,NA
+5386272,2012_Pres-G_MT,2012,MT,Pres-G,Pres-G,"Mason-Dixon Polling & Research, Inc.",NA,10/30/12,625,Democrat,43,Republican,53,2,-10,11/6/12,41.66,55.3,-13.64,3.64,3.64,1,NA
+5386273,2012_Pres-G_NC,2012,NC,Pres-G,Pres-G,Public Policy Polling,NA,10/30/12,730,Democrat,49,Republican,49,NA,0,11/6/12,48.35,50.39,-2.04,2.04,2.04,0.5,NA
+5386274,2012_Pres-G_NH,2012,NH,Pres-G,Pres-G,New England College,NA,10/30/12,1017,Democrat,49.5,Republican,44.4,NA,5.1,11/6/12,51.98,46.4,5.58,0.48,-0.48,1,NA
+5386275,2012_Pres-G_NV,2012,NV,Pres-G,Pres-G,Mellman Group,NA,10/30/12,600,Democrat,50,Republican,44,NA,6,11/6/12,52.36,45.68,6.68,0.68,-0.68,1,NA
+5386276,2012_Pres-G_NV,2012,NV,Pres-G,Pres-G,TCJ Research,NA,10/30/12,1000,Democrat,49.7,Republican,47.2,NA,2.5,11/6/12,52.36,45.68,6.68,4.18,-4.18,1,NA
+5386277,2012_Pres-G_OH,2012,OH,Pres-G,Pres-G,Public Policy Polling,NA,10/30/12,600,Democrat,50,Republican,45,NA,5,11/6/12,50.58,47.6,2.98,2.02,2.02,1,NA
+5386278,2012_Pres-G_OR,2012,OR,Pres-G,Pres-G,TCJ Research,NA,10/30/12,1000,Democrat,47,Republican,45.3,NA,1.7,11/6/12,54.24,42.15,12.09,10.39,-10.39,1,NA
+5386279,2012_Pres-G_PA,2012,PA,Pres-G,Pres-G,Rasmussen Reports/Pulse Opinion Research,NA,10/30/12,1000,Democrat,49,Republican,46,NA,3,11/6/12,51.96,46.58,5.38,2.38,-2.38,1,aka Pulse Opinion Research
+5386280,2012_Pres-G_PA,2012,PA,Pres-G,Pres-G,"Susquehanna Polling & Research, Inc.",NA,10/30/12,800,Democrat,47,Republican,47,NA,0,11/6/12,51.96,46.58,5.38,5.38,-5.38,0.5,NA
+5386281,2012_Pres-G_SD,2012,SD,Pres-G,Pres-G,Nielson Brothers Polling,NA,10/30/12,671,Democrat,42,Republican,50,NA,-8,11/6/12,39.87,57.89,-18.02,10.02,10.02,1,NA
+5386282,2012_Pres-G_US,2012,US,Pres-G,Pres-G,ABC News/Washington Post,NA,10/30/12,1293,Democrat,49,Republican,48,NA,1,11/6/12,51.01,47.15,3.86,2.86,-2.86,1,NA
+5386283,2012_Pres-G_US,2012,US,Pres-G,Pres-G,CVOTER International,NA,10/30/12,1074,Democrat,49,Republican,48,NA,1,11/6/12,51.01,47.15,3.86,2.86,-2.86,1,NA
+5386284,2012_Pres-G_US,2012,US,Pres-G,Pres-G,Google Consumer Surveys,NA,10/30/12,1547,Democrat,47.1,Republican,43.1,NA,4,11/6/12,51.01,47.15,3.86,0.14,0.14,1,NA
+5386285,2012_Pres-G_US,2012,US,Pres-G,Pres-G,TCJ Research,NA,10/30/12,1500,Democrat,46.8,Republican,49.9,NA,-3.1,11/6/12,51.01,47.15,3.86,6.96,-6.96,0,NA
+5386286,2012_Pres-G_US,2012,US,Pres-G,Pres-G,Zogby Interactive/JZ Analytics,NA,10/30/12,800,Democrat,48.7,Republican,48.5,NA,0.2,11/6/12,51.01,47.15,3.86,3.66,-3.66,1,"; previously listed as Zogby Analytics, telephone"
+5386287,2012_Pres-G_VA,2012,VA,Pres-G,Pres-G,Rasmussen Reports/Pulse Opinion Research,NA,10/30/12,1000,Democrat,49,Republican,48,NA,1,11/6/12,51.16,47.28,3.88,2.88,-2.88,1,aka Pulse Opinion Research
+5386288,2012_Pres-G_WA,2012,WA,Pres-G,Pres-G,SurveyUSA,NA,10/30/12,555,Democrat,54,Republican,40,NA,14,11/6/12,55.8,41.03,14.77,0.77,-0.77,1,NA
+5386289,2012_Pres-G_WI,2012,WI,Pres-G,Pres-G,Public Policy Polling,NA,10/30/12,825,Democrat,51,Republican,46,NA,5,11/6/12,52.83,45.89,6.94,1.94,-1.94,1,NA
+5386299,2012_Pres-G_FL,2012,FL,Pres-G,Pres-G,Marist College,NA,10/31/12,1545,Democrat,49,Republican,47,NA,2,11/6/12,49.9,49.03,0.87,1.13,1.13,1,aka NBC/Marist
+5386300,2012_Pres-G_FL,2012,FL,Pres-G,Pres-G,"Mason-Dixon Polling & Research, Inc.",NA,10/31/12,800,Democrat,45,Republican,51,NA,-6,11/6/12,49.9,49.03,0.87,6.87,-6.87,0,NA
+5386301,2012_Pres-G_ME,2012,ME,Pres-G,Pres-G,Critical Insights,NA,10/31/12,613,Democrat,49,Republican,42,NA,7,11/6/12,56.27,40.98,15.29,8.29,-8.29,1,NA
+5386302,2012_Pres-G_MI,2012,MI,Pres-G,Pres-G,Public Policy Polling,NA,10/31/12,500,Democrat,53,Republican,45,NA,8,11/6/12,54.04,44.58,9.46,1.46,-1.46,1,NA
+5386303,2012_Pres-G_MO,2012,MO,Pres-G,Pres-G,SurveyUSA,NA,10/31/12,589,Democrat,43,Republican,50,NA,-7,11/6/12,44.28,53.64,-9.36,2.36,2.36,1,NA
+5386304,2012_Pres-G_NM,2012,NM,Pres-G,Pres-G,Public Opinion Strategies,NA,10/31/12,500,Democrat,49,Republican,41,NA,8,11/6/12,52.99,42.84,10.15,2.15,-2.15,1,NA
+5386305,2012_Pres-G_OH,2012,OH,Pres-G,Pres-G,CNN/Opinion Research Corp.,NA,10/31/12,796,Democrat,48.5,Republican,45.5,5,3,11/6/12,50.58,47.6,2.98,0.02,0.02,1,NA
+5386306,2012_Pres-G_OH,2012,OH,Pres-G,Pres-G,TCJ Research,NA,10/31/12,1000,Democrat,47.6,Republican,49.9,NA,-2.3,11/6/12,50.58,47.6,2.98,5.28,-5.28,0,NA
+5386307,2012_Pres-G_OH,2012,OH,Pres-G,Pres-G,We Ask America,NA,10/31/12,1649,Democrat,50.2,Republican,45.8,NA,4.4,11/6/12,50.58,47.6,2.98,1.42,1.42,1,NA
+5386308,2012_Pres-G_OH,2012,OH,Pres-G,Pres-G,Clout Research/Wenzel Strategies,NA,10/31/12,1281,Democrat,46,Republican,49,NA,-3,11/6/12,50.58,47.6,2.98,5.98,-5.98,0,previously listed as Wenzel Strategies
+5386309,2012_Pres-G_US,2012,US,Pres-G,Pres-G,George Washington University (Battleground),NA,10/31/12,1000,Democrat,48,Republican,48,NA,0,11/6/12,51.01,47.15,3.86,3.86,-3.86,0.5,aka Politico/George Washington U.
+5386310,2012_Pres-G_US,2012,US,Pres-G,Pres-G,Public Policy Polling,NA,10/31/12,1200,Democrat,49,Republican,48,NA,1,11/6/12,51.01,47.15,3.86,2.86,-2.86,1,NA
+5386311,2012_Pres-G_US,2012,US,Pres-G,Pres-G,Rasmussen Reports/Pulse Opinion Research,NA,10/31/12,3000,Democrat,48,Republican,48,NA,0,11/6/12,51.01,47.15,3.86,3.86,-3.86,0.5,NA
+5386312,2012_Pres-G_VA,2012,VA,Pres-G,Pres-G,Public Policy Polling,NA,10/31/12,600,Democrat,49,Republican,46,NA,3,11/6/12,51.16,47.28,3.88,0.88,-0.88,1,NA
+5386313,2012_Pres-G_VA,2012,VA,Pres-G,Pres-G,We Ask America,NA,10/31/12,1069,Democrat,48.5,Republican,47.6,NA,0.9,11/6/12,51.16,47.28,3.88,2.98,-2.98,1,NA
+5386314,2012_Pres-G_WI,2012,WI,Pres-G,Pres-G,TCJ Research,NA,10/31/12,1000,Democrat,47.2,Republican,50.2,NA,-3,11/6/12,52.83,45.89,6.94,9.94,-9.94,0,NA
+5386315,2012_Pres-G_WI,2012,WI,Pres-G,Pres-G,We Ask America,NA,10/31/12,1210,Democrat,51.5,Republican,44.8,NA,6.7,11/6/12,52.83,45.89,6.94,0.24,-0.24,1,NA
+5386316,2012_Pres-G_WI,2012,WI,Pres-G,Pres-G,Clout Research/Wenzel Strategies,NA,10/31/12,1074,Democrat,49,Republican,47,NA,2,11/6/12,52.83,45.89,6.94,4.94,-4.94,1,previously listed as Wenzel Strategies
+5386330,2012_Pres-G_CO,2012,CO,Pres-G,Pres-G,Ipsos,NA,11/1/12,1052,Democrat,46,Republican,46,NA,0,11/6/12,51.45,46.09,5.36,5.36,-5.36,0.5,"previously listed as Ipsos, online"
+5386331,2012_Pres-G_CO,2012,CO,Pres-G,Pres-G,Public Policy Polling,NA,11/1/12,825,Democrat,50,Republican,46,NA,4,11/6/12,51.45,46.09,5.36,1.36,-1.36,1,NA
+5386332,2012_Pres-G_FL,2012,FL,Pres-G,Pres-G,Ipsos,NA,11/1/12,985,Democrat,48,Republican,46,NA,2,11/6/12,49.9,49.03,0.87,1.13,1.13,1,"previously listed as Ipsos, online"
+5386333,2012_Pres-G_FL,2012,FL,Pres-G,Pres-G,Mellman Group,NA,11/1/12,600,Democrat,47,Republican,45,NA,2,11/6/12,49.9,49.03,0.87,1.13,1.13,1,NA
+5386334,2012_Pres-G_FL,2012,FL,Pres-G,Pres-G,TCJ Research,NA,11/1/12,1000,Democrat,46.3,Republican,52.1,NA,-5.8,11/6/12,49.9,49.03,0.87,6.67,-6.67,0,NA
+5386335,2012_Pres-G_IA,2012,IA,Pres-G,Pres-G,Gravis Marketing,NA,11/1/12,594,Democrat,49,Republican,45,NA,4,11/6/12,51.99,46.18,5.81,1.81,-1.81,1,NA
+5386336,2012_Pres-G_IA,2012,IA,Pres-G,Pres-G,Mellman Group,NA,11/1/12,600,Democrat,46,Republican,44,NA,2,11/6/12,51.99,46.18,5.81,3.81,-3.81,1,NA
+5386337,2012_Pres-G_IA,2012,IA,Pres-G,Pres-G,Selzer & Company,NA,11/1/12,800,Democrat,47,Republican,42,NA,5,11/6/12,51.99,46.18,5.81,0.81,-0.81,1,NA
+5386338,2012_Pres-G_IA,2012,IA,Pres-G,Pres-G,TCJ Research,NA,11/1/12,1000,Democrat,47.6,Republican,50.3,NA,-2.7,11/6/12,51.99,46.18,5.81,8.51,-8.51,0,NA
+5386339,2012_Pres-G_IN,2012,IN,Pres-G,Pres-G,McLaughlin & Associates,NA,11/1/12,600,Democrat,41,Republican,54,NA,-13,11/6/12,43.84,54.04,-10.2,2.8,-2.8,1,NA
+5386340,2012_Pres-G_IN,2012,IN,Pres-G,Pres-G,Rasmussen Reports/Pulse Opinion Research,NA,11/1/12,600,Democrat,43,Republican,52,NA,-9,11/6/12,43.84,54.04,-10.2,1.2,1.2,1,NA
+5386341,2012_Pres-G_MA,2012,MA,Pres-G,Pres-G,Kimball Political Consulting,NA,11/1/12,761,Democrat,54,Republican,41,NA,13,11/6/12,60.67,37.52,23.15,10.15,-10.15,1,NA
+5386342,2012_Pres-G_MI,2012,MI,Pres-G,Pres-G,Grove Insight,NA,11/1/12,500,Democrat,48,Republican,41,NA,7,11/6/12,54.04,44.58,9.46,2.46,-2.46,1,NA
+5386343,2012_Pres-G_MI,2012,MI,Pres-G,Pres-G,Public Policy Polling,NA,11/1/12,500,Democrat,52,Republican,46,NA,6,11/6/12,54.04,44.58,9.46,3.46,-3.46,1,NA
+5386344,2012_Pres-G_MI,2012,MI,Pres-G,Pres-G,Rasmussen Reports/Pulse Opinion Research,NA,11/1/12,750,Democrat,52,Republican,47,NA,5,11/6/12,54.04,44.58,9.46,4.46,-4.46,1,NA
+5386345,2012_Pres-G_MI,2012,MI,Pres-G,Pres-G,TCJ Research,NA,11/1/12,1000,Democrat,50.4,Republican,47.7,NA,2.7,11/6/12,54.04,44.58,9.46,6.76,-6.76,1,NA
+5386346,2012_Pres-G_MN,2012,MN,Pres-G,Pres-G,Public Policy Polling,NA,11/1/12,772,Democrat,53,Republican,44,NA,9,11/6/12,52.65,44.96,7.69,1.31,1.31,1,NA
+5386347,2012_Pres-G_NE,2012,NE,Pres-G,Pres-G,We Ask America,NA,11/1/12,1178,Democrat,41,Republican,54,NA,-13,11/6/12,38.03,59.8,-21.77,8.77,8.77,1,NA
+5386348,2012_Pres-G_NH,2012,NH,Pres-G,Pres-G,Gravis Marketing,NA,11/1/12,497,Democrat,50,Republican,49,NA,1,11/6/12,51.98,46.4,5.58,4.58,-4.58,1,NA
+5386349,2012_Pres-G_NH,2012,NH,Pres-G,Pres-G,University of New Hampshire,NA,11/1/12,502,Democrat,47,Republican,47,NA,0,11/6/12,51.98,46.4,5.58,5.58,-5.58,0.5,NA
+5386350,2012_Pres-G_NM,2012,NM,Pres-G,Pres-G,TCJ Research,NA,11/1/12,1000,Democrat,51.6,Republican,46.6,NA,5,11/6/12,52.99,42.84,10.15,5.15,-5.15,1,NA
+5386351,2012_Pres-G_OH,2012,OH,Pres-G,Pres-G,Ipsos,NA,11/1/12,1012,Democrat,47,Republican,45,NA,2,11/6/12,50.58,47.6,2.98,0.98,-0.98,1,"previously listed as Ipsos, online"
+5386352,2012_Pres-G_OH,2012,OH,Pres-G,Pres-G,Marist College,NA,11/1/12,1253,Democrat,51,Republican,45,NA,6,11/6/12,50.58,47.6,2.98,3.02,3.02,1,aka NBC/Marist
+5386353,2012_Pres-G_OH,2012,OH,Pres-G,Pres-G,Rasmussen Reports/Pulse Opinion Research,NA,11/1/12,750,Democrat,49,Republican,49,NA,0,11/6/12,50.58,47.6,2.98,2.98,-2.98,0.5,NA
+5386354,2012_Pres-G_US,2012,US,Pres-G,Pres-G,Google Consumer Surveys,NA,11/1/12,2318,Democrat,44.7,Republican,42.7,NA,2,11/6/12,51.01,47.15,3.86,1.86,-1.86,1,NA
+5386355,2012_Pres-G_US,2012,US,Pres-G,Pres-G,Purple Strategies,NA,11/1/12,1000,Democrat,47,Republican,46,NA,1,11/6/12,51.01,47.15,3.86,2.86,-2.86,1,NA
+5386356,2012_Pres-G_US,2012,US,Pres-G,Pres-G,TCJ Research,NA,11/1/12,1500,Democrat,47.4,Republican,50.4,NA,-3,11/6/12,51.01,47.15,3.86,6.86,-6.86,0,NA
+5386357,2012_Pres-G_VA,2012,VA,Pres-G,Pres-G,Ipsos,NA,11/1/12,1065,Democrat,48,Republican,45,NA,3,11/6/12,51.16,47.28,3.88,0.88,-0.88,1,"previously listed as Ipsos, online"
+5386358,2012_Pres-G_VA,2012,VA,Pres-G,Pres-G,Mellman Group,NA,11/1/12,800,Democrat,48,Republican,45,NA,3,11/6/12,51.16,47.28,3.88,0.88,-0.88,1,NA
+5386374,2012_Pres-G_AZ,2012,AZ,Pres-G,Pres-G,YouGov,NA,11/2/12,702,Democrat,44,Republican,52,NA,-8,11/6/12,44.45,53.48,-9.03,1.03,1.03,1,NA
+5386375,2012_Pres-G_CA,2012,CA,Pres-G,Pres-G,YouGov,NA,11/2/12,1575,Democrat,55,Republican,40,NA,15,11/6/12,60.16,37.07,23.09,8.09,-8.09,1,NA
+5386376,2012_Pres-G_CO,2012,CO,Pres-G,Pres-G,YouGov,NA,11/2/12,752,Democrat,48,Republican,47,NA,1,11/6/12,51.45,46.09,5.36,4.36,-4.36,1,NA
+5386377,2012_Pres-G_CT,2012,CT,Pres-G,Pres-G,Public Policy Polling,NA,11/2/12,1220,Democrat,55,Republican,42,NA,13,11/6/12,58.06,40.72,17.34,4.34,-4.34,1,NA
+5386378,2012_Pres-G_CT,2012,CT,Pres-G,Pres-G,YouGov,NA,11/2/12,895,Democrat,54,Republican,39,NA,15,11/6/12,58.06,40.72,17.34,2.34,-2.34,1,NA
+5386379,2012_Pres-G_FL,2012,FL,Pres-G,Pres-G,Angus Reid Global,NA,11/2/12,525,Democrat,49,Republican,49,NA,0,11/6/12,49.9,49.03,0.87,0.87,-0.87,0.5,NA
+5386380,2012_Pres-G_FL,2012,FL,Pres-G,Pres-G,YouGov,NA,11/2/12,1621,Democrat,47,Republican,48,NA,-1,11/6/12,49.9,49.03,0.87,1.87,-1.87,0,NA
+5386381,2012_Pres-G_GA,2012,GA,Pres-G,Pres-G,YouGov,NA,11/2/12,1070,Democrat,44,Republican,52,NA,-8,11/6/12,45.39,53.19,-7.8,0.2,-0.2,1,NA
+5386382,2012_Pres-G_IA,2012,IA,Pres-G,Pres-G,Grove Insight,NA,11/2/12,500,Democrat,47,Republican,44,NA,3,11/6/12,51.99,46.18,5.81,2.81,-2.81,1,NA
+5386383,2012_Pres-G_IA,2012,IA,Pres-G,Pres-G,YouGov,NA,11/2/12,1040,Democrat,48,Republican,47,NA,1,11/6/12,51.99,46.18,5.81,4.81,-4.81,1,NA
+5386384,2012_Pres-G_IL,2012,IL,Pres-G,Pres-G,YouGov,NA,11/2/12,1126,Democrat,57,Republican,38,NA,19,11/6/12,57.5,40.66,16.84,2.16,2.16,1,NA
+5386385,2012_Pres-G_IN,2012,IN,Pres-G,Pres-G,YouGov,NA,11/2/12,768,Democrat,44,Republican,51,NA,-7,11/6/12,43.84,54.04,-10.2,3.2,3.2,1,NA
+5386386,2012_Pres-G_MA,2012,MA,Pres-G,Pres-G,Public Policy Polling,NA,11/2/12,1089,Democrat,57,Republican,42,NA,15,11/6/12,60.67,37.52,23.15,8.15,-8.15,1,NA
+5386387,2012_Pres-G_MA,2012,MA,Pres-G,Pres-G,University of Massachusetts Lowell,NA,11/2/12,800,Democrat,57,Republican,37,NA,20,11/6/12,60.67,37.52,23.15,3.15,-3.15,1,previously listed as University Massachusetts Lowell
+5386388,2012_Pres-G_MA,2012,MA,Pres-G,Pres-G,YouGov,NA,11/2/12,811,Democrat,57,Republican,37,NA,20,11/6/12,60.67,37.52,23.15,3.15,-3.15,1,NA
+5386389,2012_Pres-G_MD,2012,MD,Pres-G,Pres-G,YouGov,NA,11/2/12,705,Democrat,59,Republican,37,NA,22,11/6/12,61.97,35.9,26.07,4.07,-4.07,1,NA
+5386390,2012_Pres-G_ME,2012,ME,Pres-G,Pres-G,Public Policy Polling,NA,11/2/12,1633,Democrat,55,Republican,42,NA,13,11/6/12,56.27,40.98,15.29,2.29,-2.29,1,NA
+5386391,2012_Pres-G_MI,2012,MI,Pres-G,Pres-G,Angus Reid Global,NA,11/2/12,502,Democrat,52,Republican,47,NA,5,11/6/12,54.04,44.58,9.46,4.46,-4.46,1,NA
+5386392,2012_Pres-G_MI,2012,MI,Pres-G,Pres-G,Baydoun Consulting,NA,11/2/12,1913,Democrat,46.24,Republican,46.86,NA,-0.62,11/6/12,54.04,44.58,9.46,10.08,-10.08,0,NA
+5386393,2012_Pres-G_MI,2012,MI,Pres-G,Pres-G,Public Policy Polling,NA,11/2/12,700,Democrat,52,Republican,46,NA,6,11/6/12,54.04,44.58,9.46,3.46,-3.46,1,NA
+5386394,2012_Pres-G_MI,2012,MI,Pres-G,Pres-G,YouGov,NA,11/2/12,1091,Democrat,51,Republican,44,NA,7,11/6/12,54.04,44.58,9.46,2.46,-2.46,1,NA
+5386395,2012_Pres-G_MN,2012,MN,Pres-G,Pres-G,SurveyUSA,NA,11/2/12,556,Democrat,52,Republican,41,NA,11,11/6/12,52.65,44.96,7.69,3.31,3.31,1,NA
+5386396,2012_Pres-G_MN,2012,MN,Pres-G,Pres-G,YouGov,NA,11/2/12,790,Democrat,52,Republican,44,NA,8,11/6/12,52.65,44.96,7.69,0.31,0.31,1,NA
+5386397,2012_Pres-G_MO,2012,MO,Pres-G,Pres-G,YouGov,NA,11/2/12,779,Democrat,42,Republican,53,NA,-11,11/6/12,44.28,53.64,-9.36,1.64,-1.64,1,NA
+5386398,2012_Pres-G_NC,2012,NC,Pres-G,Pres-G,YouGov,NA,11/2/12,1500,Democrat,47,Republican,49,NA,-2,11/6/12,48.35,50.39,-2.04,0.04,0.04,1,NA
+5386399,2012_Pres-G_NH,2012,NH,Pres-G,Pres-G,YouGov,NA,11/2/12,690,Democrat,47,Republican,43,NA,4,11/6/12,51.98,46.4,5.58,1.58,-1.58,1,NA
+5386400,2012_Pres-G_NJ,2012,NJ,Pres-G,Pres-G,YouGov,NA,11/2/12,987,Democrat,53,Republican,41,NA,12,11/6/12,58.25,40.5,17.75,5.75,-5.75,1,NA
+5386401,2012_Pres-G_NM,2012,NM,Pres-G,Pres-G,YouGov,NA,11/2/12,650,Democrat,49,Republican,43,NA,6,11/6/12,52.99,42.84,10.15,4.15,-4.15,1,NA
+5386402,2012_Pres-G_NV,2012,NV,Pres-G,Pres-G,YouGov,NA,11/2/12,732,Democrat,49,Republican,45,NA,4,11/6/12,52.36,45.68,6.68,2.68,-2.68,1,NA
+5386403,2012_Pres-G_NY,2012,NY,Pres-G,Pres-G,YouGov,NA,11/2/12,1430,Democrat,59,Republican,36,NA,23,11/6/12,63.35,35.17,28.18,5.18,-5.18,1,NA
+5386404,2012_Pres-G_OH,2012,OH,Pres-G,Pres-G,Grove Insight,NA,11/2/12,500,Democrat,49,Republican,45,NA,4,11/6/12,50.58,47.6,2.98,1.02,1.02,1,NA
+5386405,2012_Pres-G_OH,2012,OH,Pres-G,Pres-G,University of Cincinnati (Ohio Poll),NA,11/2/12,901,Democrat,50,Republican,48.5,NA,1.5,11/6/12,50.58,47.6,2.98,1.48,-1.48,1,NA
+5386406,2012_Pres-G_OH,2012,OH,Pres-G,Pres-G,YouGov,NA,11/2/12,1620,Democrat,49,Republican,46,NA,3,11/6/12,50.58,47.6,2.98,0.02,0.02,1,NA
+5386407,2012_Pres-G_PA,2012,PA,Pres-G,Pres-G,Muhlenberg College,NA,11/2/12,430,Democrat,49,Republican,46,NA,3,11/6/12,51.96,46.58,5.38,2.38,-2.38,1,NA
+5386408,2012_Pres-G_PA,2012,PA,Pres-G,Pres-G,YouGov,NA,11/2/12,1273,Democrat,52,Republican,44,NA,8,11/6/12,51.96,46.58,5.38,2.62,2.62,1,NA
+5386409,2012_Pres-G_SD,2012,SD,Pres-G,Pres-G,Nielson Brothers Polling,NA,11/2/12,633,Democrat,41,Republican,53,NA,-12,11/6/12,39.87,57.89,-18.02,6.02,6.02,1,NA
+5386410,2012_Pres-G_TN,2012,TN,Pres-G,Pres-G,YouGov,NA,11/2/12,697,Democrat,42,Republican,53,NA,-11,11/6/12,39.04,59.42,-20.38,9.38,9.38,1,NA
+5386411,2012_Pres-G_TX,2012,TX,Pres-G,Pres-G,YouGov,NA,11/2/12,1563,Democrat,38,Republican,57,NA,-19,11/6/12,41.35,57.13,-15.78,3.22,-3.22,1,NA
+5386412,2012_Pres-G_US,2012,US,Pres-G,Pres-G,Angus Reid Global,NA,11/2/12,1019,Democrat,51,Republican,48,NA,3,11/6/12,51.01,47.15,3.86,0.86,-0.86,1,NA
+5386413,2012_Pres-G_US,2012,US,Pres-G,Pres-G,Google Consumer Surveys,NA,11/2/12,2527,Democrat,45.7,Republican,42,NA,3.7,11/6/12,51.01,47.15,3.86,0.16,-0.16,1,NA
+5386414,2012_Pres-G_US,2012,US,Pres-G,Pres-G,NBC News/Wall Street Journal,NA,11/2/12,1475,Democrat,48,Republican,47,NA,1,11/6/12,51.01,47.15,3.86,2.86,-2.86,1,NA
+5386415,2012_Pres-G_US,2012,US,Pres-G,Pres-G,Pew Research Center,NA,11/2/12,2709,Democrat,48,Republican,45,NA,3,11/6/12,51.01,47.15,3.86,0.86,-0.86,1,NA
+5386416,2012_Pres-G_US,2012,US,Pres-G,Pres-G,RAND (American Life Panel),NA,11/2/12,3500,Democrat,49.5,Republican,46.18,NA,3.32,11/6/12,51.01,47.15,3.86,0.54,-0.54,1,NA
+5386417,2012_Pres-G_US,2012,US,Pres-G,Pres-G,YouGov,NA,11/2/12,36472,Democrat,48.5,Republican,46.5,NA,2,11/6/12,51.01,47.15,3.86,1.86,-1.86,1,NA
+5386418,2012_Pres-G_VA,2012,VA,Pres-G,Pres-G,Marist College,NA,11/2/12,1165,Democrat,48,Republican,47,NA,1,11/6/12,51.16,47.28,3.88,2.88,-2.88,1,aka NBC/Marist
+5386419,2012_Pres-G_VA,2012,VA,Pres-G,Pres-G,YouGov,NA,11/2/12,1497,Democrat,48,Republican,46,NA,2,11/6/12,51.16,47.28,3.88,1.88,-1.88,1,NA
+5386420,2012_Pres-G_WA,2012,WA,Pres-G,Pres-G,Public Policy Polling,NA,11/2/12,932,Democrat,53,Republican,46,NA,7,11/6/12,55.8,41.03,14.77,7.77,-7.77,1,NA
+5386421,2012_Pres-G_WA,2012,WA,Pres-G,Pres-G,YouGov,NA,11/2/12,837,Democrat,54,Republican,40,NA,14,11/6/12,55.8,41.03,14.77,0.77,-0.77,1,NA
+5386422,2012_Pres-G_WI,2012,WI,Pres-G,Pres-G,Angus Reid Global,NA,11/2/12,454,Democrat,53,Republican,46,NA,7,11/6/12,52.83,45.89,6.94,0.06,0.06,1,NA
+5386423,2012_Pres-G_WI,2012,WI,Pres-G,Pres-G,Grove Insight,NA,11/2/12,500,Democrat,48,Republican,42,NA,6,11/6/12,52.83,45.89,6.94,0.94,-0.94,1,NA
+5386424,2012_Pres-G_WI,2012,WI,Pres-G,Pres-G,YouGov,NA,11/2/12,1225,Democrat,50,Republican,46,NA,4,11/6/12,52.83,45.89,6.94,2.94,-2.94,1,NA
+5386469,2012_Pres-G_AZ,2012,AZ,Pres-G,Pres-G,Public Policy Polling,NA,11/3/12,1080,Democrat,46,Republican,53,NA,-7,11/6/12,44.45,53.48,-9.03,2.03,2.03,1,NA
+5386470,2012_Pres-G_CO,2012,CO,Pres-G,Pres-G,"Keating Research, Inc.",NA,11/3/12,603,Democrat,50,Republican,46,NA,4,11/6/12,51.45,46.09,5.36,1.36,-1.36,1,NA
+5386471,2012_Pres-G_CT,2012,CT,Pres-G,Pres-G,TCJ Research,NA,11/3/12,1000,Democrat,53.5,Republican,44.2,NA,9.3,11/6/12,58.06,40.72,17.34,8.04,-8.04,1,NA
+5386472,2012_Pres-G_IA,2012,IA,Pres-G,Pres-G,American Research Group,NA,11/3/12,600,Democrat,48,Republican,49,NA,-1,11/6/12,51.99,46.18,5.81,6.81,-6.81,0,NA
+5386473,2012_Pres-G_MA,2012,MA,Pres-G,Pres-G,TCJ Research,NA,11/3/12,1000,Democrat,55.5,Republican,42.1,NA,13.4,11/6/12,60.67,37.52,23.15,9.75,-9.75,1,NA
+5386474,2012_Pres-G_MO,2012,MO,Pres-G,Pres-G,Public Policy Polling,NA,11/3/12,835,Democrat,45,Republican,53,NA,-8,11/6/12,44.28,53.64,-9.36,1.36,1.36,1,NA
+5386475,2012_Pres-G_MO,2012,MO,Pres-G,Pres-G,TCJ Research,NA,11/3/12,1000,Democrat,42.7,Republican,55,NA,-12.3,11/6/12,44.28,53.64,-9.36,2.94,-2.94,1,NA
+5386476,2012_Pres-G_MT,2012,MT,Pres-G,Pres-G,Public Policy Polling,NA,11/3/12,836,Democrat,45,Republican,52,NA,-7,11/6/12,41.66,55.3,-13.64,6.64,6.64,1,NA
+5386477,2012_Pres-G_MT,2012,MT,Pres-G,Pres-G,TCJ Research,NA,11/3/12,1000,Democrat,44.1,Republican,53.5,NA,-9.4,11/6/12,41.66,55.3,-13.64,4.24,4.24,1,NA
+5386478,2012_Pres-G_NE,2012,NE,Pres-G,Pres-G,TCJ Research,NA,11/3/12,1000,Democrat,38.1,Republican,60.1,NA,-22,11/6/12,38.03,59.8,-21.77,0.23,-0.23,1,NA
+5386479,2012_Pres-G_NH,2012,NH,Pres-G,Pres-G,American Research Group,NA,11/3/12,600,Democrat,49,Republican,49,NA,0,11/6/12,51.98,46.4,5.58,5.58,-5.58,0.5,NA
+5386480,2012_Pres-G_NH,2012,NH,Pres-G,Pres-G,University of New Hampshire,NA,11/3/12,783,Democrat,50,Republican,46,NA,4,11/6/12,51.98,46.4,5.58,1.58,-1.58,1,NA
+5386481,2012_Pres-G_OH,2012,OH,Pres-G,Pres-G,Angus Reid Global,NA,11/3/12,540,Democrat,51,Republican,48,NA,3,11/6/12,50.58,47.6,2.98,0.02,0.02,1,NA
+5386482,2012_Pres-G_OH,2012,OH,Pres-G,Pres-G,SurveyUSA,NA,11/3/12,803,Democrat,49,Republican,44,NA,5,11/6/12,50.58,47.6,2.98,2.02,2.02,1,NA
+5386483,2012_Pres-G_OH,2012,OH,Pres-G,Pres-G,TCJ Research,NA,11/3/12,1000,Democrat,47.9,Republican,50.6,NA,-2.7,11/6/12,50.58,47.6,2.98,5.68,-5.68,0,NA
+5386484,2012_Pres-G_PA,2012,PA,Pres-G,Pres-G,Angus Reid Global,NA,11/3/12,507,Democrat,51,Republican,47,NA,4,11/6/12,51.96,46.58,5.38,1.38,-1.38,1,NA
+5386485,2012_Pres-G_PA,2012,PA,Pres-G,Pres-G,Public Policy Polling,NA,11/3/12,790,Democrat,52,Republican,46,NA,6,11/6/12,51.96,46.58,5.38,0.62,0.62,1,NA
+5386486,2012_Pres-G_US,2012,US,Pres-G,Pres-G,ABC News/Washington Post,NA,11/3/12,2345,Democrat,50,Republican,47,NA,3,11/6/12,51.01,47.15,3.86,0.86,-0.86,1,NA
+5386487,2012_Pres-G_US,2012,US,Pres-G,Pres-G,American Research Group,NA,11/3/12,1200,Democrat,49,Republican,49,NA,0,11/6/12,51.01,47.15,3.86,3.86,-3.86,0.5,NA
+5386488,2012_Pres-G_US,2012,US,Pres-G,Pres-G,CNN/Opinion Research Corp.,NA,11/3/12,693,Democrat,48.5,Republican,48.5,2,0,11/6/12,51.01,47.15,3.86,3.86,-3.86,0.5,NA
+5386489,2012_Pres-G_US,2012,US,Pres-G,Pres-G,Gallup,NA,11/3/12,2551,Democrat,48,Republican,49,NA,-1,11/6/12,51.01,47.15,3.86,4.86,-4.86,0,NA
+5386490,2012_Pres-G_US,2012,US,Pres-G,Pres-G,Google Consumer Surveys,NA,11/3/12,2727,Democrat,44,Republican,45,NA,-1,11/6/12,51.01,47.15,3.86,4.86,-4.86,0,NA
+5386491,2012_Pres-G_US,2012,US,Pres-G,Pres-G,Greenberg Quinlan Rosner (Democracy Corps),NA,11/3/12,1080,Democrat,49,Republican,45,NA,4,11/6/12,51.01,47.15,3.86,0.14,0.14,1,aka Democracy Corps
+5386492,2012_Pres-G_US,2012,US,Pres-G,Pres-G,Ipsos,NA,11/3/12,4725,Democrat,48,Republican,46,NA,2,11/6/12,51.01,47.15,3.86,1.86,-1.86,1,"previously listed as Ipsos, online"
+5386493,2012_Pres-G_US,2012,US,Pres-G,Pres-G,Monmouth University,NA,11/3/12,1417,Democrat,48,Republican,48,NA,0,11/6/12,51.01,47.15,3.86,3.86,-3.86,0.5,aka Monmouth U.
+5386494,2012_Pres-G_US,2012,US,Pres-G,Pres-G,Public Policy Polling,NA,11/3/12,1200,Democrat,50,Republican,48,NA,2,11/6/12,51.01,47.15,3.86,1.86,-1.86,1,NA
+5386495,2012_Pres-G_US,2012,US,Pres-G,Pres-G,Public Policy Polling,NA,11/3/12,1300,Democrat,50,Republican,48,NA,2,11/6/12,51.01,47.15,3.86,1.86,-1.86,1,aka PPP/Daily Kos/SEIU
+5386496,2012_Pres-G_US,2012,US,Pres-G,Pres-G,Rasmussen Reports/Pulse Opinion Research,NA,11/3/12,3000,Democrat,48,Republican,49,NA,-1,11/6/12,51.01,47.15,3.86,4.86,-4.86,0,NA
+5386497,2012_Pres-G_US,2012,US,Pres-G,Pres-G,TCJ Research,NA,11/3/12,1500,Democrat,48.3,Republican,50.5,NA,-2.2,11/6/12,51.01,47.15,3.86,6.06,-6.06,0,NA
+5386498,2012_Pres-G_VA,2012,VA,Pres-G,Pres-G,TCJ Research,NA,11/3/12,1000,Democrat,47.8,Republican,50.8,NA,-3,11/6/12,51.16,47.28,3.88,6.88,-6.88,0,NA
+5386499,2012_Pres-G_WI,2012,WI,Pres-G,Pres-G,Public Policy Polling,NA,11/3/12,1256,Democrat,51,Republican,48,NA,3,11/6/12,52.83,45.89,6.94,3.94,-3.94,1,NA
+5386521,2012_Pres-G_CO,2012,CO,Pres-G,Pres-G,Ipsos,NA,11/4/12,774,Democrat,48,Republican,47,NA,1,11/6/12,51.45,46.09,5.36,4.36,-4.36,1,"previously listed as Ipsos, online"
+5386522,2012_Pres-G_CO,2012,CO,Pres-G,Pres-G,Public Policy Polling,NA,11/4/12,1096,Democrat,52,Republican,46,NA,6,11/6/12,51.45,46.09,5.36,0.64,0.64,1,NA
+5386523,2012_Pres-G_CO,2012,CO,Pres-G,Pres-G,TCJ Research,NA,11/4/12,1000,Democrat,48,Republican,50.6,NA,-2.6,11/6/12,51.45,46.09,5.36,7.96,-7.96,0,NA
+5386524,2012_Pres-G_FL,2012,FL,Pres-G,Pres-G,Opinion Savvy/InsiderAdvantage,NA,11/4/12,437,Democrat,47,Republican,52,NA,-5,11/6/12,49.9,49.03,0.87,5.87,-5.87,0,previously listed as InsiderAdvantage
+5386525,2012_Pres-G_FL,2012,FL,Pres-G,Pres-G,Ipsos,NA,11/4/12,769,Democrat,47,Republican,48,NA,-1,11/6/12,49.9,49.03,0.87,1.87,-1.87,0,"previously listed as Ipsos, online"
+5386526,2012_Pres-G_FL,2012,FL,Pres-G,Pres-G,Public Policy Polling,NA,11/4/12,955,Democrat,50,Republican,49,NA,1,11/6/12,49.9,49.03,0.87,0.13,0.13,1,NA
+5386527,2012_Pres-G_FL,2012,FL,Pres-G,Pres-G,TCJ Research,NA,11/4/12,1000,Democrat,46.8,Republican,51.4,NA,-4.6,11/6/12,49.9,49.03,0.87,5.47,-5.47,0,NA
+5386528,2012_Pres-G_IA,2012,IA,Pres-G,Pres-G,Public Policy Polling,NA,11/4/12,1122,Democrat,50,Republican,48,NA,2,11/6/12,51.99,46.18,5.81,3.81,-3.81,1,NA
+5386529,2012_Pres-G_IA,2012,IA,Pres-G,Pres-G,TCJ Research,NA,11/4/12,1000,Democrat,48.4,Republican,50.4,NA,-2,11/6/12,51.99,46.18,5.81,7.81,-7.81,0,NA
+5386530,2012_Pres-G_MI,2012,MI,Pres-G,Pres-G,Mitchell Research & Communications,NA,11/4/12,1305,Democrat,51,Republican,46,NA,5,11/6/12,54.04,44.58,9.46,4.46,-4.46,1,NA
+5386531,2012_Pres-G_MN,2012,MN,Pres-G,Pres-G,TCJ Research,NA,11/4/12,1000,Democrat,50.3,Republican,48.1,NA,2.2,11/6/12,52.65,44.96,7.69,5.49,-5.49,1,NA
+5386532,2012_Pres-G_NC,2012,NC,Pres-G,Pres-G,Gravis Marketing,NA,11/4/12,1130,Democrat,46,Republican,50,NA,-4,11/6/12,48.35,50.39,-2.04,1.96,-1.96,1,NA
+5386533,2012_Pres-G_NC,2012,NC,Pres-G,Pres-G,Public Policy Polling,NA,11/4/12,926,Democrat,49.2,Republican,49.4,NA,-0.2,11/6/12,48.35,50.39,-2.04,1.84,1.84,1,NA
+5386534,2012_Pres-G_NH,2012,NH,Pres-G,Pres-G,New England College,NA,11/4/12,687,Democrat,50,Republican,46,NA,4,11/6/12,51.98,46.4,5.58,1.58,-1.58,1,NA
+5386535,2012_Pres-G_NH,2012,NH,Pres-G,Pres-G,Public Policy Polling,NA,11/4/12,1550,Democrat,50,Republican,48,NA,2,11/6/12,51.98,46.4,5.58,3.58,-3.58,1,NA
+5386536,2012_Pres-G_NH,2012,NH,Pres-G,Pres-G,Rasmussen Reports/Pulse Opinion Research,NA,11/4/12,750,Democrat,50,Republican,48,NA,2,11/6/12,51.98,46.4,5.58,3.58,-3.58,1,NA
+5386537,2012_Pres-G_NH,2012,NH,Pres-G,Pres-G,TCJ Research,NA,11/4/12,1000,Democrat,49,Republican,49.3,NA,-0.3,11/6/12,51.98,46.4,5.58,5.88,-5.88,0,NA
+5386538,2012_Pres-G_NV,2012,NV,Pres-G,Pres-G,Public Policy Polling,NA,11/4/12,750,Democrat,51,Republican,47,NA,4,11/6/12,52.36,45.68,6.68,2.68,-2.68,1,NA
+5386539,2012_Pres-G_NV,2012,NV,Pres-G,Pres-G,TCJ Research,NA,11/4/12,1000,Democrat,51.2,Republican,47.1,NA,4.1,11/6/12,52.36,45.68,6.68,2.58,-2.58,1,NA
+5386540,2012_Pres-G_OH,2012,OH,Pres-G,Pres-G,Ipsos,NA,11/4/12,680,Democrat,50,Republican,46,NA,4,11/6/12,50.58,47.6,2.98,1.02,1.02,1,"previously listed as Ipsos, online"
+5386541,2012_Pres-G_OH,2012,OH,Pres-G,Pres-G,Public Policy Polling,NA,11/4/12,1000,Democrat,52,Republican,47,NA,5,11/6/12,50.58,47.6,2.98,2.02,2.02,1,NA
+5386542,2012_Pres-G_OH,2012,OH,Pres-G,Pres-G,Rasmussen Reports/Pulse Opinion Research,NA,11/4/12,750,Democrat,49,Republican,49,NA,0,11/6/12,50.58,47.6,2.98,2.98,-2.98,0.5,NA
+5386543,2012_Pres-G_OH,2012,OH,Pres-G,Pres-G,TCJ Research,NA,11/4/12,1000,Democrat,47.6,Republican,51,NA,-3.4,11/6/12,50.58,47.6,2.98,6.38,-6.38,0,NA
+5386544,2012_Pres-G_PA,2012,PA,Pres-G,Pres-G,TCJ Research,NA,11/4/12,1000,Democrat,50,Republican,48.3,NA,1.7,11/6/12,51.96,46.58,5.38,3.68,-3.68,1,NA
+5386545,2012_Pres-G_US,2012,US,Pres-G,Pres-G,CVOTER International,NA,11/4/12,3000,Democrat,49,Republican,48,NA,1,11/6/12,51.01,47.15,3.86,2.86,-2.86,1,NA
+5386546,2012_Pres-G_US,2012,US,Pres-G,Pres-G,Google Consumer Surveys,NA,11/4/12,2530,Democrat,44.8,Republican,44.5,NA,0.3,11/6/12,51.01,47.15,3.86,3.56,-3.56,1,NA
+5386547,2012_Pres-G_US,2012,US,Pres-G,Pres-G,Gravis Marketing,NA,11/4/12,872,Democrat,48,Republican,48,NA,0,11/6/12,51.01,47.15,3.86,3.86,-3.86,0.5,NA
+5386548,2012_Pres-G_US,2012,US,Pres-G,Pres-G,IBD/TIPP,NA,11/4/12,712,Democrat,50.3,Republican,48.7,NA,1.6,11/6/12,51.01,47.15,3.86,2.26,-2.26,1,NA
+5386549,2012_Pres-G_VA,2012,VA,Pres-G,Pres-G,Ipsos,NA,11/4/12,828,Democrat,48,Republican,46,NA,2,11/6/12,51.16,47.28,3.88,1.88,-1.88,1,"previously listed as Ipsos, online"
+5386550,2012_Pres-G_VA,2012,VA,Pres-G,Pres-G,Public Policy Polling,NA,11/4/12,975,Democrat,51,Republican,47,NA,4,11/6/12,51.16,47.28,3.88,0.12,0.12,1,NA
+5386561,2012_Pres-G_OH,2012,OH,Pres-G,Pres-G,Gravis Marketing,NA,11/5/12,1316,Democrat,49,Republican,48,NA,1,11/6/12,50.58,47.6,2.98,1.98,-1.98,1,NA
+5386562,2012_Pres-G_US,2012,US,Pres-G,Pres-G,Google Consumer Surveys,NA,11/5/12,3252,Democrat,45.2,Republican,42.9,NA,2.3,11/6/12,51.01,47.15,3.86,1.56,-1.56,1,NA
+5386563,2012_Pres-G_US,2012,US,Pres-G,Pres-G,TCJ Research,NA,11/5/12,1500,Democrat,46.5,Republican,50.8,NA,-4.3,11/6/12,51.01,47.15,3.86,8.16,-8.16,0,sample size not given; inferred from other polls by same group
